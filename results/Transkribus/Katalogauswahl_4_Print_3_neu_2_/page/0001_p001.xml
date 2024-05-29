@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_18:45</Creator>
+        <Created>2024-01-01T18:16:48.418+01:00</Created>
+        <LastChange>2024-01-09T18:45:30.788+01:00</LastChange>
+        <TranskribusMetadata docId="1738832" pageId="63170145" pageNr="1" tsid="144693628" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=AZEJTZSBLXWDJXREIKYAAKHR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FBSZTYSSQTUVIEIUZCYUNULA" imageId="50951197"/>
+    </Metadata>
+    <Page imageFilename="0001_p001.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716573783546" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="194,159 194,3505 2334,3505 2334,159"/>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:0;}">
+                <Coords points="866,1255 1315,1228 1513,1264 1567,1229 1675,1263 1676,1014 1635,996 1431,1025 1401,996 983,995 868,1027"/>
+                <Baseline points="874,1232 967,1230 998,1230 1028,1230 1059,1230 1090,1230 1120,1230 1151,1230 1181,1229 1212,1227 1243,1230 1273,1230 1304,1229 1334,1227 1365,1227 1396,1227 1426,1226 1457,1224 1519,1233 1611,1232 1679,1230"/>
+                <TextEquiv>
+                    <Unicode>HATALOG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:1;}">
+                <Coords points="1165,1331 1248,1331 1276,1343 1325,1325 1383,1338 1386,1242 1314,1225 1296,1238 1257,1238 1239,1251 1194,1236 1166,1239"/>
+                <Baseline points="1173,1313 1199,1311 1226,1311 1253,1313 1280,1313 1307,1312 1334,1311 1361,1309 1388,1307"/>
+                <TextEquiv>
+                    <Unicode>DER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:2;}">
+                <Coords points="750,1539 1851,1552 1849,1359 1796,1324 749,1315"/>
+                <Baseline points="758,1534 808,1534 859,1537 910,1538 961,1540 1012,1540 1063,1542 1114,1540 1165,1540 1216,1541 1267,1543 1317,1544 1368,1544 1419,1543 1470,1543 1521,1546 1572,1546 1623,1546 1674,1545 1725,1543 1854,1534"/>
+                <TextEquiv>
+                    <Unicode>WEIHNACHTS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:3;}">
+                <Coords points="693,1791 1861,1794 1861,1621 1718,1544 692,1573"/>
+                <Baseline points="701,1764 759,1761 817,1761 875,1761 933,1758 992,1758 1050,1758 1108,1761 1166,1758 1224,1758 1283,1755 1341,1760 1399,1760 1457,1761 1515,1762 1574,1764 1632,1764 1690,1764 1748,1767 1806,1767 1865,1767"/>
+                <TextEquiv>
+                    <Unicode>AUSSTELUNG.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:4;}">
+                <Coords points="995,1879 1554,1886 1554,1797 1503,1777 1216,1790 1048,1768 995,1785"/>
+                <Baseline points="1002,1875 1091,1868 1117,1868 1143,1867 1169,1866 1195,1865 1221,1865 1247,1871 1273,1868 1299,1868 1325,1869 1351,1871 1377,1870 1403,1868 1429,1868 1455,1867 1481,1866 1507,1864 1556,1871"/>
+                <TextEquiv>
+                    <Unicode>STEIER:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:5;}">
+                <Coords points="842,1999 999,1966 1051,1994 1111,1967 1346,2002 1662,1991 1669,1876 958,1889 923,1854 840,1865"/>
+                <Baseline points="850,1967 891,1967 932,1967 973,1967 1014,1965 1056,1964 1097,1966 1138,1967 1179,1968 1220,1969 1262,1968 1303,1970 1344,1967 1385,1967 1426,1967 1468,1967 1509,1967 1550,1969 1591,1970 1632,1970 1674,1970"/>
+                <TextEquiv>
+                    <Unicode>MHRKISCHER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:6;}">
+                <Coords points="792,2186 890,2235 1494,2206 1650,2238 1778,2161 1777,1991 1730,1969 1625,2005 791,1979"/>
+                <Baseline points="800,2151 906,2203 947,2203 989,2203 1030,2203 1071,2203 1113,2203 1154,2202 1195,2200 1237,2201 1278,2202 1319,2200 1361,2203 1402,2206 1443,2203 1485,2203 1526,2205 1567,2206 1609,2206 1650,2206 1718,2200 1781,2148"/>
+                <TextEquiv>
+                    <Unicode>KUNSTUEREIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
