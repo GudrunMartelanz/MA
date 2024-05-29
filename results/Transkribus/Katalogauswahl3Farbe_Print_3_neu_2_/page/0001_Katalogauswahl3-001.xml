@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:17</Creator>
+        <Created>2024-01-01T21:13:10.001+01:00</Created>
+        <LastChange>2024-01-09T19:17:07.906+01:00</LastChange>
+        <TranskribusMetadata docId="1738841" pageId="63170225" pageNr="1" tsid="144698872" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=OWFWBCHBIKZRJHANOOWSNDNT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IKIVTANJKAOMRQWIKMKTVHWO" imageId="50952180"/>
+    </Metadata>
+    <Page imageFilename="0001_Katalogauswahl3-001.jpg" imageWidth="1726" imageHeight="2455">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574651732" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="113,66 113,2454 1521,2454 1521,66"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="464,822 779,829 895,771 1223,790 1113,733 975,761 763,746 680,790 593,748 464,737"/>
+                <Baseline points="469,789 769,800 1001,793 1108,797 1158,797 1225,801"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_106" custom="readingOrder {index:1;}">
+                <Coords points="466,953 689,950 771,910 915,908 967,947 1199,957 1198,892 1143,880 560,889 514,851 465,867"/>
+                <Baseline points="471,896 744,895 970,900 1200,902"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_116" custom="readingOrder {index:2;}">
+                <Coords points="760,958 825,944 837,951 845,947 863,963 876,959 885,968 898,959 922,961 922,909 872,918 835,908 812,921 795,909 760,910"/>
+                <Baseline points="765,931 849,932 924,931"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_124" custom="readingOrder {index:3;}">
+                <Coords points="508,1014 831,1019 1031,990 1184,1048 1184,967 1142,958 508,950"/>
+                <Baseline points="513,988 822,994 1074,989 1186,992"/>
+                <TextEquiv>
+                    <Unicode>AT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_134" custom="readingOrder {index:4;}">
+                <Coords points="696,1073 788,1060 909,1075 935,1064 965,1074 963,1008 856,1007 831,1019 807,1006 781,1013 753,1003 716,1018 694,1010"/>
+                <Baseline points="700,1039 832,1046 965,1044"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_142" custom="readingOrder {index:5;}">
+                <Coords points="657,1140 738,1128 799,1156 823,1134 879,1136 920,1103 999,1102 999,1087 932,1064 885,1075 776,1061 709,1076 684,1096 658,1079"/>
+                <Baseline points="663,1109 831,1100 948,1102 1001,1101"/>
+                <TextEquiv>
+                    <Unicode>A  4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_152" custom="readingOrder {index:6;}">
+                <Coords points="751,1183 771,1181 806,1205 828,1199 858,1206 867,1215 900,1211 900,1137 824,1134 799,1155 764,1135 751,1138"/>
+                <Baseline points="756,1180 902,1180"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

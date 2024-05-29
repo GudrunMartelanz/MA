@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_19:01</Creator>
+        <Created>2024-01-01T21:13:10.248+01:00</Created>
+        <LastChange>2024-01-09T19:01:04.308+01:00</LastChange>
+        <TranskribusMetadata docId="1738694" pageId="63169422" pageNr="3" tsid="144696156" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=LLVVZWKNBCGXNBMYTARCBGCS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WIKXHZCERVQHNRRRROFYLMJT" imageId="50952182"/>
+    </Metadata>
+    <Page imageFilename="0003_Katalogauswahl3-003.jpg" imageWidth="1721" imageHeight="2449">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574637698" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="195,485 208,2448 1528,2448 1518,480"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="547,607 1312,608 1313,525 1037,515 962,543 548,513"/>
+                <Baseline points="552,590 590,586 628,586 666,587 704,587 742,586 780,588 818,587 856,587 894,588 933,587 971,587 1010,584 1047,588 1085,587 1123,586 1161,586 1199,586 1237,585 1275,584 1314,586"/>
+                <TextEquiv>
+                    <Unicode>Husstellungs=Komitee.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="849,700 878,712 908,701 930,711 957,697 981,705 1014,702 1013,633 995,645 974,640 961,651 948,641 922,651 895,632 849,645"/>
+                <Baseline points="854,684 881,684 908,684 935,684 962,684 989,685 1016,686"/>
+                <TextEquiv>
+                    <Unicode>Obmann:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="551,784 1236,779 1236,702 1168,693 551,711"/>
+                <Baseline points="556,750 590,750 624,749 658,749 692,748 726,748 760,748 794,748 828,748 862,748 897,748 931,748 965,748 999,748 1033,748 1067,746 1101,746 1135,746 1169,746 1203,747 1238,750"/>
+                <TextEquiv>
+                    <Unicode>Professor HLFRED VON SCHRÖTTER.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="833,850 919,855 933,864 953,854 971,864 1037,863 1036,794 1016,793 999,804 953,801 942,810 917,792 859,795 834,788"/>
+                <Baseline points="838,838 865,838 893,838 921,836 948,836 976,836 1004,837 1039,838"/>
+                <TextEquiv>
+                    <Unicode>Mitglieder:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="559,906 956,910 956,863 944,858 901,865 791,843 757,852 705,836 559,840"/>
+                <Baseline points="564,892 590,892 616,892 642,892 669,891 695,891 721,892 747,890 774,890 800,892 826,892 852,892 879,891 905,891 931,892 958,894"/>
+                <TextEquiv>
+                    <Unicode>CHRL BERGER, Maler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="547,959 1308,977 1296,897 547,911"/>
+                <Baseline points="552,946 589,946 627,944 665,944 703,944 741,944 779,944 817,944 855,944 893,946 931,945 968,944 1006,944 1044,943 1082,944 1120,944 1158,944 1196,944 1234,944 1272,944 1310,946"/>
+                <TextEquiv>
+                    <Unicode>LEOPOLD CERNY, Landes=Oberingenieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="553,1015 1014,1009 1014,970 972,961 553,960"/>
+                <Baseline points="558,998 583,998 608,997 634,996 659,997 685,998 710,998 736,998 761,998 787,998 812,998 837,998 863,998 888,996 914,996 939,996 965,996 990,997 1016,998"/>
+                <TextEquiv>
+                    <Unicode>HDOLF FIZIH, Hpotbeker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="553,1066 1188,1068 1180,1004 554,1016"/>
+                <Baseline points="558,1050 589,1050 621,1050 652,1050 684,1050 716,1050 747,1050 779,1049 810,1048 842,1049 874,1050 905,1050 937,1050 968,1049 1000,1049 1032,1048 1063,1048 1095,1048 1126,1048 1158,1048 1190,1050"/>
+                <TextEquiv>
+                    <Unicode>DR. OTHMAR MHLLITSCH, Stadtrat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="551,1136 1335,1127 1335,1082 1263,1052 1091,1078 552,1065"/>
+                <Baseline points="556,1104 593,1104 631,1104 668,1104 706,1104 743,1102 781,1102 818,1102 856,1102 893,1102 931,1102 968,1102 1006,1102 1032,1101 1056,1104 1081,1102 1118,1102 1156,1102 1193,1102 1231,1102 1268,1102 1292,1102 1321,1102 1336,1105"/>
+                <TextEquiv>
+                    <Unicode>DR. EMIL URANITSCH, Hof- und Gerichts¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="656,1186 679,1180 749,1183 760,1176 771,1186 794,1176 807,1185 832,1180 832,1138 797,1117 765,1123 748,1117 693,1121 657,1133"/>
+                <Baseline points="662,1160 688,1158 714,1157 740,1156 766,1156 792,1157 817,1157 834,1158"/>
+                <TextEquiv>
+                    <Unicode>advokat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="711,1282 884,1257 1066,1274 1162,1257 1156,1205 1088,1216 976,1195 934,1216 839,1195 789,1219 711,1199"/>
+                <Baseline points="716,1248 742,1246 768,1246 795,1246 821,1246 847,1246 874,1246 900,1246 926,1246 953,1246 979,1246 1005,1246 1032,1246 1058,1246 1084,1246 1111,1246 1137,1246 1164,1246"/>
+                <TextEquiv>
+                    <Unicode>Husstellungs=Kommissär:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="553,1350 1197,1354 1197,1269 942,1270 912,1290 847,1268 553,1277"/>
+                <Baseline points="558,1318 590,1318 622,1318 654,1320 686,1318 718,1319 750,1320 782,1319 814,1318 846,1318 878,1318 910,1319 942,1320 974,1320 1006,1318 1038,1318 1070,1318 1102,1318 1134,1318 1166,1319 1198,1320"/>
+                <TextEquiv>
+                    <Unicode>DR. WHLTER VON SEMETKOWSKI.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

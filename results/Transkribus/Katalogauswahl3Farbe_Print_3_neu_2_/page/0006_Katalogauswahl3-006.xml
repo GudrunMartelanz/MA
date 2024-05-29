@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:17</Creator>
+        <Created>2024-01-01T21:13:10.617+01:00</Created>
+        <LastChange>2024-01-09T19:17:08.962+01:00</LastChange>
+        <TranskribusMetadata docId="1738841" pageId="63170230" pageNr="6" tsid="144698886" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=LXVSDALFJVADZTUTGENUMOWK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LVZYWTDGBCIVSFDUNGMCCLUR" imageId="50952185"/>
+    </Metadata>
+    <Page imageFilename="0006_Katalogauswahl3-006.jpg" imageWidth="1718" imageHeight="2440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574653429" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="196,186 198,2439 1524,2439 1500,181"/>
+            <TextLine id="l_1261" custom="readingOrder {index:0;}">
+                <Coords points="747,346 761,346 779,328 783,328 788,333 794,333 794,272 787,273 784,270 776,272 765,261 760,261 753,255 747,255"/>
+                <Baseline points="754,307 797,306"/>
+                <TextEquiv>
+                    <Unicode>19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="229,424 400,406 496,424 731,411 731,366 639,367 520,335 431,332 367,354 300,333 229,346"/>
+                <Baseline points="236,402 262,400 288,400 314,400 340,400 367,398 393,398 419,398 445,398 471,398 498,398 524,398 550,398 576,398 602,398 629,398 655,398 681,398 707,398 734,400"/>
+                <TextEquiv>
+                    <Unicode>SCHUCH HERMINE in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="319,479 805,488 1000,451 1128,493 1324,487 1324,424 1199,388 1067,443 784,404 319,417"/>
+                <Baseline points="326,456 348,458 415,459 481,459 547,459 614,455 680,456 746,455 813,453 879,453 945,451 1011,451 1078,451 1144,453 1210,453 1277,452 1327,452"/>
+                <TextEquiv>
+                    <Unicode>223. Motiv aus Rothenburg Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="229,559 680,543 892,569 892,484 467,502 229,478"/>
+                <Baseline points="236,536 269,534 302,534 335,534 368,533 401,532 434,532 467,532 500,532 533,534 566,532 599,534 632,534 665,534 698,534 731,534 764,534 797,534 830,534 863,534 896,536"/>
+                <TextEquiv>
+                    <Unicode>ZEILLINGER HERMANN in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_615" custom="readingOrder {index:4;}">
+                <Coords points="308,596 1078,581 1327,615 1308,524 1038,572 308,555"/>
+                <Baseline points="315,591 367,588 434,589 500,589 566,589 633,585 699,586 765,585 832,583 898,583 964,581 1030,581 1097,581 1163,583 1229,583 1296,582 1330,582"/>
+                <TextEquiv>
+                    <Unicode>224. Früblingsabend Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_658" custom="readingOrder {index:5;}">
+                <Coords points="306,657 1026,635 1306,662 1280,604 775,631 308,596"/>
+                <Baseline points="314,646 380,643 447,644 513,644 579,644 646,640 712,641 778,640 845,638 911,638 977,636 1043,636 1110,636 1176,638 1242,638 1309,637"/>
+                <TextEquiv>
+                    <Unicode>225. Hkt am Wasser Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_701" custom="readingOrder {index:6;}">
+                <Coords points="315,706 1315,716 1315,663 1269,655 315,660"/>
+                <Baseline points="323,700 389,697 456,698 522,698 588,698 655,694 721,695 787,694 854,692 920,692 986,690 1052,690 1119,690 1185,692 1251,692 1318,691"/>
+                <TextEquiv>
+                    <Unicode>226. Anton Bruckner Original-Holzschnitt (Handdruck)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_744" custom="readingOrder {index:7;}">
+                <Coords points="323,765 670,778 704,744 1011,739 1322,775 1324,718 324,712"/>
+                <Baseline points="332,750 398,747 465,748 531,748 597,748 664,744 730,745 796,744 863,742 929,742 995,740 1061,740 1128,740 1194,742 1260,742 1327,741"/>
+                <TextEquiv>
+                    <Unicode>227. Der Ammersee Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_787" custom="readingOrder {index:8;}">
+                <Coords points="323,843 1053,802 1219,854 1326,837 1327,776 591,801 510,766 324,769"/>
+                <Baseline points="332,801 371,805 424,809 491,810 557,810 623,810 690,806 756,807 822,806 889,804 955,804 1021,802 1087,802 1154,802 1220,804 1286,804 1330,801"/>
+                <TextEquiv>
+                    <Unicode>228. Parktor Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:9;}">
+                <Coords points="229,932 342,894 882,919 942,901 942,830 815,818 771,843 627,818 229,843"/>
+                <Baseline points="236,882 271,882 306,882 342,882 377,882 413,882 448,882 483,882 519,882 554,882 590,882 625,882 660,882 696,882 731,882 767,882 802,884 837,884 873,884 908,884 944,884"/>
+                <TextEquiv>
+                    <Unicode>FOSSEL MARTHA ELISÄBETH in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_830" custom="readingOrder {index:10;}">
+                <Coords points="315,949 1335,955 1335,901 1188,877 1043,874 981,930 315,905"/>
+                <Baseline points="323,947 366,945 410,947 476,944 543,945 609,945 675,945 742,941 808,942 874,941 941,939 1007,939 1073,937 1139,937 1206,937 1272,939 1338,939"/>
+                <TextEquiv>
+                    <Unicode>229. Porträt Federzeichnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_873" custom="readingOrder {index:11;}">
+                <Coords points="309,1015 1002,986 1079,1035 1339,1015 1340,950 823,980 310,950"/>
+                <Baseline points="317,995 349,995 415,992 482,993 548,993 614,993 681,989 747,990 813,989 880,987 946,987 1012,985 1078,985 1145,985 1211,987 1277,987 1344,986"/>
+                <TextEquiv>
+                    <Unicode>230. Knabenbildnis Federzeichnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:12;}">
+                <Coords points="230,1083 296,1110 415,1083 731,1091 733,1018 684,1034 657,1017 612,1035 482,1033 465,1017 389,1039 348,1018 232,1031"/>
+                <Baseline points="238,1072 264,1072 290,1071 316,1070 342,1070 368,1070 394,1070 420,1070 446,1070 472,1068 499,1068 525,1068 551,1068 577,1068 603,1068 629,1070 655,1068 681,1070 707,1070 734,1072"/>
+                <TextEquiv>
+                    <Unicode>SCHUCH HERMINE in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_916" custom="readingOrder {index:13;}">
+                <Coords points="317,1151 1044,1120 1147,1168 1326,1157 1326,1091 1268,1076 785,1114 317,1093"/>
+                <Baseline points="324,1122 359,1126 426,1127 492,1127 558,1127 625,1123 691,1124 757,1123 824,1121 890,1121 956,1119 1022,1119 1089,1119 1155,1121 1221,1121 1288,1120 1329,1120"/>
+                <TextEquiv>
+                    <Unicode>231. Motiv aus Pirano Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:14;}">
+                <Coords points="230,1236 474,1217 725,1235 725,1166 676,1152 608,1173 524,1151 465,1165 364,1152 330,1173 254,1150 230,1163"/>
+                <Baseline points="238,1206 263,1206 289,1206 315,1206 341,1205 366,1204 392,1204 418,1204 444,1204 470,1204 495,1204 521,1204 547,1204 573,1204 599,1204 624,1204 650,1204 676,1204 702,1205 728,1206"/>
+                <TextEquiv>
+                    <Unicode>RICHTER BERTHA in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_959" custom="readingOrder {index:15;}">
+                <Coords points="305,1269 635,1293 1066,1263 1150,1312 1338,1297 1338,1236 1259,1204 1043,1253 782,1206 305,1233"/>
+                <Baseline points="312,1265 365,1266 419,1264 444,1264 498,1265 558,1263 612,1266 678,1267 744,1266 811,1264 877,1264 943,1262 1009,1262 1076,1262 1142,1264 1208,1264 1275,1263 1341,1263"/>
+                <TextEquiv>
+                    <Unicode>232. Ölbaumgruppe am Meer Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:16;}">
+                <Coords points="227,1365 458,1344 586,1367 901,1358 901,1302 864,1289 227,1280"/>
+                <Baseline points="234,1334 267,1332 301,1332 334,1332 368,1331 401,1330 435,1330 468,1330 502,1330 535,1330 569,1332 602,1332 636,1332 669,1332 703,1332 736,1332 770,1332 803,1332 837,1332 870,1332 904,1334"/>
+                <TextEquiv>
+                    <Unicode>ZEILLINGER HERMANN in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1002" custom="readingOrder {index:17;}">
+                <Coords points="319,1412 1078,1380 1152,1428 1318,1433 1318,1342 642,1375 319,1352"/>
+                <Baseline points="326,1386 393,1387 459,1387 525,1387 592,1383 658,1384 724,1383 791,1381 857,1381 923,1379 989,1379 1056,1379 1122,1381 1188,1381 1255,1380 1321,1380"/>
+                <TextEquiv>
+                    <Unicode>233. Möven Zeichnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:18;}">
+                <Coords points="227,1484 267,1490 295,1481 315,1491 330,1482 394,1478 413,1486 413,1424 398,1427 336,1409 310,1416 285,1436 251,1424 227,1432"/>
+                <Baseline points="234,1466 260,1466 286,1466 312,1466 338,1466 364,1466 390,1467 416,1470"/>
+                <TextEquiv>
+                    <Unicode>MONK W.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1045" custom="readingOrder {index:19;}">
+                <Coords points="313,1532 1302,1545 1320,1473 1199,1451 1091,1506 689,1512 561,1455 314,1487"/>
+                <Baseline points="320,1519 354,1523 421,1524 487,1524 553,1524 620,1520 686,1521 752,1520 819,1518 885,1518 951,1516 1017,1516 1084,1516 1150,1518 1216,1518 1283,1517 1322,1517"/>
+                <TextEquiv>
+                    <Unicode>234. The Spbinx Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1088" custom="readingOrder {index:20;}">
+                <Coords points="315,1596 594,1621 722,1571 1048,1566 1325,1606 1325,1536 734,1562 644,1527 315,1532"/>
+                <Baseline points="323,1574 367,1573 434,1574 500,1574 566,1574 633,1570 699,1571 765,1570 832,1568 898,1568 964,1566 1030,1566 1097,1566 1163,1568 1229,1568 1296,1567 1328,1563"/>
+                <TextEquiv>
+                    <Unicode>235. Salvation Army Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:21;}">
+                <Coords points="229,1680 389,1675 417,1665 449,1679 469,1674 469,1612 381,1599 353,1613 342,1604 313,1621 270,1604 229,1607"/>
+                <Baseline points="236,1656 262,1654 288,1654 314,1654 340,1654 367,1654 393,1654 419,1654 445,1654 472,1656"/>
+                <TextEquiv>
+                    <Unicode>SIMON F. T.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1131" custom="readingOrder {index:22;}">
+                <Coords points="315,1729 507,1764 806,1719 894,1757 1002,1727 1269,1759 1326,1741 1327,1649 820,1690 712,1651 315,1674"/>
+                <Baseline points="322,1714 374,1712 422,1716 489,1717 555,1717 621,1717 688,1713 754,1714 820,1713 887,1711 953,1711 1019,1709 1085,1709 1152,1709 1218,1711 1284,1711 1329,1710"/>
+                <TextEquiv>
+                    <Unicode>236. Venice, effet de nuit Farbige Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:23;}">
+                <Coords points="227,1810 264,1797 299,1812 317,1799 389,1800 402,1809 433,1803 431,1739 415,1732 398,1741 388,1734 362,1750 323,1738 303,1743 277,1729 241,1743 225,1738"/>
+                <Baseline points="234,1786 259,1786 284,1786 309,1786 335,1786 360,1786 385,1788 410,1788 436,1790"/>
+                <TextEquiv>
+                    <Unicode>GREIVE C.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1174" custom="readingOrder {index:24;}">
+                <Coords points="314,1858 527,1889 688,1840 802,1868 997,1830 1130,1886 1299,1882 1315,1793 1136,1777 984,1821 888,1784 824,1824 731,1788 623,1819 466,1775 315,1799"/>
+                <Baseline points="323,1840 389,1837 456,1838 522,1838 588,1838 655,1834 721,1835 787,1834 854,1832 920,1832 986,1830 1052,1830 1119,1830 1185,1832 1251,1832 1318,1831"/>
+                <TextEquiv>
+                    <Unicode>237. Amsterdam Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:25;}">
+                <Coords points="225,1944 337,1947 357,1934 390,1943 445,1931 476,1945 476,1886 465,1882 411,1891 368,1873 323,1889 286,1878 270,1886 225,1880"/>
+                <Baseline points="232,1924 259,1922 287,1922 314,1921 342,1920 369,1920 397,1920 424,1920 452,1920 480,1922"/>
+                <TextEquiv>
+                    <Unicode>SYNGE E. M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1217" custom="readingOrder {index:26;}">
+                <Coords points="314,2009 825,2014 977,1975 1024,2010 1071,1978 1297,2021 1315,1920 1232,1903 951,1963 546,1906 470,1944 315,1936"/>
+                <Baseline points="323,1985 389,1982 456,1983 522,1983 588,1983 655,1979 721,1980 787,1979 854,1977 920,1977 986,1975 1052,1975 1119,1975 1185,1977 1251,1977 1318,1976"/>
+                <TextEquiv>
+                    <Unicode>238. Interior of San Francesco Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_19:01</Creator>
+        <Created>2024-01-01T21:13:10.120+01:00</Created>
+        <LastChange>2024-01-09T19:01:04.150+01:00</LastChange>
+        <TranskribusMetadata docId="1738694" pageId="63169421" pageNr="2" tsid="144696155" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=QVVSOBPBBTPDGLHFJTIOJASG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VNGIIGWBPNVLQURCZYVODLKG" imageId="50952181"/>
+    </Metadata>
+    <Page imageFilename="0002_Katalogauswahl3-002.jpg" imageWidth="1727" imageHeight="2445">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574637502" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="212,334 212,2444 1528,2444 1524,325"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="304,446 806,426 1259,455 1259,326 1196,360 304,340"/>
+                <Baseline points="310,418 357,415 405,414 452,414 500,414 548,414 595,414 643,414 690,414 738,414 786,414 833,416 881,416 928,416 976,416 1024,416 1071,416 1119,416 1166,416 1214,416 1262,418"/>
+                <TextEquiv>
+                    <Unicode>STEIERMÄRKISCHER KUNSTVEREIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="649,519 686,534 745,515 778,537 798,524 812,535 905,525 904,443 874,432 829,442 778,442 762,431 741,443 668,432 648,440"/>
+                <Baseline points="656,488 681,486 706,486 731,486 756,488 782,488 807,488 832,488 857,488 882,488 908,486"/>
+                <TextEquiv>
+                    <Unicode>IN GRHZ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_194" custom="readingOrder {index:2;}">
+                <Coords points="715,815 756,802 768,810 790,799 809,810 829,803 843,811 870,804 868,720 815,709 796,717 754,685 737,689 714,679"/>
+                <Baseline points="721,788 746,790 772,790 797,790 822,790 847,790 872,790"/>
+                <TextEquiv>
+                    <Unicode>110.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="319,992 574,1002 660,971 827,1003 903,965 1145,1008 1259,964 1259,840 319,822"/>
+                <Baseline points="326,940 368,940 411,940 454,940 496,940 539,940 582,942 624,940 678,943 710,942 753,942 795,942 838,941 881,942 923,942 966,940 1009,942 1051,942 1094,940 1137,942 1261,941"/>
+                <TextEquiv>
+                    <Unicode>HUSSTELLUNG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="493,1154 648,1139 704,1163 904,1141 1045,1160 1076,1138 1076,1065 1042,1052 939,1055 917,1075 865,1040 821,1060 693,1063 618,1039 493,1055"/>
+                <Baseline points="500,1126 528,1126 557,1124 584,1124 617,1126 644,1125 669,1125 696,1125 731,1126 760,1126 789,1126 817,1126 846,1126 875,1126 904,1126 933,1126 962,1126 991,1126 1020,1127 1049,1128 1078,1128"/>
+                <TextEquiv>
+                    <Unicode>FRÜHJHHR 1910.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="493,1219 568,1258 668,1253 716,1223 803,1270 912,1226 1053,1259 1070,1256 1069,1159 492,1153"/>
+                <Baseline points="498,1192 521,1193 545,1192 573,1195 591,1196 611,1196 629,1195 648,1193 671,1196 700,1196 729,1196 756,1197 779,1195 814,1196 838,1196 859,1199 878,1197 900,1197 929,1198 957,1198 986,1196 1014,1196 1043,1198 1072,1196"/>
+                <TextEquiv>
+                    <Unicode>(ERÖFFNET HM 7. HPRIL 1910)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="481,2031 659,2004 687,2026 805,2007 955,2045 1076,2029 1076,1951 1046,1942 985,1956 921,1919 804,1914 752,1949 600,1936 531,1905 481,1919"/>
+                <Baseline points="488,1988 517,1988 547,1988 576,1988 606,1988 635,1988 665,1988 694,1988 724,1988 753,1988 783,1986 812,1988 842,1988 871,1988 901,1988 930,1988 960,1988 989,1988 1019,1988 1048,1989 1078,1988"/>
+                <TextEquiv>
+                    <Unicode>DEUTSCHE VEREINS-DRUCKEREI GRHZ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
