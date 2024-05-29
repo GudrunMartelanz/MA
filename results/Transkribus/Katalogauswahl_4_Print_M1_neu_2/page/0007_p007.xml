@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_18:37</Creator>
+        <Created>2024-01-01T18:16:50.093+01:00</Created>
+        <LastChange>2024-01-09T18:37:46.546+01:00</LastChange>
+        <TranskribusMetadata docId="1738703" pageId="63169503" pageNr="7" tsid="144692493" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=WJZPDYTZNRZSNTUGHVFTWJUR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NZZVHUXSYEKSQNSOGDESJPYG" imageId="50951203"/>
+    </Metadata>
+    <Page imageFilename="0007_p007.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716573769445" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="188,452 188,3502 2277,3502 2277,452"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1308,554 1340,544 1370,560 1402,532 1414,532 1408,426 1382,432 1360,428 1350,434 1340,424 1328,436 1302,442"/>
+                <Baseline points="1316,498 1349,500 1382,501 1415,504"/>
+                <TextEquiv>
+                    <Unicode>14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="514,723 802,675 966,707 1006,681 1069,701 1115,673 1258,683 1258,595 1233,585 1022,601 908,569 850,603 765,569 683,611 514,585"/>
+                <Baseline points="525,665 561,662 598,662 635,662 672,660 709,659 746,659 782,659 819,659 856,659 893,659 930,659 967,658 1004,657 1040,659 1077,656 1114,658 1151,659 1188,659 1225,659 1262,659"/>
+                <TextEquiv>
+                    <Unicode>Leopold Cerny in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="627,802 2001,773 2001,621 1511,619 1292,699 627,705"/>
+                <Baseline points="638,761 706,761 774,758 843,758 911,758 980,755 1048,755 1116,755 1185,755 1253,755 1322,753 1390,752 1458,752 1527,754 1595,752 1664,751 1732,752 1800,751 1869,749 1937,750 2006,746"/>
+                <TextEquiv>
+                    <Unicode>91. Friede den Toten. Grabmal in Kunststein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="753,850 1955,862 2087,904 2155,882 2157,751 2025,791 753,779"/>
+                <Baseline points="764,835 833,834 903,832 973,831 1043,832 1113,832 1183,832 1252,832 1322,831 1392,829 1462,829 1532,826 1602,826 1672,826 1741,825 1811,826 1881,824 1951,824 2021,824 2091,824 2161,824"/>
+                <TextEquiv>
+                    <Unicode>Laternen in Kupfer ausgeführt von der Kunstschlosserei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="759,936 800,930 824,942 846,924 870,940 926,938 938,926 964,940 1018,920 1111,918 1111,856 920,864 892,854 862,868 798,850 759,864"/>
+                <Baseline points="770,901 796,901 823,901 849,901 876,901 903,901 929,901 956,901 982,899 1009,899 1036,901 1062,901 1089,901 1116,901"/>
+                <TextEquiv>
+                    <Unicode>Gebrüder Kerl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="627,1035 1782,1014 2170,1049 2170,914 1424,902 1306,952 627,914"/>
+                <Baseline points="638,1003 714,1000 791,1000 868,995 945,997 1022,995 1099,997 1176,997 1253,996 1330,997 1407,994 1483,994 1560,992 1637,991 1714,991 1791,990 1868,991 1945,988 2022,990 2099,988 2176,988"/>
+                <TextEquiv>
+                    <Unicode>92 und 93. Pläne zum Gruftdenkmal der Familie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="751,1139 2015,1141 2093,1121 2095,1037 753,1037"/>
+                <Baseline points="761,1101 827,1098 894,1095 961,1096 1028,1095 1095,1093 1162,1095 1228,1093 1295,1095 1362,1093 1429,1092 1496,1092 1563,1092 1630,1090 1696,1089 1763,1089 1830,1086 1897,1087 1964,1086 2031,1089 2098,1089"/>
+                <TextEquiv>
+                    <Unicode>Eustacchio auf dem Zentralfriedhof in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="629,1254 796,1213 980,1251 1834,1207 2161,1237 2161,1117 629,1141"/>
+                <Baseline points="641,1200 717,1198 793,1199 869,1197 945,1195 1021,1195 1097,1196 1174,1194 1250,1194 1326,1194 1402,1194 1478,1193 1554,1193 1630,1191 1707,1188 1783,1188 1859,1187 1935,1188 2011,1188 2087,1188 2164,1188"/>
+                <TextEquiv>
+                    <Unicode>94. Photographie des ausgeführten Gruftdenkmales.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="757,1354 1089,1328 1225,1378 2059,1388 2045,1223 757,1245"/>
+                <Baseline points="767,1301 831,1296 896,1295 961,1294 1026,1292 1091,1295 1155,1295 1220,1294 1285,1294 1350,1295 1415,1294 1479,1292 1544,1292 1609,1292 1674,1291 1739,1289 1803,1288 1868,1288 1933,1289 1998,1289 2063,1292"/>
+                <TextEquiv>
+                    <Unicode>(Grauer Granit. Hofsteinmetzmeister Franz)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="524,1519 679,1485 733,1517 779,1479 1418,1515 1507,1499 1509,1398 1093,1360 862,1396 526,1380"/>
+                <Baseline points="537,1456 585,1456 634,1455 683,1453 732,1451 781,1452 829,1451 878,1450 927,1453 976,1453 1025,1450 1073,1450 1122,1450 1171,1450 1220,1450 1269,1450 1317,1448 1366,1447 1415,1449 1464,1450 1513,1453"/>
+                <TextEquiv>
+                    <Unicode>Marie Baronin Baselli in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:10;}">
+                <Coords points="659,1575 902,1629 1252,1591 1597,1647 1882,1611 2162,1643 2200,1619 2204,1448 1844,1543 1077,1543 914,1478 659,1493"/>
+                <Baseline points="671,1568 747,1566 823,1567 899,1565 975,1563 1051,1563 1127,1564 1204,1562 1280,1562 1356,1562 1432,1562 1508,1561 1584,1561 1660,1559 1737,1556 1813,1556 1889,1555 1965,1556 2070,1539 2103,1540 2160,1538 2207,1539"/>
+                <TextEquiv>
+                    <Unicode>95. Stilleben Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="524,1770 783,1730 1153,1762 1225,1722 1667,1734 1710,1726 1712,1623 526,1627"/>
+                <Baseline points="534,1710 593,1710 652,1707 719,1706 751,1708 781,1699 814,1715 856,1710 888,1707 947,1707 1006,1704 1065,1704 1125,1702 1184,1704 1243,1703 1302,1703 1361,1704 1420,1701 1479,1701 1538,1701 1597,1701 1656,1701 1716,1701"/>
+                <TextEquiv>
+                    <Unicode>Karl O'Lynch von Town in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_483" custom="readingOrder {index:12;}">
+                <Coords points="633,1866 2190,1874 2192,1710 2085,1714 2001,1788 1778,1716 1605,1760 1442,1726 1167,1766 635,1750"/>
+                <Baseline points="644,1820 720,1818 787,1808 875,1811 950,1812 1031,1811 1100,1816 1177,1814 1253,1814 1329,1814 1405,1814 1481,1813 1557,1813 1633,1811 1710,1808 1786,1808 1862,1807 1938,1808 2014,1808 2097,1794 2135,1794 2198,1793"/>
+                <TextEquiv>
+                    <Unicode>96. Die Fähre in Frickenhausen am Main Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:13;}">
+                <Coords points="526,1999 1832,2001 1834,1886 1563,1916 1338,1874 528,1884"/>
+                <Baseline points="537,1964 602,1964 667,1964 732,1961 797,1961 862,1961 927,1961 992,1961 1057,1959 1122,1958 1188,1960 1253,1961 1318,1961 1383,1959 1448,1958 1513,1958 1578,1957 1643,1955 1708,1955 1773,1958 1839,1952"/>
+                <TextEquiv>
+                    <Unicode>Friederike Koch von Langentreu in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_526" custom="readingOrder {index:14;}">
+                <Coords points="619,2081 1336,2139 1388,2103 1639,2141 2025,2119 2067,2161 2206,2109 2190,1967 2021,2037 1430,2043 1083,1985 621,2005"/>
+                <Baseline points="631,2068 707,2066 783,2067 859,2065 935,2063 1011,2063 1087,2064 1164,2062 1240,2062 1316,2062 1392,2062 1468,2061 1544,2061 1620,2059 1697,2056 1773,2056 1849,2055 1925,2056 2001,2056 2100,2053 2175,2051 2211,2054"/>
+                <TextEquiv>
+                    <Unicode>97. Auf der Terrasse Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:15;}">
+                <Coords points="526,2248 928,2242 960,2266 1025,2234 1073,2268 1300,2246 1300,2141 980,2141 934,2174 868,2151 804,2178 755,2131 645,2162 526,2129"/>
+                <Baseline points="537,2221 575,2218 613,2218 652,2218 690,2217 728,2215 767,2218 805,2218 843,2218 882,2216 920,2215 958,2216 997,2218 1035,2215 1073,2215 1112,2215 1150,2215 1188,2215 1227,2215 1265,2215 1304,2215"/>
+                <TextEquiv>
+                    <Unicode>Felix Kraus in Filzmoos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_569" custom="readingOrder {index:16;}">
+                <Coords points="655,2380 1247,2378 1374,2320 1531,2372 1762,2312 2200,2354 2202,2226 2113,2214 1870,2300 1414,2306 1300,2240 657,2256"/>
+                <Baseline points="667,2325 743,2323 819,2324 895,2322 971,2320 1047,2320 1123,2321 1200,2319 1276,2319 1352,2319 1428,2319 1504,2318 1580,2318 1656,2316 1733,2313 1809,2313 1885,2312 1961,2313 2057,2300 2120,2308 2167,2308 2208,2308"/>
+                <TextEquiv>
+                    <Unicode>98. Gewitterlandschaft Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:17;}">
+                <Coords points="526,2567 697,2501 767,2539 1129,2505 1718,2561 1718,2380 1229,2429 810,2374 526,2397"/>
+                <Baseline points="537,2489 596,2489 655,2488 714,2486 753,2486 794,2487 833,2486 892,2489 951,2487 1011,2486 1070,2486 1129,2484 1188,2486 1248,2485 1307,2483 1366,2483 1425,2483 1485,2483 1544,2483 1603,2483 1662,2483 1722,2480"/>
+                <TextEquiv>
+                    <Unicode>Karl O'Lynch von Town in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:18;}">
+                <Coords points="633,2642 856,2670 956,2646 1213,2658 1268,2628 1270,2517 1109,2537 1067,2511 1010,2543 635,2517"/>
+                <Baseline points="644,2591 675,2589 706,2588 738,2588 769,2588 800,2588 832,2588 863,2588 894,2588 926,2587 957,2585 988,2587 1020,2587 1051,2585 1082,2585 1114,2585 1145,2584 1176,2582 1208,2584 1239,2585 1271,2585"/>
+                <TextEquiv>
+                    <Unicode>99. Kanal in Brügge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:19;}">
+                <Coords points="532,2818 683,2764 1481,2766 1557,2816 1850,2788 1852,2628 1804,2611 1595,2648 1332,2611 1155,2692 1097,2656 960,2692 534,2676"/>
+                <Baseline points="543,2746 608,2743 674,2743 739,2743 805,2743 870,2740 936,2743 1001,2743 1067,2742 1132,2740 1198,2742 1264,2743 1329,2740 1395,2740 1460,2740 1526,2740 1591,2737 1657,2740 1722,2740 1788,2740 1854,2743"/>
+                <TextEquiv>
+                    <Unicode>Friederike Koch von Langentreu in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_612" custom="readingOrder {index:20;}">
+                <Coords points="587,2929 890,2885 1438,2947 1585,2901 2164,2899 2188,2754 2137,2736 1987,2834 1714,2800 1663,2838 1428,2838 1107,2770 589,2788"/>
+                <Baseline points="600,2864 707,2859 783,2860 859,2858 935,2856 1011,2856 1087,2857 1164,2855 1240,2855 1316,2855 1392,2855 1468,2854 1544,2854 1620,2852 1697,2849 1773,2849 1849,2848 1925,2849 2001,2849 2057,2837 2112,2838 2159,2836 2192,2838"/>
+                <TextEquiv>
+                    <Unicode>100. Bauernblumen Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
