@@ -54,8 +54,8 @@ This project includes the following documentations:
 2. `ocr4all.docx` : Contains the used settings for the training models in OCR4all.
 
 ## How to Run
-For [Tesseract] (https://github.com/tesseract-ocr/tesseract/tree/main) you will need Tesseract OCR and the required packages (including "deu.traineddata") installed. Tesseract requires command line usage. Please ensure that you copy the source material into the respective directory.
-For [OCR4all] (https://www.ocr4all.org/guide/setup-guide/windows) you will need docker and the required OCR4all packages installed.
-For [Transkribus] (https://www.transkribus.org/de) you will need to register on the respective platform.
+For Tesseract you will need Tesseract OCR and the required packages (including "deu.traineddata") installed. Tesseract requires command line usage. Please ensure that you copy the source material into the respective directory.
+For OCR4all you will need docker and the required OCR4all packages installed.
+For Transkribus you will need to register on the respective platform.
 ## License 
 The main part of the project is distributed under the CC-BY-4.0 License. The source material is distributed by Steiermärkische Landesbibliothek under CC BY-NC-SA AT 2018 www.landesbibliothek.steiermark.at. See each LICENSE.txt in the respective folder for more information.
