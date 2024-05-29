@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_18:58</Creator>
+        <Created>2024-01-01T21:15:21.782+01:00</Created>
+        <LastChange>2024-01-09T18:58:24.855+01:00</LastChange>
+        <TranskribusMetadata docId="1738697" pageId="63169447" pageNr="4" tsid="144695738" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=VZFWZTPYNXTHTQAGZCBLFJCV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PSGRXUQFGEDDCISVQYZWNPKK" imageId="50952209"/>
+    </Metadata>
+    <Page imageFilename="0004_Katalogauswahl4-004g.jpg" imageWidth="1554" imageHeight="2206">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574480584" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="116,536 116,2205 1436,2205 1436,536"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="171,601 309,576 335,591 453,579 517,598 657,593 657,537 608,520 375,535 351,517 311,535 171,513"/>
+                <Baseline points="178,568 203,566 228,566 254,567 279,567 304,566 330,566 355,566 380,567 406,567 431,567 457,568 482,566 507,566 533,566 558,566 583,566 609,566 634,566 660,566"/>
+                <TextEquiv>
+                    <Unicode>Oskar Graf in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:1;}">
+                <Coords points="258,639 509,676 702,621 1231,637 1203,559 1127,610 259,590"/>
+                <Baseline points="266,630 352,628 418,628 484,626 550,625 616,624 682,622 748,620 814,620 880,620 946,619 1012,620 1078,620 1130,625 1174,626 1196,627 1214,626 1234,627"/>
+                <TextEquiv>
+                    <Unicode>1. Abendspaziergang Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="173,756 311,736 369,753 452,736 489,753 672,747 672,686 651,681 459,665 435,686 400,672 371,688 173,685"/>
+                <Baseline points="180,722 206,720 232,720 258,720 284,718 310,720 336,720 362,719 388,718 414,718 441,718 467,720 493,718 519,720 545,720 571,719 597,718 623,718 649,718 676,720"/>
+                <TextEquiv>
+                    <Unicode>Peter Bayer in Karlsruhe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_390" custom="readingOrder {index:3;}">
+                <Coords points="263,791 1122,774 1233,825 1233,736 1194,722 966,763 263,743"/>
+                <Baseline points="270,781 336,781 402,781 468,779 534,778 600,777 666,775 732,773 798,773 864,773 930,772 996,773 1062,773 1128,775 1162,777 1190,780 1216,780 1236,780"/>
+                <TextEquiv>
+                    <Unicode>2. Interieur Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="176,886 428,905 532,880 573,899 693,885 693,839 676,834 322,845 278,823 176,828"/>
+                <Baseline points="182,872 207,872 233,872 259,872 284,872 310,872 336,872 361,870 387,871 413,872 439,871 464,870 490,870 516,870 541,870 567,870 593,870 618,870 644,870 670,870 696,868"/>
+                <TextEquiv>
+                    <Unicode>Gotthard Kühl in Dresden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_433" custom="readingOrder {index:5;}">
+                <Coords points="273,957 746,929 1230,956 1231,870 1101,905 970,881 898,920 274,908"/>
+                <Baseline points="280,938 346,938 412,938 478,936 544,935 610,934 676,932 742,930 808,930 874,930 940,929 1006,930 1072,930 1138,932 1179,932 1199,933 1215,933 1233,933"/>
+                <TextEquiv>
+                    <Unicode>3. Vor der Schicht Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="317,1025 579,1002 736,1035 1201,1038 1203,947 1160,942 319,947"/>
+                <Baseline points="326,992 370,990 414,990 458,990 502,989 546,988 590,989 634,988 678,988 722,988 766,988 810,988 854,987 898,987 942,988 986,987 1030,986 1074,986 1118,986 1162,986 1206,984"/>
+                <TextEquiv>
+                    <Unicode>Eigentum der Verbindung für historische Kunst in Berlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="176,1101 738,1099 738,1043 644,1048 596,1016 403,1012 369,1032 278,1007 176,1043"/>
+                <Baseline points="182,1080 210,1078 238,1078 266,1078 294,1078 322,1076 350,1076 378,1078 406,1078 434,1078 462,1077 490,1076 518,1076 546,1076 574,1076 602,1076 630,1076 658,1076 686,1076 714,1076 742,1076"/>
+                <TextEquiv>
+                    <Unicode>Richard Dreher in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_476" custom="readingOrder {index:8;}">
+                <Coords points="273,1164 1236,1148 1224,1072 1119,1118 1072,1083 801,1074 672,1106 273,1099"/>
+                <Baseline points="280,1139 346,1139 412,1139 478,1137 544,1136 610,1135 676,1133 742,1131 808,1131 874,1131 940,1130 1006,1131 1072,1131 1138,1133 1181,1138 1197,1137 1223,1137 1239,1137"/>
+                <TextEquiv>
+                    <Unicode>4. Forti di Marmi Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:9;}">
+                <Coords points="177,1259 726,1249 754,1244 756,1158 575,1184 426,1169 340,1196 299,1167 265,1185 178,1172"/>
+                <Baseline points="184,1232 212,1230 241,1230 269,1230 298,1230 327,1229 355,1228 384,1228 412,1229 441,1229 470,1228 498,1229 527,1229 555,1228 584,1228 613,1228 641,1228 670,1228 698,1228 727,1228 756,1230"/>
+                <TextEquiv>
+                    <Unicode>Elfriede von Coltelli in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_519" custom="readingOrder {index:10;}">
+                <Coords points="273,1312 802,1321 876,1280 1236,1306 1208,1236 1129,1277 791,1240 273,1251"/>
+                <Baseline points="280,1288 346,1288 412,1288 478,1286 544,1285 610,1284 676,1282 742,1280 808,1280 874,1280 940,1279 1006,1280 1072,1280 1122,1286 1162,1289 1188,1290 1203,1290 1239,1290"/>
+                <TextEquiv>
+                    <Unicode>5. Oberbayrischer Bauernhof Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_562" custom="readingOrder {index:11;}">
+                <Coords points="269,1371 595,1393 701,1356 863,1379 1040,1347 1228,1377 1228,1315 1160,1295 269,1312"/>
+                <Baseline points="276,1356 354,1355 420,1355 486,1353 552,1352 618,1351 684,1349 750,1347 816,1347 882,1347 948,1346 1014,1347 1080,1347 1146,1349 1174,1350 1191,1351 1213,1352 1231,1352"/>
+                <TextEquiv>
+                    <Unicode>6. Spiegelnde Büsche Öl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_605" custom="readingOrder {index:12;}">
+                <Coords points="264,1447 692,1457 789,1409 976,1443 1231,1427 1231,1376 1158,1356 578,1404 265,1367"/>
+                <Baseline points="272,1416 302,1417 368,1417 434,1417 500,1415 566,1414 632,1413 698,1411 764,1409 830,1409 896,1409 962,1408 1028,1409 1097,1413 1151,1415 1194,1415 1217,1417 1235,1417"/>
+                <TextEquiv>
+                    <Unicode>7. Im Park Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_648" custom="readingOrder {index:13;}">
+                <Coords points="261,1494 1238,1492 1238,1433 1174,1426 261,1449"/>
+                <Baseline points="268,1478 309,1476 375,1476 441,1476 507,1474 573,1473 639,1472 705,1470 771,1468 837,1468 903,1468 969,1467 1035,1468 1095,1474 1131,1477 1163,1478 1187,1480 1208,1480 1224,1481 1241,1481"/>
+                <TextEquiv>
+                    <Unicode>8. Kletten Öl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_691" custom="readingOrder {index:14;}">
+                <Coords points="264,1555 1241,1559 1231,1492 264,1495"/>
+                <Baseline points="271,1547 313,1546 379,1546 445,1544 511,1543 577,1542 643,1540 709,1538 775,1538 841,1538 907,1537 973,1538 1039,1538 1105,1540 1137,1542 1166,1541 1193,1541 1209,1540 1225,1540 1245,1541"/>
+                <TextEquiv>
+                    <Unicode>9. Kastanien am Wasser Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_734" custom="readingOrder {index:15;}">
+                <Coords points="250,1637 1249,1640 1249,1570 1195,1557 1134,1595 549,1600 452,1556 250,1554"/>
+                <Baseline points="257,1611 323,1611 389,1611 455,1609 521,1608 587,1607 653,1605 719,1603 785,1603 851,1603 917,1602 983,1603 1049,1603 1088,1600 1125,1604 1151,1602 1174,1603 1195,1604 1214,1603 1229,1604 1252,1604"/>
+                <TextEquiv>
+                    <Unicode>10. Stilleben 61</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:16;}">
+                <Coords points="176,1733 438,1706 741,1719 741,1642 176,1646"/>
+                <Baseline points="182,1698 210,1696 238,1696 266,1696 294,1696 322,1694 350,1692 378,1694 406,1694 434,1694 463,1693 491,1692 519,1693 547,1693 575,1693 603,1694 631,1694 659,1694 687,1694 715,1694 744,1696"/>
+                <TextEquiv>
+                    <Unicode>Richard Dreher in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_777" custom="readingOrder {index:17;}">
+                <Coords points="250,1784 422,1813 1249,1784 1249,1731 1205,1707 931,1745 825,1712 250,1721"/>
+                <Baseline points="257,1764 323,1764 389,1764 455,1762 521,1761 587,1760 653,1758 719,1756 785,1756 851,1756 917,1755 983,1756 1049,1756 1115,1758 1156,1758 1196,1757 1218,1757 1252,1757"/>
+                <TextEquiv>
+                    <Unicode>11. Insel Palmaria Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

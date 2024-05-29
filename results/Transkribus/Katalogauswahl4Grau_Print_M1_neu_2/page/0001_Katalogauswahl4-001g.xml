@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_18:58</Creator>
+        <Created>2024-01-01T21:15:21.503+01:00</Created>
+        <LastChange>2024-01-09T18:58:24.254+01:00</LastChange>
+        <TranskribusMetadata docId="1738697" pageId="63169444" pageNr="1" tsid="144695734" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=WIYIDOPJWYPEXTAQRUAJKQYW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EJYAMPUDKBHKYGKSKENCIHOX" imageId="50952206"/>
+    </Metadata>
+    <Page imageFilename="0001_Katalogauswahl4-001g.jpg" imageWidth="1567" imageHeight="2221">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574479465" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="122,101 122,2220 1480,2220 1480,101"/>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="535,799 584,785 615,803 680,779 717,793 925,784 958,801 985,777 1010,785 1011,630 909,644 857,626 617,624 536,650"/>
+                <Baseline points="540,778 566,778 592,780 618,778 644,779 671,779 697,778 723,778 749,778 776,778 802,778 828,778 854,777 880,776 907,776 933,776 959,776 985,776 1012,776"/>
+                <TextEquiv>
+                    <Unicode>KATALO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:1;}">
+                <Coords points="725,839 758,849 771,843 798,844 807,851 838,838 876,843 875,786 827,778 791,784 783,792 761,779 734,790 724,788"/>
+                <Baseline points="730,832 759,830 789,830 818,832 848,830 878,832"/>
+                <TextEquiv>
+                    <Unicode>DER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:2;}">
+                <Coords points="467,972 1140,989 1138,839 466,832"/>
+                <Baseline points="472,970 505,970 539,972 572,975 606,975 639,975 673,976 706,976 740,974 773,978 807,976 840,978 874,977 907,977 941,978 974,978 1008,978 1041,978 1075,978 1108,978 1142,978"/>
+                <TextEquiv>
+                    <Unicode>WEIEINACHTS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:3;}">
+                <Coords points="439,1129 1148,1144 1180,1133 1180,1027 1083,981 916,1000 474,972 438,995"/>
+                <Baseline points="444,1114 480,1114 517,1116 554,1115 591,1116 628,1114 665,1114 702,1114 739,1114 776,1114 813,1114 849,1114 886,1114 923,1114 960,1114 997,1116 1034,1116 1071,1118 1108,1118 1145,1119 1182,1118"/>
+                <TextEquiv>
+                    <Unicode>AUSSTELUNG.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:4;}">
+                <Coords points="633,1191 948,1189 948,1128 703,1132 666,1119 633,1132"/>
+                <Baseline points="638,1180 664,1184 690,1184 716,1184 742,1183 768,1180 794,1182 820,1183 846,1184 872,1183 898,1182 924,1182 950,1182"/>
+                <TextEquiv>
+                    <Unicode>STEIER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:5;}">
+                <Coords points="529,1265 633,1245 666,1261 1053,1261 1053,1189 1026,1178 847,1198 529,1178"/>
+                <Baseline points="534,1246 560,1246 586,1245 612,1244 638,1244 664,1244 690,1244 716,1246 742,1246 768,1246 794,1246 820,1246 846,1246 872,1245 898,1244 924,1246 950,1244 976,1245 1002,1246 1028,1246 1054,1248"/>
+                <TextEquiv>
+                    <Unicode>MARKISCHER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:6;}">
+                <Coords points="536,1416 804,1396 843,1418 944,1396 1040,1419 1121,1379 1122,1256 1099,1248 974,1271 538,1264"/>
+                <Baseline points="542,1392 568,1394 594,1394 621,1394 647,1394 674,1394 700,1393 726,1392 753,1392 779,1394 806,1394 832,1394 858,1394 885,1394 911,1395 938,1396 964,1394 990,1394 1017,1396 1043,1395 1123,1371"/>
+                <TextEquiv>
+                    <Unicode>(NSTVEREN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

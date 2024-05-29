@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_18:58</Creator>
+        <Created>2024-01-01T21:15:21.962+01:00</Created>
+        <LastChange>2024-01-09T18:58:25.212+01:00</LastChange>
+        <TranskribusMetadata docId="1738697" pageId="63169449" pageNr="6" tsid="144695740" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=QFZICSTLDAIAXJDNPVFJFPIJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MNHIMPOAVCIWADKTQEGYUOTW" imageId="50952211"/>
+    </Metadata>
+    <Page imageFilename="0006_Katalogauswahl4-006g.jpg" imageWidth="1565" imageHeight="2211">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574481022" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="123,272 123,2210 1437,2210 1437,272"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="771,326 777,326 787,336 810,334 830,352 847,344 847,240 839,240 825,254 814,253 798,237 771,243"/>
+                <Baseline points="777,311 814,309 851,311"/>
+                <TextEquiv>
+                    <Unicode>12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="280,429 764,432 764,336 723,334 679,368 536,352 505,373 430,358 395,377 354,354 280,370"/>
+                <Baseline points="287,411 312,411 337,411 362,411 388,410 413,409 438,409 463,409 489,409 514,409 539,409 564,409 590,409 615,409 640,409 665,409 691,409 716,409 741,409 767,411"/>
+                <TextEquiv>
+                    <Unicode>Oskar Graf in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="359,494 577,512 1120,467 1327,491 1327,405 1236,458 359,434"/>
+                <Baseline points="366,475 413,473 461,473 509,471 557,471 605,471 653,470 701,469 749,469 797,469 845,469 892,468 940,469 988,469 1036,468 1084,467 1132,467 1180,467 1228,467 1251,469 1277,468 1295,468 1311,469 1330,468"/>
+                <TextEquiv>
+                    <Unicode>65. Landschaft Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_443" custom="readingOrder {index:3;}">
+                <Coords points="359,578 538,580 661,531 780,586 1325,544 1325,489 1211,518 1027,472 720,519 359,502"/>
+                <Baseline points="366,537 413,535 461,535 509,533 557,533 605,533 653,532 701,531 749,531 797,531 845,531 892,530 940,531 988,531 1036,530 1084,529 1132,529 1180,529 1227,527 1259,529 1287,530 1309,530 1328,531"/>
+                <TextEquiv>
+                    <Unicode>66. Rosen Öl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="284,655 1119,650 1119,560 1057,552 865,590 284,581"/>
+                <Baseline points="291,625 332,625 374,625 415,625 457,623 498,623 540,623 581,623 623,623 664,623 706,623 747,623 789,623 830,623 872,623 913,623 955,621 996,621 1038,621 1079,621 1121,621"/>
+                <TextEquiv>
+                    <Unicode>Friederike Koch von Langentreu in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_486" custom="readingOrder {index:5;}">
+                <Coords points="356,710 520,699 644,738 701,688 787,732 1228,688 1339,726 1340,638 1308,628 705,676 357,648"/>
+                <Baseline points="363,691 410,689 458,689 506,687 554,687 602,687 650,686 698,685 746,685 794,685 842,685 889,684 937,685 985,685 1033,684 1081,683 1129,683 1177,683 1230,684 1264,684 1291,683 1310,683 1327,684 1344,684"/>
+                <TextEquiv>
+                    <Unicode>67. Im Garten Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="284,799 536,793 645,813 872,795 865,718 717,751 284,726"/>
+                <Baseline points="291,781 320,779 349,778 378,777 407,777 437,777 466,777 495,776 524,776 553,777 583,776 612,775 641,775 670,777 699,775 729,775 758,775 787,775 816,775 845,775 875,775"/>
+                <TextEquiv>
+                    <Unicode>Alfred von Schrötter in Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_529" custom="readingOrder {index:7;}">
+                <Coords points="363,857 1340,871 1329,762 1240,808 1140,783 1058,820 363,801"/>
+                <Baseline points="370,842 417,840 465,840 513,838 561,838 609,838 657,837 705,836 753,836 801,836 849,836 896,835 944,836 992,836 1040,835 1088,834 1136,834 1184,834 1232,834 1270,836 1291,837 1308,836 1323,835 1342,835"/>
+                <TextEquiv>
+                    <Unicode>68. Heimkehr Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:8;}">
+                <Coords points="284,960 1016,964 1036,884 886,866 792,913 744,887 539,907 398,865 285,871"/>
+                <Baseline points="291,941 313,939 340,941 362,941 381,941 411,943 426,942 443,941 459,939 477,937 514,937 552,937 589,937 626,937 664,937 701,935 738,935 775,935 813,935 850,935 887,935 925,935 962,935 999,935 1037,937"/>
+                <TextEquiv>
+                    <Unicode>Karl O’Lynch von Town in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_572" custom="readingOrder {index:9;}">
+                <Coords points="367,1024 1350,1019 1333,934 1054,976 368,963"/>
+                <Baseline points="373,1005 420,1003 468,1003 516,1001 564,1001 612,1001 660,1000 708,999 756,999 804,999 852,999 899,998 947,999 995,999 1043,998 1091,997 1139,997 1187,997 1217,997 1243,995 1271,996 1292,998 1313,998 1334,997 1352,997"/>
+                <TextEquiv>
+                    <Unicode>69. Alpspitze bei Partenkirchen Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:10;}">
+                <Coords points="286,1117 868,1125 914,1115 915,1060 821,1060 722,1024 634,1064 591,1046 466,1063 311,1005 287,1022"/>
+                <Baseline points="293,1103 324,1101 355,1101 386,1101 417,1100 447,1103 473,1103 495,1104 518,1105 530,1103 554,1103 573,1099 605,1099 636,1098 667,1097 698,1096 729,1096 761,1097 792,1097 823,1097 854,1097 885,1097 917,1099"/>
+                <TextEquiv>
+                    <Unicode>Kollektion  Ludwig Willroider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_615" custom="readingOrder {index:11;}">
+                <Coords points="363,1188 1157,1155 1348,1187 1348,1111 1291,1106 363,1122"/>
+                <Baseline points="370,1159 417,1157 465,1157 513,1155 561,1155 609,1155 657,1154 705,1153 753,1153 801,1153 849,1153 896,1152 944,1153 992,1153 1040,1152 1088,1151 1141,1155 1183,1154 1228,1155 1261,1156 1295,1159 1314,1159 1328,1158 1351,1158"/>
+                <TextEquiv>
+                    <Unicode>70. Mooslandschaft Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:12;}">
+                <Coords points="358,1242 852,1239 969,1272 1348,1245 1348,1187 1247,1164 358,1195"/>
+                <Baseline points="365,1227 412,1225 460,1225 508,1223 556,1223 604,1223 652,1222 700,1221 748,1221 796,1221 844,1221 891,1220 939,1221 987,1221 1035,1220 1083,1219 1131,1219 1179,1219 1227,1219 1250,1221 1267,1222 1288,1224 1306,1223 1326,1224 1349,1224"/>
+                <TextEquiv>
+                    <Unicode>71. Blick von der Ambacher-Höhe auf den Starn¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_658" custom="readingOrder {index:13;}">
+                <Coords points="445,1314 658,1290 717,1314 774,1283 826,1318 1132,1334 1351,1293 1351,1250 1314,1238 1231,1270 445,1254"/>
+                <Baseline points="451,1287 499,1287 547,1285 595,1285 643,1285 691,1284 739,1283 787,1283 835,1283 883,1283 930,1282 978,1283 1026,1283 1074,1282 1122,1281 1170,1281 1218,1281 1244,1283 1295,1283 1318,1284 1334,1284 1354,1285"/>
+                <TextEquiv>
+                    <Unicode>berger-See Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_701" custom="readingOrder {index:14;}">
+                <Coords points="363,1371 658,1384 731,1340 910,1339 992,1386 1119,1391 1356,1361 1340,1291 1072,1330 363,1306"/>
+                <Baseline points="370,1346 417,1344 465,1344 513,1342 561,1342 609,1342 657,1341 705,1340 753,1340 801,1340 849,1340 896,1339 944,1340 992,1340 1040,1339 1088,1338 1136,1338 1184,1338 1228,1343 1256,1344 1293,1346 1319,1346 1335,1346 1360,1346"/>
+                <TextEquiv>
+                    <Unicode>72. Dämmerung Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_744" custom="readingOrder {index:15;}">
+                <Coords points="367,1432 1093,1404 1292,1428 1344,1415 1345,1361 1089,1396 800,1397 705,1359 368,1376"/>
+                <Baseline points="373,1412 420,1410 468,1410 516,1408 564,1408 612,1408 660,1407 708,1406 756,1406 804,1406 852,1406 899,1405 947,1406 995,1406 1043,1405 1091,1404 1139,1404 1187,1404 1235,1404 1269,1406 1302,1408 1324,1408 1346,1409"/>
+                <TextEquiv>
+                    <Unicode>73. Weidengruppe I Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_830" custom="readingOrder {index:16;}">
+                <Coords points="375,1504 813,1498 867,1468 1356,1490 1356,1415 375,1432"/>
+                <Baseline points="382,1474 429,1472 477,1472 525,1470 573,1470 621,1470 669,1469 717,1468 765,1468 813,1468 861,1468 908,1467 956,1468 1004,1468 1052,1467 1100,1466 1148,1466 1196,1466 1240,1469 1289,1471 1320,1471 1336,1471 1360,1471"/>
+                <TextEquiv>
+                    <Unicode>74. Aufziehendes Wetter Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_873" custom="readingOrder {index:17;}">
+                <Coords points="367,1557 1356,1545 1356,1490 1089,1465 367,1504"/>
+                <Baseline points="373,1540 420,1538 468,1538 516,1536 564,1536 612,1536 660,1535 708,1534 756,1534 804,1534 852,1534 899,1533 947,1534 995,1534 1043,1533 1091,1532 1139,1532 1187,1532 1235,1532 1275,1534 1299,1534 1316,1534 1337,1534 1360,1531"/>
+                <TextEquiv>
+                    <Unicode>75. Herbstmorgen Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_916" custom="readingOrder {index:18;}">
+                <Coords points="368,1615 1342,1613 1342,1548 821,1587 368,1558"/>
+                <Baseline points="375,1601 422,1599 470,1599 518,1597 566,1597 614,1597 662,1596 710,1595 758,1595 806,1595 854,1595 901,1594 949,1595 997,1595 1045,1594 1093,1593 1141,1593 1189,1593 1237,1593 1273,1596 1296,1597 1320,1598 1345,1597"/>
+                <TextEquiv>
+                    <Unicode>76. Herbsttag Öl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_959" custom="readingOrder {index:19;}">
+                <Coords points="373,1687 1364,1671 1365,1610 1067,1645 681,1594 595,1638 374,1628"/>
+                <Baseline points="380,1661 427,1659 475,1659 523,1657 571,1657 619,1657 667,1656 715,1655 763,1655 811,1655 859,1655 906,1654 954,1655 1002,1655 1050,1654 1098,1653 1146,1653 1194,1653 1239,1656 1268,1658 1300,1659 1325,1659 1347,1659 1367,1659"/>
+                <TextEquiv>
+                    <Unicode>77. Motiv aus Südtirol Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1002" custom="readingOrder {index:20;}">
+                <Coords points="367,1752 1167,1713 1312,1740 1348,1732 1349,1670 1001,1712 368,1683"/>
+                <Baseline points="373,1727 420,1725 468,1725 516,1723 564,1723 612,1723 660,1722 708,1721 756,1721 804,1721 852,1721 899,1720 947,1721 995,1721 1043,1720 1091,1719 1140,1715 1184,1713 1219,1717 1259,1719 1298,1720 1321,1721 1351,1721"/>
+                <TextEquiv>
+                    <Unicode>78. Weiden am Bach Öl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1088" custom="readingOrder {index:21;}">
+                <Coords points="372,1822 801,1830 861,1796 899,1822 959,1785 1195,1784 1343,1827 1343,1735 1129,1776 372,1750"/>
+                <Baseline points="379,1792 426,1790 474,1790 522,1788 570,1788 618,1788 666,1787 714,1786 762,1786 810,1786 858,1786 905,1785 953,1786 1001,1786 1049,1785 1097,1784 1152,1785 1192,1785 1229,1785 1267,1786 1296,1784 1326,1786 1345,1786"/>
+                <TextEquiv>
+                    <Unicode>79. Am Starnberger-See Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
