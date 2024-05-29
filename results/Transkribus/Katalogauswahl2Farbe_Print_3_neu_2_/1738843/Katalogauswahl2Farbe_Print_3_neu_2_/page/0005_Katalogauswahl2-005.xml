@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:20</Creator>
+        <Created>2024-01-01T21:11:40.393+01:00</Created>
+        <LastChange>2024-01-09T19:20:29.768+01:00</LastChange>
+        <TranskribusMetadata docId="1738843" pageId="63170245" pageNr="5" tsid="144699574" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=LPJQPJASMUJNVETPWXLSYSFZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PZFLRJAENLMABMIBCJUECJMM" imageId="50952165"/>
+    </Metadata>
+    <Page imageFilename="0005_Katalogauswahl2-005.jpg" imageWidth="1269" imageHeight="1961">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574825897" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="148,299 148,1960 1022,1960 1022,299"/>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;}">
+                <Coords points="154,622 1019,617 1012,518 873,561 563,520 328,512 245,546 154,519"/>
+                <Baseline points="160,596 203,595 246,594 289,594 332,594 375,594 418,596 461,598 504,594 547,594 591,594 634,596 677,594 720,596 763,596 806,595 849,594 892,595 935,596 978,596 1022,600"/>
+                <TextEquiv>
+                    <Unicode>Gemälde, Zeichnungen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:1;}">
+                <Coords points="460,735 513,766 547,743 556,752 584,748 607,726 668,724 686,734 717,721 717,624 634,634 612,625 554,649 499,626 460,633"/>
+                <Baseline points="466,694 491,694 516,694 542,694 567,695 593,696 618,694 643,694 669,694 694,694 720,694"/>
+                <TextEquiv>
+                    <Unicode>Graphik.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:2;}">
+                <Coords points="150,819 175,813 214,834 255,818 303,818 319,833 391,816 413,832 443,822 443,752 317,755 282,742 251,757 223,755 208,740 150,746"/>
+                <Baseline points="156,802 182,802 208,802 235,802 261,801 287,800 314,801 340,802 366,802 393,800 419,802 446,802"/>
+                <TextEquiv>
+                    <Unicode>Wilda Charles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="214,914 335,913 397,863 833,887 891,865 1011,898 999,816 806,820 722,857 214,828"/>
+                <Baseline points="220,866 248,864 277,866 306,864 335,864 1014,866"/>
+                <TextEquiv>
+                    <Unicode>1. Neid Ö. 900 K</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="146,981 239,968 329,984 375,968 436,983 485,967 485,902 444,918 424,904 282,922 210,895 165,914 146,907"/>
+                <Baseline points="152,954 177,952 203,952 229,952 255,952 281,952 307,952 332,952 358,952 384,953 410,953 436,952 462,953 488,954"/>
+                <TextEquiv>
+                    <Unicode>Kaufmann Adolf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="216,1050 734,1035 853,1070 1008,1032 990,959 710,1005 649,978 455,1000 426,974 215,967"/>
+                <Baseline points="222,1016 247,1016 273,1016 298,1016 324,1016 349,1016 375,1016 400,1016 1010,1023"/>
+                <TextEquiv>
+                    <Unicode>2. Sommer Ö. 3000 „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:6;}">
+                <Coords points="142,1128 216,1133 236,1119 262,1133 289,1120 312,1133 383,1119 405,1132 446,1121 446,1060 405,1072 380,1061 333,1081 296,1067 243,1074 142,1056"/>
+                <Baseline points="148,1106 173,1104 198,1104 223,1104 248,1104 273,1104 298,1104 323,1104 348,1104 373,1104 398,1104 423,1105 448,1108"/>
+                <TextEquiv>
+                    <Unicode>Schwarz Adolf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:7;}">
+                <Coords points="214,1183 539,1201 612,1169 709,1207 772,1182 822,1208 891,1183 1013,1201 1012,1147 954,1124 724,1155 654,1129 584,1162 467,1107 370,1138 213,1128"/>
+                <Baseline points="218,1168 243,1166 268,1166 294,1166 319,1166 344,1166 370,1166 395,1166 421,1166 446,1166 471,1167 497,1168 522,1168 1016,1178"/>
+                <TextEquiv>
+                    <Unicode>3. Meer bei Bora Ö. 450 „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:8;}">
+                <Coords points="146,1275 166,1286 244,1274 271,1282 299,1269 469,1282 469,1214 430,1203 386,1221 335,1205 302,1217 258,1192 232,1208 207,1201 184,1220 146,1216"/>
+                <Baseline points="152,1258 178,1258 205,1256 232,1256 258,1256 285,1256 312,1256 338,1256 365,1256 392,1256 418,1256 445,1256 472,1256"/>
+                <TextEquiv>
+                    <Unicode>Quittner Rudolf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:9;}">
+                <Coords points="214,1351 540,1350 588,1325 681,1354 752,1330 1013,1351 1012,1297 896,1273 694,1310 487,1266 213,1282"/>
+                <Baseline points="220,1320 247,1318 274,1318 301,1318 328,1318 355,1318 382,1319 409,1320 436,1320 463,1320 490,1320 517,1320 1016,1327"/>
+                <TextEquiv>
+                    <Unicode>﻿4. Pariser Dächer Ö. 3000 „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:10;}">
+                <Coords points="146,1434 383,1427 402,1439 448,1425 448,1361 417,1350 340,1357 316,1376 191,1344 164,1369 146,1369"/>
+                <Baseline points="152,1408 179,1408 206,1408 233,1408 260,1408 287,1408 314,1408 341,1408 368,1408 395,1408 422,1408 450,1410"/>
+                <TextEquiv>
+                    <Unicode>Schwarz Adolf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:11;}">
+                <Coords points="211,1491 507,1517 551,1489 712,1483 871,1488 923,1522 1005,1503 1004,1461 932,1424 862,1453 820,1422 756,1466 502,1401 448,1440 210,1435"/>
+                <Baseline points="216,1470 241,1470 267,1471 293,1472 319,1472 344,1472 370,1472 396,1472 422,1472 448,1471 473,1471 499,1472 525,1472 551,1473 576,1474 602,1472 628,1472 654,1472 1008,1483"/>
+                <TextEquiv>
+                    <Unicode>5. Am Starhembergersee Ö. 500 „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:12;}">
+                <Coords points="142,1586 287,1572 407,1587 427,1574 483,1581 482,1515 413,1504 361,1526 305,1504 287,1512 269,1495 223,1516 180,1505 159,1523 141,1518"/>
+                <Baseline points="148,1562 174,1560 200,1560 226,1560 252,1560 278,1560 304,1560 330,1560 356,1560 382,1560 408,1560 434,1560 460,1562 486,1564"/>
+                <TextEquiv>
+                    <Unicode>Kaufmann Adolf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:13;}">
+                <Coords points="209,1677 312,1644 460,1679 521,1626 828,1672 1012,1653 1011,1583 964,1577 656,1587 618,1616 208,1581"/>
+                <Baseline points="214,1622 240,1622 266,1623 293,1623 319,1622 346,1623 372,1624 399,1624 425,1624 1012,1635"/>
+                <TextEquiv>
+                    <Unicode>6. Herbsttag Ö. 2000 „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:14;}">
+                <Coords points="872,1716 880,1717 882,1720 883,1718 893,1731 899,1731 908,1655 898,1655 896,1652 890,1656 880,1655"/>
+                <Baseline points="881,1699 895,1699 906,1696"/>
+                <TextEquiv>
+                    <Unicode>7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

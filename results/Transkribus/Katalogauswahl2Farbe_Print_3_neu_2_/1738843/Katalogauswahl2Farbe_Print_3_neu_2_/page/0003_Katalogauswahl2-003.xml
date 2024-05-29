@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:20</Creator>
+        <Created>2024-01-01T21:11:40.202+01:00</Created>
+        <LastChange>2024-01-09T19:20:29.468+01:00</LastChange>
+        <TranskribusMetadata docId="1738843" pageId="63170243" pageNr="3" tsid="144699572" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=LBSLTWPSFAZZHQULSUTFSXPN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JCZSMGYPKPFGHZMCDCJGPLRX" imageId="50952163"/>
+    </Metadata>
+    <Page imageFilename="0003_Katalogauswahl2-003.jpg" imageWidth="1275" imageHeight="1961">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574825147" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="254,517 254,1960 1078,1960 1078,517"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="413,572 694,584 741,564 866,589 967,570 967,487 810,508 772,493 703,519 602,487 508,486 413,511"/>
+                <Baseline points="418,556 445,552 473,552 500,552 528,552 556,552 583,552 611,552 638,552 666,552 694,552 721,552 749,551 776,550 804,551 832,552 859,552 887,552 914,552 942,552 970,554"/>
+                <TextEquiv>
+                    <Unicode>Ausstellungs-Komitee.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="610,662 626,667 645,655 658,655 668,665 681,658 694,664 706,655 734,675 763,675 763,603 727,617 699,615 689,623 646,602 628,612 610,607"/>
+                <Baseline points="616,644 641,644 666,643 691,642 716,643 741,644 766,646"/>
+                <TextEquiv>
+                    <Unicode>Obmann:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="248,738 685,753 734,716 838,761 1061,729 1061,652 989,626 722,683 439,647 248,671"/>
+                <Baseline points="254,716 294,714 335,714 375,714 416,714 456,714 497,712 537,713 578,712 618,714 659,712 699,712 740,712 780,713 821,712 861,712 902,712 942,712 983,712 1023,712 1064,712"/>
+                <TextEquiv>
+                    <Unicode>Herr Professor ALFRED v. SCHRÖTTER.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="296,825 971,838 971,751 936,737 889,761 670,750 572,779 488,750 380,780 296,765"/>
+                <Baseline points="302,810 335,808 369,808 402,808 436,808 470,808 503,808 537,808 570,808 604,808 638,808 671,808 705,808 738,808 772,808 806,808 839,808 873,808 906,808 940,809 974,810"/>
+                <TextEquiv>
+                    <Unicode>Herr Architekt LEOPOLD CERNY.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="296,889 335,903 459,891 648,912 728,903 719,835 296,841"/>
+                <Baseline points="302,882 327,880 352,880 377,879 402,879 427,880 453,880 478,878 503,879 528,879 553,879 578,880 604,880 629,878 654,879 679,880 704,881 730,882"/>
+                <TextEquiv>
+                    <Unicode>Herr KARL BERGER.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="298,975 469,964 607,983 652,964 814,963 814,906 645,923 534,899 489,916 458,901 298,914"/>
+                <Baseline points="304,952 329,950 355,950 380,950 406,950 432,950 457,950 483,950 508,950 534,950 560,950 585,950 611,950 636,950 662,950 688,950 713,950 739,950 764,950 790,950 816,950"/>
+                <TextEquiv>
+                    <Unicode>Herr VIKTOR KALMANN.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="300,1047 975,1048 967,961 655,986 473,967 393,996 300,975"/>
+                <Baseline points="306,1026 339,1022 373,1022 406,1022 440,1022 474,1022 507,1022 541,1022 574,1022 608,1021 642,1022 675,1022 709,1022 742,1022 776,1022 810,1021 843,1020 877,1020 910,1020 944,1022 978,1022"/>
+                <TextEquiv>
+                    <Unicode>Herr KONRAD v. SUPPANCHICH.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="294,1142 396,1111 434,1142 528,1120 556,1148 1076,1123 1067,1043 294,1048"/>
+                <Baseline points="300,1096 338,1094 377,1094 416,1094 455,1094 494,1094 533,1094 572,1094 611,1092 650,1093 689,1093 727,1094 766,1094 805,1094 844,1094 883,1094 922,1092 961,1093 1000,1092 1039,1092 1078,1096"/>
+                <TextEquiv>
+                    <Unicode>Herr Univ.-Professor FRANZ WINTER.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
