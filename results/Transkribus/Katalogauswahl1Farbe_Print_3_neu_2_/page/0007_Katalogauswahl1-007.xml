@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:22</Creator>
+        <Created>2024-01-01T21:09:29.883+01:00</Created>
+        <LastChange>2024-01-09T19:22:37.788+01:00</LastChange>
+        <TranskribusMetadata docId="1738845" pageId="63170263" pageNr="7" tsid="144699914" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=UQMTVTYFDNLEUFBDDMGWPOGY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UVJGVKOQDAOFPXBLPYREOROD" imageId="50952153"/>
+    </Metadata>
+    <Page imageFilename="0007_Katalogauswahl1-007.jpg" imageWidth="1509" imageHeight="2126">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716575011134" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="92,195 92,2125 1416,2125 1416,195"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="211,245 822,240 804,167 455,179 415,149 342,191 279,165 211,183"/>
+                <Baseline points="216,222 246,221 276,220 307,220 337,218 368,218 398,218 428,220 459,218 489,218 520,218 550,220 580,218 611,220 641,218 672,218 702,218 732,220 763,218 793,220 824,220"/>
+                <TextEquiv>
+                    <Unicode>Mediz Karl, Wien, dzt. Dresden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="281,296 922,287 1020,313 1019,239 280,241"/>
+                <Baseline points="286,278 322,274 359,272 396,272 433,272 470,272 506,272 543,272 580,272 617,271 654,270 690,272 727,272 764,273 801,273 838,274 874,274 911,274 948,274 985,274 1022,274"/>
+                <TextEquiv>
+                    <Unicode>217 Handzeichnung. Fischer aus Knocke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="369,335 477,351 500,333 520,348 557,334 571,344 608,345 607,295 558,294 544,306 502,292 485,299 437,288 426,297 368,291"/>
+                <Baseline points="374,328 400,326 426,324 452,324 478,325 505,326 531,326 557,326 583,326 610,326"/>
+                <TextEquiv>
+                    <Unicode>(Belgien). U.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="297,399 961,399 961,347 939,340 488,356 297,338"/>
+                <Baseline points="302,381 335,380 368,378 401,380 434,379 467,378 500,378 533,379 566,379 599,380 632,380 665,380 698,380 731,380 764,380 797,380 830,380 863,381 896,381 929,382 962,384"/>
+                <TextEquiv>
+                    <Unicode>218 Handzeichnung. Fischersfrau. U.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="283,453 997,463 997,395 283,397"/>
+                <Baseline points="288,438 323,436 359,433 394,433 430,434 465,434 501,434 536,433 572,432 607,433 643,432 678,432 714,434 749,434 785,434 820,434 856,436 891,436 927,436 962,436 998,438"/>
+                <TextEquiv>
+                    <Unicode>219 L. Porträt Frau Mediz-Pelikan. U.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="284,511 380,517 426,497 470,520 548,504 633,514 634,457 285,453"/>
+                <Baseline points="289,488 327,490 379,487 404,487 430,486 455,486 481,488 506,486 532,487 557,487 583,487 608,488 634,488"/>
+                <TextEquiv>
+                    <Unicode>220 L. Ebenso. U.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="211,595 298,574 900,575 884,508 638,529 612,508 409,530 211,512"/>
+                <Baseline points="216,562 250,562 284,562 318,561 353,560 387,560 421,560 456,560 490,560 524,559 559,560 593,560 627,559 661,560 696,560 730,558 764,560 799,560 833,560 867,560 902,562"/>
+                <TextEquiv>
+                    <Unicode>Mediz-Pelikan Emilie, dzt. Dresden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="335,658 502,632 738,664 818,639 998,656 1039,636 1039,594 334,585"/>
+                <Baseline points="340,621 373,622 407,622 441,621 475,621 509,622 543,622 577,620 611,622 645,622 679,622 712,622 746,622 780,622 814,622 848,622 882,622 916,624 950,624 984,624 1040,625"/>
+                <TextEquiv>
+                    <Unicode>1 Farbige Handzeichnung. Nebel(Tauern¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="371,696 438,690 475,698 488,688 533,687 570,699 642,695 642,645 632,641 599,639 581,653 531,636 476,654 452,639 435,647 418,638 406,647 371,641"/>
+                <Baseline points="376,676 402,676 429,676 456,676 483,676 510,676 536,676 563,676 590,676 617,678 644,678"/>
+                <TextEquiv>
+                    <Unicode>landschaft). U.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="285,778 446,742 742,772 886,741 941,760 1029,746 1030,688 923,686 872,720 736,674 642,704 286,692"/>
+                <Baseline points="290,735 332,737 399,728 432,728 465,728 498,729 532,730 565,730 598,730 631,728 664,728 698,728 731,728 764,730 797,730 830,729 864,728 897,728 930,730 963,730 996,730 1030,732"/>
+                <TextEquiv>
+                    <Unicode>222 Rötel-Zeichnung. Porträt Gertrud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="371,796 391,802 429,797 442,807 473,796 486,800 496,790 516,799 534,792 550,796 550,747 517,744 502,755 473,744 420,750 407,744 388,752 371,747"/>
+                <Baseline points="376,784 401,782 426,782 451,783 476,783 501,782 526,784 552,784"/>
+                <TextEquiv>
+                    <Unicode>Mediz. U.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="284,870 739,845 804,872 962,851 1024,869 1024,791 284,794"/>
+                <Baseline points="289,839 374,836 408,836 442,836 477,835 511,834 545,834 580,836 614,836 648,836 683,834 717,835 751,836 785,836 820,836 854,836 888,836 923,836 957,836 991,836 1026,836"/>
+                <TextEquiv>
+                    <Unicode>223 Kreide-Zeichnung. Abenddämmerung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="371,904 598,903 612,915 660,898 705,907 705,857 684,852 641,868 595,855 501,867 472,851 371,863"/>
+                <Baseline points="376,892 401,889 426,888 452,889 477,890 502,890 528,888 553,890 579,890 604,890 629,890 655,890 680,890 706,892"/>
+                <TextEquiv>
+                    <Unicode>(Weißpappeln). U.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:13;}">
+                <Coords points="287,962 604,958 630,978 685,962 725,986 797,956 846,966 845,899 554,918 286,907"/>
+                <Baseline points="292,941 352,940 378,941 404,942 430,942 456,942 482,942 508,942 534,942 560,942 587,942 613,942 639,941 665,940 691,942 717,942 743,944 769,944 795,944 821,944 848,944"/>
+                <TextEquiv>
+                    <Unicode>224 L. Porträt Karl Mediz. U.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:14;}">
+                <Coords points="217,1039 696,1029 703,978 581,969 559,984 439,966 402,988 218,966"/>
+                <Baseline points="222,1018 247,1016 272,1015 298,1014 323,1014 348,1014 374,1012 399,1014 424,1013 450,1012 475,1012 501,1012 526,1012 551,1012 577,1012 602,1012 627,1012 653,1013 678,1014 704,1012"/>
+                <TextEquiv>
+                    <Unicode>Menzel Adolf von, Berlin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:15;}">
+                <Coords points="279,1085 936,1096 936,1025 892,1014 758,1012 646,1043 279,1039"/>
+                <Baseline points="284,1071 360,1068 390,1068 421,1066 451,1066 482,1066 512,1066 542,1066 573,1066 603,1066 634,1066 664,1066 694,1066 725,1068 755,1068 786,1068 816,1066 846,1068 877,1068 907,1068 938,1068"/>
+                <TextEquiv>
+                    <Unicode>225 L. Christus im Tempel. 56 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:16;}">
+                <Coords points="371,1136 583,1127 612,1144 693,1127 877,1163 926,1154 926,1095 813,1082 753,1098 711,1080 632,1097 587,1077 420,1098 370,1078"/>
+                <Baseline points="376,1120 403,1120 431,1118 458,1119 486,1119 514,1118 541,1118 569,1118 596,1118 624,1118 652,1118 679,1118 707,1120 734,1120 762,1120 790,1120 817,1120 845,1120 872,1120 900,1121 928,1122"/>
+                <TextEquiv>
+                    <Unicode>L. Aus dem Armee-Werk:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:17;}">
+                <Coords points="288,1195 378,1181 411,1197 453,1183 574,1200 703,1182 763,1209 764,1138 437,1148 287,1130"/>
+                <Baseline points="292,1175 353,1172 379,1172 405,1172 431,1172 456,1172 482,1172 508,1172 534,1172 559,1172 585,1173 611,1174 637,1174 662,1174 688,1174 714,1174 740,1174 766,1176"/>
+                <TextEquiv>
+                    <Unicode>226 Landregiment. 41 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:18;}">
+                <Coords points="283,1246 369,1231 445,1258 493,1240 690,1245 689,1189 587,1192 566,1210 505,1190 283,1195"/>
+                <Baseline points="288,1226 352,1225 378,1226 404,1226 430,1226 456,1226 482,1226 509,1226 535,1226 561,1226 587,1226 613,1226 639,1227 665,1228 692,1226"/>
+                <TextEquiv>
+                    <Unicode>227 Grenadier. 41 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:19;}">
+                <Coords points="287,1300 694,1303 694,1248 679,1240 631,1254 595,1244 549,1284 497,1285 464,1261 412,1282 360,1242 287,1252"/>
+                <Baseline points="292,1291 356,1290 382,1291 408,1291 434,1291 460,1291 486,1291 513,1291 539,1291 565,1291 591,1291 617,1291 643,1292 669,1293 696,1291"/>
+                <TextEquiv>
+                    <Unicode>228 „ 41 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:20;}">
+                <Coords points="282,1349 434,1362 481,1343 597,1355 655,1338 682,1356 771,1352 771,1285 755,1276 636,1317 534,1292 282,1302"/>
+                <Baseline points="287,1338 346,1339 372,1339 402,1335 429,1335 455,1334 481,1334 508,1334 534,1336 561,1336 587,1336 613,1336 640,1336 666,1337 692,1337 719,1336 745,1336 772,1336"/>
+                <TextEquiv>
+                    <Unicode>229 Zwei Offiziere. 70 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:21;}">
+                <Coords points="289,1411 598,1402 663,1417 693,1403 773,1423 773,1355 674,1353 651,1371 582,1348 533,1363 289,1352"/>
+                <Baseline points="294,1394 319,1391 344,1389 369,1389 395,1390 420,1390 445,1390 470,1390 496,1390 521,1390 546,1390 571,1390 597,1390 622,1390 647,1390 672,1391 698,1391 723,1391 748,1392 774,1394"/>
+                <TextEquiv>
+                    <Unicode>230 Feldapetheker. 59 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:22;}">
+                <Coords points="283,1463 379,1487 484,1465 526,1473 556,1463 607,1477 607,1409 481,1415 465,1404 425,1422 362,1401 283,1416"/>
+                <Baseline points="288,1448 314,1444 341,1444 368,1442 394,1444 421,1444 448,1444 474,1444 501,1444 528,1444 554,1444 581,1444 608,1444"/>
+                <TextEquiv>
+                    <Unicode>231 L. Karlsbad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:23;}">
+                <Coords points="221,1549 341,1528 356,1539 430,1539 447,1526 595,1535 595,1469 560,1481 475,1469 372,1494 351,1480 314,1490 221,1471"/>
+                <Baseline points="226,1516 252,1516 278,1517 305,1517 331,1517 358,1516 384,1515 411,1516 437,1516 463,1516 490,1516 516,1516 543,1516 564,1518 578,1519 597,1518"/>
+                <TextEquiv>
+                    <Unicode>Meryon C., Paris +</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:24;}">
+                <Coords points="283,1593 682,1579 817,1605 895,1593 894,1521 843,1542 654,1538 618,1518 581,1540 282,1536"/>
+                <Baseline points="287,1572 369,1570 397,1570 425,1569 452,1568 480,1569 508,1569 535,1569 563,1569 591,1568 619,1570 646,1570 674,1570 702,1570 729,1572 757,1572 785,1572 812,1572 840,1572 868,1572 896,1572"/>
+                <TextEquiv>
+                    <Unicode>232 R. Tour de l’horloge. 48 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:25;}">
+                <Coords points="287,1644 758,1641 758,1594 740,1587 635,1601 508,1583 287,1588"/>
+                <Baseline points="292,1626 327,1622 352,1622 378,1622 403,1621 429,1620 454,1622 480,1622 505,1622 531,1622 556,1622 581,1622 607,1624 632,1622 658,1624 683,1624 709,1624 734,1625 760,1626"/>
+                <TextEquiv>
+                    <Unicode>233 R. Petit Pont. 60 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:26;}">
+                <Coords points="283,1696 932,1704 932,1641 902,1631 283,1646"/>
+                <Baseline points="288,1678 320,1676 352,1674 384,1674 417,1675 449,1675 481,1676 514,1676 546,1675 578,1675 611,1676 643,1676 675,1676 707,1676 740,1676 772,1678 804,1678 837,1678 869,1678 901,1678 934,1678"/>
+                <TextEquiv>
+                    <Unicode>234 R. Pompe Notre Dame. 48 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:27;}">
+                <Coords points="283,1765 363,1746 472,1764 616,1748 695,1771 780,1760 780,1696 749,1692 641,1706 553,1692 530,1707 377,1686 283,1696"/>
+                <Baseline points="288,1732 314,1729 340,1728 366,1728 392,1730 418,1728 444,1728 470,1729 496,1729 522,1729 548,1730 574,1730 600,1730 626,1730 652,1730 678,1731 704,1731 730,1730 756,1730 782,1730"/>
+                <TextEquiv>
+                    <Unicode>235 R. Pont neuf. 192 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:28;}">
+                <Coords points="705,1855 712,1855 724,1848 733,1849 738,1844 751,1849 765,1847 767,1762 762,1762 742,1780 707,1766"/>
+                <Baseline points="711,1826 740,1824 768,1824"/>
+                <TextEquiv>
+                    <Unicode>21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
