@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_18:58</Creator>
+        <Created>2024-01-01T21:16:39.655+01:00</Created>
+        <LastChange>2024-01-10T16:25:54.658+01:00</LastChange>
+        <TranskribusMetadata docId="1738698" pageId="63169458" pageNr="5" tsid="144893890" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=GZNTUPBBIZOISVGTSRJKJCLW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IIJSESNKJFVUGZLJRIXYFTDQ" imageId="50952222"/>
+    </Metadata>
+    <Page imageFilename="0005_Katalogauswahl5-005.jpg" imageWidth="1810" imageHeight="2272">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574388099" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="242,246 242,2271 1566,2271 1566,246"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="919,284 946,284 946,269 919,269"/>
+                <Baseline points="919,284 946,284"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="390,390 418,388 447,388 476,388 504,387 533,387 562,387 590,387 619,387 648,386 677,386 705,386 734,386 763,386 791,386 820,386 849,386 877,386 906,388 935,386 970,389 1014,388 1014,373 971,374 935,371 906,373 878,371 849,371 820,371 791,371 763,371 734,371 705,371 677,371 648,371 619,372 590,372 562,372 533,372 504,372 476,373 447,373 417,373 389,375"/>
+                <Baseline points="390,390 418,388 447,388 476,388 504,387 533,387 562,387 590,387 619,387 648,386 677,386 705,386 734,386 763,386 791,386 820,386 849,386 877,386 906,388 935,386 970,389 1014,388"/>
+                <TextEquiv>
+                    <Unicode>Hans Solltmann in Leipzig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="449,479 470,494 508,477 537,496 612,485 644,503 658,490 678,505 712,485 754,494 754,426 717,412 659,420 620,404 583,421 522,402 477,418 449,414"/>
+                <Baseline points="454,458 479,456 504,456 529,455 554,454 579,454 605,454 630,454 655,454 680,454 705,454 730,454 756,456"/>
+                <TextEquiv>
+                    <Unicode>7. Der Betende.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="385,591 456,602 560,575 842,603 982,581 982,508 936,502 875,522 780,501 749,520 385,510"/>
+                <Baseline points="390,568 419,566 449,566 479,566 508,566 538,564 568,564 597,564 627,566 657,564 687,564 716,564 746,564 776,564 805,564 835,564 865,564 894,564 924,564 954,564 984,564"/>
+                <TextEquiv>
+                    <Unicode>Helene Dahm in München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="449,652 487,664 509,650 528,661 546,652 576,665 597,654 670,668 670,599 620,595 609,585 563,593 541,582 509,602 449,601"/>
+                <Baseline points="454,632 481,632 508,634 535,633 563,632 590,632 617,632 644,633 672,634"/>
+                <TextEquiv>
+                    <Unicode>8. Weiden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="389,765 690,748 734,769 867,756 892,772 919,760 920,676 792,680 755,701 693,681 590,677 571,694 552,677 390,669"/>
+                <Baseline points="394,738 420,737 446,738 473,736 499,736 526,734 552,734 578,734 605,734 631,734 658,734 684,734 710,734 737,734 763,734 790,734 816,734 842,734 869,734 895,734 922,736"/>
+                <TextEquiv>
+                    <Unicode>P. Dahlen in Karlsruhe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="451,838 481,839 517,825 548,840 576,827 592,841 634,825 653,836 666,829 688,844 688,759 630,753 619,761 610,753 590,766 545,757 493,772 451,767"/>
+                <Baseline points="456,804 482,802 508,802 534,802 560,802 586,802 612,802 638,802 664,802 690,802"/>
+                <TextEquiv>
+                    <Unicode>9. Tänzerin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="387,933 602,918 707,943 792,925 1011,945 1011,835 832,863 387,854"/>
+                <Baseline points="392,906 423,906 454,904 485,904 516,904 547,904 578,904 609,904 640,904 671,904 702,904 733,904 764,904 795,904 826,904 857,904 888,904 919,904 950,904 981,904 1012,906"/>
+                <TextEquiv>
+                    <Unicode>Hermann Haas in München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="433,1016 477,1023 503,999 516,1008 550,1007 566,995 586,1009 620,999 620,932 585,929 564,940 533,931 504,941 469,926 452,933 433,925"/>
+                <Baseline points="438,974 464,972 490,972 516,972 543,972 569,972 595,973 622,974"/>
+                <TextEquiv>
+                    <Unicode>10. Pflug.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="397,1101 823,1090 1004,1112 1004,1018 397,1027"/>
+                <Baseline points="402,1076 432,1076 462,1076 492,1076 522,1074 553,1074 583,1074 613,1074 643,1076 673,1076 704,1076 734,1074 764,1074 794,1074 824,1074 855,1074 885,1074 915,1074 945,1074 975,1074 1006,1074"/>
+                <TextEquiv>
+                    <Unicode>Walther Klemm in Dachau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="433,1175 496,1178 526,1163 566,1181 593,1165 642,1171 642,1120 609,1103 528,1093 508,1108 489,1107 478,1096 461,1101 433,1093"/>
+                <Baseline points="438,1144 463,1142 489,1142 515,1142 541,1142 566,1142 592,1142 618,1142 644,1144"/>
+                <TextEquiv>
+                    <Unicode>11. Hasen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="387,1263 425,1280 717,1255 751,1281 1002,1266 1002,1201 932,1184 786,1207 752,1184 613,1211 387,1201"/>
+                <Baseline points="392,1246 422,1246 453,1246 483,1244 514,1244 545,1244 575,1246 606,1244 636,1244 667,1244 698,1244 728,1246 759,1244 789,1244 820,1244 851,1244 881,1244 912,1244 942,1244 973,1245 1004,1248"/>
+                <TextEquiv>
+                    <Unicode>Hans Hammer in München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="438,1359 460,1347 475,1357 514,1331 551,1347 564,1335 587,1345 599,1334 642,1348 673,1332 695,1348 722,1346 721,1268 654,1277 597,1270 584,1280 563,1271 437,1276"/>
+                <Baseline points="442,1312 467,1312 493,1312 518,1312 544,1312 570,1312 595,1312 621,1312 647,1312 672,1312 698,1313 724,1314"/>
+                <TextEquiv>
+                    <Unicode>12. Kaninchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="385,1432 852,1433 886,1455 1072,1437 1072,1375 1011,1358 675,1377 385,1354"/>
+                <Baseline points="390,1416 424,1416 458,1415 492,1414 526,1414 561,1414 595,1414 629,1414 663,1415 697,1415 732,1415 766,1415 800,1414 834,1414 868,1414 903,1414 937,1414 971,1414 1005,1414 1039,1414 1074,1414"/>
+                <TextEquiv>
+                    <Unicode>Heinrich Freytag in Karlsruhe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="433,1514 635,1505 698,1520 805,1500 860,1531 860,1452 816,1438 772,1451 433,1441"/>
+                <Baseline points="438,1482 464,1482 491,1482 517,1481 544,1481 570,1482 597,1482 623,1482 650,1482 676,1482 703,1480 729,1480 756,1481 782,1482 809,1482 835,1482 862,1482"/>
+                <TextEquiv>
+                    <Unicode>13. Originalholzschnitt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="384,1600 802,1596 981,1617 982,1547 939,1534 754,1527 711,1555 649,1528 385,1545"/>
+                <Baseline points="390,1586 419,1584 449,1586 479,1584 508,1584 538,1584 567,1587 587,1587 610,1587 635,1586 657,1584 687,1584 716,1584 746,1584 776,1584 805,1584 835,1584 865,1584 894,1584 924,1584 954,1584 984,1586"/>
+                <TextEquiv>
+                    <Unicode>Karl Thiemann in Dachau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="437,1698 469,1680 490,1695 518,1670 600,1671 622,1692 652,1672 719,1693 773,1677 924,1697 924,1612 901,1602 864,1624 793,1608 762,1623 699,1601 671,1620 610,1604 588,1620 523,1605 437,1621"/>
+                <Baseline points="442,1650 467,1652 492,1652 518,1652 543,1652 569,1652 594,1652 620,1652 645,1652 671,1652 696,1652 722,1651 747,1650 773,1650 798,1650 824,1651 849,1652 875,1652 900,1653 926,1656"/>
+                <TextEquiv>
+                    <Unicode>14. Rio Priuli in Venedig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="385,1776 712,1763 1002,1788 1002,1717 968,1702 385,1708"/>
+                <Baseline points="390,1756 420,1754 451,1754 482,1754 512,1754 543,1754 574,1754 604,1754 635,1754 666,1753 697,1752 727,1752 758,1752 789,1752 819,1754 850,1754 881,1754 911,1754 942,1754 973,1754 1004,1754"/>
+                <TextEquiv>
+                    <Unicode>Hans Hammer in München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="437,1847 609,1856 697,1840 762,1856 823,1840 926,1865 926,1793 895,1779 843,1793 817,1774 726,1773 673,1794 569,1794 545,1777 486,1790 437,1774"/>
+                <Baseline points="442,1822 467,1822 493,1822 518,1822 544,1822 569,1822 595,1822 621,1822 646,1822 672,1822 697,1822 723,1821 748,1820 774,1822 800,1822 825,1822 851,1822 876,1822 902,1823 928,1824"/>
+                <TextEquiv>
+                    <Unicode>15. Schmetterlingskönigin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_18:58</Creator>
+        <Created>2024-01-01T21:16:39.935+01:00</Created>
+        <LastChange>2024-01-10T16:30:31.569+01:00</LastChange>
+        <TranskribusMetadata docId="1738698" pageId="63169460" pageNr="7" tsid="144894152" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=HIADMPYJDVJDISBVUICBLLEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VLBXVBZTMVNEAAXGNONZTRBU" imageId="50952224"/>
+    </Metadata>
+    <Page imageFilename="0007_Katalogauswahl5-007.jpg" imageWidth="1812" imageHeight="2275">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574388521" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="243,237 243,2274 1573,2274 1573,237"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="855,279 884,279 884,264 855,264"/>
+                <Baseline points="855,279 884,279"/>
+                <TextEquiv>
+                    <Unicode> 31</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="324,401 862,426 1200,401 1200,333 1095,316 458,337 324,309"/>
+                <Baseline points="331,375 374,376 418,377 461,377 505,377 549,378 592,379 636,379 679,377 723,379 767,379 810,380 854,379 897,380 941,381 985,381 1028,381 1072,381 1115,381 1159,383 1203,383"/>
+                <TextEquiv>
+                    <Unicode>Gustav Johannes Buchner in München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="371,466 1415,469 1414,414 1369,403 1223,440 370,398"/>
+                <Baseline points="377,444 428,442 480,443 531,442 583,442 635,444 686,444 738,444 789,446 841,445 893,446 944,448 996,448 1047,449 1099,448 1151,448 1202,450 1254,450 1305,450 1365,452 1395,451 1417,451"/>
+                <TextEquiv>
+                    <Unicode>278. Martha. Öl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_479" custom="readingOrder {index:3;}">
+                <Coords points="371,552 919,528 1019,561 1121,515 1275,516 1424,560 1424,460 1253,504 1064,500 1011,456 371,467"/>
+                <Baseline points="379,510 430,508 482,509 533,508 585,508 637,510 688,510 740,510 791,512 843,511 895,512 946,514 998,514 1049,515 1101,514 1153,514 1204,516 1256,516 1314,513 1361,515 1385,514 1406,514 1426,514"/>
+                <TextEquiv>
+                    <Unicode>279. Dame am Wasser (in Grau). Öl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="324,647 763,637 813,659 873,637 973,660 980,581 322,560"/>
+                <Baseline points="331,621 363,619 396,619 429,620 461,619 494,619 527,619 559,620 592,621 625,619 658,621 690,621 723,621 756,621 788,621 821,622 854,623 886,623 919,623 952,623 985,625"/>
+                <TextEquiv>
+                    <Unicode>August Lüdecke in München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_522" custom="readingOrder {index:5;}">
+                <Coords points="371,700 1418,710 1398,629 1095,634 977,674 866,642 371,647"/>
+                <Baseline points="379,684 430,682 482,683 533,682 585,682 637,684 688,684 740,684 791,686 843,685 895,686 946,688 998,688 1049,689 1101,688 1153,688 1204,690 1256,690 1307,690 1334,694 1362,695 1390,695 1421,694"/>
+                <TextEquiv>
+                    <Unicode>280. Im Garbenfeld. Öl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_565" custom="readingOrder {index:6;}">
+                <Coords points="366,784 843,812 1064,756 1428,779 1427,724 1379,707 1273,741 1150,707 365,695"/>
+                <Baseline points="372,752 423,750 475,751 526,750 578,750 630,752 681,752 733,752 784,754 836,753 888,754 939,756 991,756 1042,757 1094,756 1146,756 1197,758 1249,758 1300,758 1331,759 1357,758 1389,758 1410,759 1432,760"/>
+                <TextEquiv>
+                    <Unicode>281. Weidendes Jungvieh. Öl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="318,881 553,893 619,874 716,901 768,877 847,897 954,883 954,821 924,805 426,821 318,800"/>
+                <Baseline points="325,863 356,861 388,861 419,861 451,861 478,863 510,864 532,864 557,863 575,864 589,864 608,863 640,861 671,862 703,863 734,863 766,863 797,863 829,865 860,865 892,865 923,865 955,865"/>
+                <TextEquiv>
+                    <Unicode>Maria Waltl-Wilfert in Prag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_608" custom="readingOrder {index:8;}">
+                <Coords points="370,950 1414,959 1414,890 1366,875 1255,910 370,887"/>
+                <Baseline points="377,928 428,926 480,927 531,926 583,926 635,928 686,928 738,928 789,930 841,929 893,930 944,932 996,932 1047,933 1099,932 1151,932 1202,934 1254,934 1305,934 1333,934 1355,936 1375,936 1395,935 1417,936"/>
+                <TextEquiv>
+                    <Unicode>282. 283. Aus dem Prager Ghetto. Ol.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:9;}">
+                <Coords points="316,1052 680,1057 703,1074 745,1049 873,1078 871,1000 808,984 588,1003 553,973 468,997 419,964 393,985 369,967 316,980"/>
+                <Baseline points="323,1039 350,1039 378,1039 405,1039 433,1039 460,1039 488,1039 515,1039 543,1039 570,1039 598,1039 625,1039 653,1041 680,1041 708,1041 735,1041 763,1041 790,1041 818,1042 845,1043 873,1043"/>
+                <TextEquiv>
+                    <Unicode>Paula v. Stach in Wien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:10;}">
+                <Coords points="363,1142 1399,1137 1399,1065 1320,1041 879,1080 363,1065"/>
+                <Baseline points="371,1107 422,1105 474,1106 525,1105 577,1105 629,1107 680,1107 732,1107 783,1109 835,1108 887,1109 938,1111 990,1111 1041,1112 1093,1111 1145,1111 1196,1113 1248,1113 1299,1113 1351,1113 1403,1113"/>
+                <TextEquiv>
+                    <Unicode>284. Aus dem Kreuzgang vom Stift Zwettl. Aquarell.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:11;}">
+                <Coords points="312,1240 1020,1252 1056,1245 1054,1164 870,1135 609,1184 310,1162"/>
+                <Baseline points="319,1217 356,1217 393,1217 430,1217 467,1217 504,1219 541,1218 578,1216 615,1217 652,1217 689,1219 726,1220 763,1221 800,1221 837,1221 874,1222 911,1222 948,1223 985,1223 1022,1223 1059,1223"/>
+                <TextEquiv>
+                    <Unicode>José Vera y Gonzalez in Toledo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_651" custom="readingOrder {index:12;}">
+                <Coords points="365,1297 1004,1342 1159,1288 1398,1321 1428,1253 1296,1221 1184,1280 1001,1241 363,1232"/>
+                <Baseline points="372,1284 423,1282 475,1283 526,1282 578,1282 630,1284 681,1284 733,1284 784,1286 836,1285 888,1286 939,1288 991,1288 1042,1289 1094,1288 1146,1288 1197,1290 1244,1291 1278,1291 1328,1293 1381,1295 1405,1295 1432,1297"/>
+                <TextEquiv>
+                    <Unicode>285. Portal der Kathedrale von Toledo. Aquarell.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_694" custom="readingOrder {index:13;}">
+                <Coords points="363,1346 414,1344 466,1345 517,1344 569,1344 621,1346 672,1346 724,1346 775,1348 827,1347 879,1348 930,1350 982,1350 1033,1351 1085,1350 1137,1350 1188,1352 1240,1352 1291,1352 1343,1352 1388,1356 1424,1356 1424,1341 1389,1341 1344,1337 1291,1337 1240,1337 1188,1337 1137,1335 1085,1335 1033,1336 982,1335 930,1335 879,1333 827,1332 775,1333 724,1331 672,1331 621,1331 569,1329 517,1329 466,1330 414,1329 362,1331"/>
+                <Baseline points="363,1346 414,1344 466,1345 517,1344 569,1344 621,1346 672,1346 724,1346 775,1348 827,1347 879,1348 930,1350 982,1350 1033,1351 1085,1350 1137,1350 1188,1352 1240,1352 1291,1352 1343,1352 1388,1356 1424,1356"/>
+                <TextEquiv>
+                    <Unicode>286. Hof in Toledo. Aquarell.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_737" custom="readingOrder {index:14;}">
+                <Coords points="367,1448 780,1451 887,1408 1404,1454 1389,1375 1196,1403 367,1378"/>
+                <Baseline points="375,1407 426,1405 478,1406 529,1405 581,1405 633,1407 684,1407 736,1407 787,1409 839,1408 891,1409 942,1411 994,1411 1045,1412 1097,1411 1149,1411 1200,1413 1252,1413 1303,1413 1355,1413 1407,1413"/>
+                <TextEquiv>
+                    <Unicode>287. Straße in Toledo. Aquarell.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:15;}">
+                <Coords points="316,1530 747,1520 845,1548 871,1537 871,1483 749,1446 589,1467 497,1444 460,1467 314,1458"/>
+                <Baseline points="323,1503 348,1501 374,1502 399,1502 425,1501 451,1502 476,1503 502,1503 527,1503 553,1503 579,1503 604,1503 630,1503 655,1503 681,1505 707,1505 732,1505 758,1506 783,1507 809,1507 843,1512 873,1513"/>
+                <TextEquiv>
+                    <Unicode>Georg Jilovsky in Prag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_780" custom="readingOrder {index:16;}">
+                <Coords points="358,1605 695,1573 1420,1598 1419,1534 1350,1527 725,1564 357,1525"/>
+                <Baseline points="365,1572 416,1570 468,1571 519,1570 571,1570 623,1572 674,1572 726,1572 777,1574 829,1573 881,1574 932,1576 984,1576 1035,1577 1087,1576 1139,1576 1190,1578 1242,1578 1293,1578 1317,1577 1342,1577 1364,1578 1382,1578 1401,1578 1424,1577"/>
+                <TextEquiv>
+                    <Unicode>288. Bildnis. Öl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:17;}">
+                <Coords points="324,1716 382,1696 580,1715 740,1695 952,1720 951,1651 830,1618 760,1619 725,1645 672,1615 504,1642 447,1614 374,1631 322,1615"/>
+                <Baseline points="329,1683 360,1681 391,1681 422,1681 453,1681 485,1681 516,1683 547,1683 578,1683 609,1683 641,1683 672,1684 703,1685 734,1685 765,1685 797,1685 828,1685 859,1685 890,1686 921,1687 953,1687"/>
+                <TextEquiv>
+                    <Unicode>Theodor Edlbacher in Wien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_823" custom="readingOrder {index:18;}">
+                <Coords points="358,1775 1385,1794 1393,1706 1053,1741 883,1703 357,1700"/>
+                <Baseline points="365,1747 416,1745 468,1746 519,1745 571,1745 623,1747 674,1747 726,1747 777,1749 829,1748 881,1749 932,1751 984,1751 1035,1752 1087,1751 1139,1751 1190,1753 1242,1753 1293,1753 1345,1753 1397,1753"/>
+                <TextEquiv>
+                    <Unicode>289. Torbole (Garda). Farb. Orig. Rad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:19;}">
+                <Coords points="367,1851 460,1828 534,1847 597,1838 654,1863 728,1834 759,1859 812,1858 810,1769 519,1779 469,1765 447,1786 366,1772"/>
+                <Baseline points="373,1810 398,1811 424,1810 450,1810 476,1811 502,1811 528,1811 554,1811 580,1811 605,1812 631,1813 657,1813 683,1813 709,1813 735,1815 761,1815 787,1816 813,1817"/>
+                <TextEquiv>
+                    <Unicode>290. Farbige Radierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
