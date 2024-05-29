@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:18</Creator>
+        <Created>2024-01-01T21:12:29.902+01:00</Created>
+        <LastChange>2024-01-09T19:18:50.060+01:00</LastChange>
+        <TranskribusMetadata docId="1738842" pageId="63170235" pageNr="4" tsid="144699300" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=BGNQHQMCSJSVTXRSPGBESSIS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SZTZVDPJTCVROWHAKSEDLNFB" imageId="50952174"/>
+    </Metadata>
+    <Page imageFilename="0004_Katalogauswahl2-004g.jpg" imageWidth="1275" imageHeight="1961">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574689467" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="448,533 448,1960 970,1960 970,533"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="523,593 590,582 722,607 825,578 868,588 868,504 813,523 748,496 724,496 700,517 664,506 624,517 592,495 523,508"/>
+                <Baseline points="528,568 554,566 580,566 606,565 633,565 659,565 685,564 712,564 738,564 764,566 791,564 817,564 843,565 870,568"/>
+                <TextEquiv>
+                    <Unicode>Abkürzungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="445,672 473,681 524,670 590,687 650,672 671,686 686,679 686,620 561,616 536,632 523,619 498,621 456,594 446,597"/>
+                <Baseline points="450,658 476,658 494,659 509,659 521,659 534,659 555,657 582,656 608,657 635,658 661,658 688,658"/>
+                <TextEquiv>
+                    <Unicode>A. = Aquarell.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="448,739 474,745 511,732 585,742 596,734 625,745 635,737 678,745 687,741 687,687 648,687 629,677 611,692 553,679 518,693 447,674"/>
+                <Baseline points="453,716 470,718 488,718 509,720 530,722 559,719 584,719 600,718 619,719 632,720 660,720 688,720"/>
+                <TextEquiv>
+                    <Unicode>G. = Gouache.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="444,805 530,790 559,808 648,801 672,823 807,825 872,800 969,825 968,730 840,751 767,730 716,750 594,734 485,761 443,743"/>
+                <Baseline points="448,782 474,782 496,784 513,784 531,784 552,783 578,782 604,782 630,782 656,782 682,782 709,782 735,782 760,784 778,784 786,783 814,785 827,785 844,785 868,783 893,784 917,785 943,786 970,784"/>
+                <TextEquiv>
+                    <Unicode>L. = Lithographie (f. = farbig).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="449,871 460,865 498,883 525,861 591,865 599,858 616,869 648,864 648,801 594,809 570,801 540,820 502,814 491,821 476,807 449,806"/>
+                <Baseline points="454,841 464,843 473,844 485,844 500,846 515,847 529,845 549,845 562,844 579,844 597,845 624,843 650,846"/>
+                <TextEquiv>
+                    <Unicode>Ö. = Ölbild.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="443,927 476,919 532,924 546,916 575,930 589,920 603,932 616,925 664,933 664,871 642,864 624,878 550,862 522,880 512,875 498,883 443,872"/>
+                <Baseline points="448,906 475,906 492,907 508,906 529,907 557,906 584,906 611,906 638,907 666,908"/>
+                <TextEquiv>
+                    <Unicode>P. — Pastell.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="445,985 698,1002 766,985 800,1000 818,982 922,993 922,928 903,924 769,932 679,913 590,944 560,927 475,941 445,928"/>
+                <Baseline points="450,970 476,968 502,970 523,970 555,968 581,968 608,968 634,968 660,968 687,970 713,970 736,972 747,973 776,973 800,973 824,973 845,970 871,970 897,972 924,972"/>
+                <TextEquiv>
+                    <Unicode>R. = Radierung (s. = farbig).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="443,1049 617,1048 659,1067 762,1047 930,1057 930,998 907,991 644,1003 561,990 507,1007 443,993"/>
+                <Baseline points="448,1034 473,1032 498,1033 522,1033 541,1033 575,1030 600,1030 626,1030 651,1030 677,1031 702,1033 728,1034 739,1032 754,1033 782,1034 802,1035 830,1032 855,1032 881,1033 906,1034 932,1036"/>
+                <TextEquiv>
+                    <Unicode>Z. = Zeichnung (f. = farbig).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="449,1127 483,1117 522,1140 559,1114 654,1112 687,1129 753,1122 753,1051 659,1067 627,1055 605,1066 568,1052 482,1060 449,1049"/>
+                <Baseline points="454,1096 479,1094 504,1094 529,1094 544,1095 569,1097 584,1097 604,1097 629,1094 654,1094 679,1094 704,1094 729,1094 754,1096"/>
+                <TextEquiv>
+                    <Unicode>Temp. = Tempera.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
