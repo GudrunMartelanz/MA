@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=provided:date=06_01_2024_19:13</Creator>
+        <Created>2024-01-06T19:53:46.507+01:00</Created>
+        <LastChange>2024-01-06T19:13:32.162Z</LastChange>
+        <TranskribusMetadata docId="1736066" pageId="63135341" pageNr="2" tsid="144506309" status="DONE" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=MZFGEDMHMNJOXMZGZSGBICAY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GFHAQRSENVEPJMTFTHKPZFLL" imageId="51043392"/>
+    </Metadata>
+    <Page imageFilename="0002_p002.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716573827948" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="435,546 435,2881 1824,2881 1824,546"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="426,645 1819,629 1819,506 1562,480 1369,518 1263,483 1197,523 1119,480 954,486 792,530 638,486 426,525"/>
+                <Baseline points="435,594 504,594 573,594 643,597 712,597 782,597 851,597 921,597 990,597 1060,597 1129,594 1198,597 1268,597 1337,597 1407,599 1476,597 1546,597 1615,597 1685,597 1754,597 1824,600"/>
+                <Word id="tr_1_tl_1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="425,557 425,617 1186,617 1186,557"/>
+                    <TextEquiv>
+                        <Unicode>STEIERMARKISCHER</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_1_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1236,557 1236,617 1769,617 1769,557"/>
+                    <TextEquiv>
+                        <Unicode>KUNSTVEREIN</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>STEIERMARKISCHER KUNSTVEREIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="926,737 989,761 1072,738 1112,770 1155,740 1173,758 1301,754 1300,627 1095,624 1062,638 1039,624 924,641"/>
+                <Baseline points="934,695 960,697 986,698 1013,698 1039,697 1066,695 1092,697 1119,698 1145,698 1171,698 1198,698 1224,699 1251,701 1277,701 1304,701"/>
+                <Word id="tr_1_tl_2_w1" custom="readingOrder {index:0;}">
+                    <Coords points="923,656 923,716 973,716 973,656"/>
+                    <TextEquiv>
+                        <Unicode>IN</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_2_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1023,658 1023,718 1291,718 1291,658"/>
+                    <TextEquiv>
+                        <Unicode>GRAZ.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>IN GRAZ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1008,1164 1069,1187 1121,1154 1182,1185 1242,1138 1284,1180 1347,1159 1392,1176 1428,1148 1553,1183 1658,1154 1654,1018 1506,1027 1466,994 1121,985 1004,1023"/>
+                <Baseline points="1015,1128 1047,1126 1079,1126 1112,1129 1144,1131 1176,1131 1209,1132 1241,1134 1273,1136 1306,1137 1338,1137 1370,1137 1403,1139 1435,1140 1467,1140 1500,1140 1532,1140 1564,1140 1597,1140 1629,1140 1662,1140"/>
+                <Word id="tr_1_tl_3_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1009,1087 1009,1147 1177,1147 1177,1087"/>
+                    <TextEquiv>
+                        <Unicode>110.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>110.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="450,1378 676,1409 735,1376 864,1426 1016,1378 1112,1414 1277,1378 1390,1414 1739,1399 1739,1202 1527,1162 450,1194"/>
+                <Baseline points="459,1349 523,1347 587,1346 651,1348 715,1346 780,1349 844,1349 908,1349 972,1349 1036,1349 1101,1349 1165,1349 1229,1351 1293,1349 1357,1349 1422,1349 1486,1349 1550,1349 1614,1346 1678,1346 1743,1343"/>
+                <Word id="tr_1_tl_4_w1" custom="readingOrder {index:0;}">
+                    <Coords points="462,1309 462,1369 1681,1369 1681,1309"/>
+                    <TextEquiv>
+                        <Unicode>AUSSTELLUNG</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>AUSSTELLUNG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="697,1659 933,1635 1004,1666 1296,1638 1399,1663 1550,1633 1527,1520 1397,1531 1248,1491 1100,1526 1003,1484 820,1522 697,1489"/>
+                <Baseline points="707,1615 749,1615 791,1615 834,1618 876,1616 919,1615 961,1617 1003,1620 1046,1619 1088,1618 1131,1618 1173,1618 1215,1618 1258,1618 1300,1618 1343,1618 1385,1618 1427,1615 1470,1618 1512,1618 1555,1624"/>
+                <Word id="tr_1_tl_5_w1" custom="readingOrder {index:0;}">
+                    <Coords points="700,1577 700,1637 1227,1637 1227,1577"/>
+                    <TextEquiv>
+                        <Unicode>FROHJAHR</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_5_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1296,1575 1296,1635 1532,1635 1532,1575"/>
+                    <TextEquiv>
+                        <Unicode>1910.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>FROHJAHR 1910.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="697,1793 837,1810 1058,1777 1143,1817 1300,1765 1466,1804 1541,1776 1541,1663 697,1663"/>
+                <Baseline points="707,1725 751,1718 795,1716 839,1717 883,1719 927,1719 971,1719 1016,1719 1060,1719 1104,1719 1148,1719 1192,1722 1236,1719 1281,1719 1325,1719 1369,1722 1413,1722 1457,1722 1501,1722 1546,1722"/>
+                <Word id="tr_1_tl_6_w1" custom="readingOrder {index:0;}">
+                    <Coords points="693,1677 693,1737 1001,1737 1001,1677"/>
+                    <TextEquiv>
+                        <Unicode>(EROFFNET</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1021,1679 1021,1739 1095,1739 1095,1679"/>
+                    <TextEquiv>
+                        <Unicode>AM</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1135,1680 1135,1740 1196,1740 1196,1680"/>
+                    <TextEquiv>
+                        <Unicode>7.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1202,1679 1202,1739 1363,1739 1363,1679"/>
+                    <TextEquiv>
+                        <Unicode>APRIL</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1403,1682 1403,1742 1517,1742 1517,1682"/>
+                    <TextEquiv>
+                        <Unicode>1910)</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>(EROFFNET AM 7. APRIL 1910)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="686,2914 945,2876 985,2907 1072,2876 1272,2914 1312,2888 1539,2907 1539,2799 1435,2764 1397,2794 1354,2756 1150,2752 1076,2799 994,2771 876,2787 764,2733 686,2745"/>
+                <Baseline points="695,2857 737,2854 779,2854 822,2854 864,2854 907,2854 949,2854 991,2852 1034,2853 1076,2854 1119,2852 1161,2852 1203,2854 1246,2855 1288,2856 1331,2855 1373,2856 1415,2854 1458,2854 1500,2857 1543,2854"/>
+                <Word id="tr_1_tl_7_w1" custom="readingOrder {index:0;}">
+                    <Coords points="681,2814 681,2874 902,2874 902,2814"/>
+                    <TextEquiv>
+                        <Unicode>DEUTSCHE</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_7_w2" custom="readingOrder {index:1;}">
+                    <Coords points="924,2812 924,2872 1388,2872 1388,2812"/>
+                    <TextEquiv>
+                        <Unicode>VEREINS-DRUCKEREI</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_7_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1405,2814 1405,2874 1532,2874 1532,2814"/>
+                    <TextEquiv>
+                        <Unicode>GRAZ.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>DEUTSCHE VEREINS-DRUCKEREI GRAZ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1773,972 1773,1206 2033,1206 2033,972"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1833,1051 1852,1055 1889,1032 1915,1036 1925,1048 1944,1041 1962,1044 1970,884 1932,898 1870,954 1856,943 1838,947"/>
+                <Baseline points="1842,1035 1872,1041 1903,1037 1933,1034 1964,1032"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1771,1216 1809,1223 1861,1261 1913,1215 1965,1251 2038,1260 2014,1025 1955,1044 1899,1036 1850,1055 1804,1042 1755,1069"/>
+                <Baseline points="1773,1152 1799,1154 1825,1156 1851,1160 1877,1164 1903,1169 1929,1173 1955,1176 1981,1174 2007,1173 2033,1173"/>
+                <Word id="tr_2_tl_2_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1768,1112 1768,1172 1768,1172 1768,1112"/>
+                    <TextEquiv>
+                        <Unicode>1</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

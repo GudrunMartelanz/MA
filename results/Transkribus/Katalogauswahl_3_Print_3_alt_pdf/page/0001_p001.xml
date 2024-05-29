@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=provided:date=06_01_2024_19:13</Creator>
+        <Created>2024-01-06T19:53:46.057+01:00</Created>
+        <LastChange>2024-01-06T19:13:31.621Z</LastChange>
+        <TranskribusMetadata docId="1736066" pageId="63135338" pageNr="1" tsid="144506308" status="DONE" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=DUKYYXZUWQPUZJWSHXJSWKXF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YCEUXNLODODVXYJWVURFAIOL" imageId="51043389"/>
+    </Metadata>
+    <Page imageFilename="0001_p001.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716573826484" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="113,35 113,619 898,619 898,35"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="295,96 328,104 371,95 394,100 450,96 453,0 401,16 386,9 371,19 342,12 318,27 297,22"/>
+                <Baseline points="301,71 326,71 351,71 377,70 402,68 427,68 453,68"/>
+                <Word id="tr_1_tl_1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="285,31 285,91 296,91 296,31"/>
+                    <TextEquiv>
+                        <Unicode>-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="732,88 740,88 757,105 816,103 816,51 732,52"/>
+                <Baseline points="737,95 764,97 791,97 818,95"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="108,170 626,142 844,161 869,155 870,88 329,104 109,84"/>
+                <Baseline points="113,146 150,143 188,139 226,137 264,137 302,137 340,137 378,137 416,134 454,136 492,137 529,137 567,136 605,134 643,134 681,134 719,134 757,133 795,131 833,131 871,128"/>
+                <Word id="tr_1_tl_3_w1" custom="readingOrder {index:0;}">
+                    <Coords points="106,97 106,157 462,157 462,97"/>
+                    <TextEquiv>
+                        <Unicode>Steiermärkische</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_3_w2" custom="readingOrder {index:1;}">
+                    <Coords points="471,97 471,157 542,157 542,97"/>
+                    <TextEquiv>
+                        <Unicode>Landes</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_3_w3" custom="readingOrder {index:2;}">
+                    <Coords points="560,94 560,154 720,154 720,94"/>
+                    <TextEquiv>
+                        <Unicode>Bibliothek</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Steiermärkische Landes Bibliothek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="296,224 813,209 814,155 772,142 732,157 298,159"/>
+                <Baseline points="301,206 326,203 352,203 378,203 403,203 429,202 455,200 480,200 506,200 532,200 558,200 583,200 609,199 635,197 660,195 686,194 712,194 737,193 763,191 789,191 815,191"/>
+                <Word id="tr_1_tl_4_w1" custom="readingOrder {index:0;}">
+                    <Coords points="293,160 293,220 785,220 785,160"/>
+                    <TextEquiv>
+                        <Unicode>STEIERMARKISCHE</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>STEIERMARKISCHE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="205,291 866,279 896,270 898,203 207,222"/>
+                <Baseline points="211,274 245,270 279,268 314,268 348,266 382,265 417,265 451,265 485,265 520,263 554,262 588,262 623,259 657,259 691,259 726,259 760,256 794,256 829,256 863,256 898,256"/>
+                <Word id="tr_1_tl_5_w1" custom="readingOrder {index:0;}">
+                    <Coords points="202,225 202,285 709,285 709,225"/>
+                    <TextEquiv>
+                        <Unicode>LANDESBIBLIOTHEK</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_5_w2" custom="readingOrder {index:1;}">
+                    <Coords points="733,216 733,276 876,276 876,216"/>
+                    <TextEquiv>
+                        <Unicode>GRAZ</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>LANDESBIBLIOTHEK GRAZ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="200,424 219,424 225,419 233,423 249,415 282,417 286,327 277,326 272,331 258,325 249,315 240,314 219,326 204,326"/>
+                <Baseline points="206,388 232,388 259,387 286,385"/>
+                <Word id="tr_1_tl_6_w1" custom="readingOrder {index:0;}">
+                    <Coords points="199,348 199,408 238,408 238,348"/>
+                    <TextEquiv>
+                        <Unicode>A</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="371,508 396,496 471,520 591,515 702,489 748,511 762,505 764,366 691,364 675,378 623,362 599,377 502,362 453,380 424,360 373,363"/>
+                <Baseline points="376,477 401,477 427,477 453,477 479,475 505,474 531,474 557,475 582,477 608,475 634,474 660,472 686,471 712,471 738,472 764,474"/>
+                <Word id="tr_1_tl_7_w1" custom="readingOrder {index:0;}">
+                    <Coords points="377,434 377,494 724,494 724,434"/>
+                    <TextEquiv>
+                        <Unicode>52866</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>52866</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="637,631 683,640 724,629 814,640 817,548 775,550 762,539 725,552 684,533 641,531"/>
+                <Baseline points="644,585 673,585 702,586 731,588 760,584 789,581 818,579"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="147,641 279,638 296,652 613,635 613,539 555,534 500,555 368,540 301,560 147,542"/>
+                <Baseline points="152,600 177,599 203,597 229,597 254,596 280,593 306,592 332,594 357,595 383,597 409,595 434,597 460,597 486,597 512,595 537,594 563,596 589,596 615,594"/>
+                <Word id="tr_1_tl_9_w1" custom="readingOrder {index:0;}">
+                    <Coords points="137,554 137,614 562,614 562,554"/>
+                    <TextEquiv>
+                        <Unicode>GRAZ,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>GRAZ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
