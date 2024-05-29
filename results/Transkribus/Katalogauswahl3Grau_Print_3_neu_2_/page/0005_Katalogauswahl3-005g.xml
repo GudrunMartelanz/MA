@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:15</Creator>
+        <Created>2024-01-01T21:13:48.093+01:00</Created>
+        <LastChange>2024-01-09T19:15:48.018+01:00</LastChange>
+        <TranskribusMetadata docId="1738840" pageId="63170222" pageNr="5" tsid="144698699" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=THBEQAGKVLSQXZTGXOLZZAYV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WSUUKXFOQSVQEXHLCKVWAYNZ" imageId="50952191"/>
+    </Metadata>
+    <Page imageFilename="0005_Katalogauswahl3-005g.jpg" imageWidth="1725" imageHeight="2440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574616241" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="206,175 206,2439 1530,2439 1545,166"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="913,327 922,328 933,321 944,321 944,263 938,263 936,261 931,263 928,261 924,262 922,259 913,259"/>
+                <Baseline points="920,302 947,301"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="653,406 941,425 1018,415 1018,363 982,353 907,346 800,361 752,343 716,354 688,334 653,344"/>
+                <Baseline points="660,396 685,394 711,393 737,393 763,393 789,392 815,394 841,392 866,392 892,392 918,392 944,392 970,393 996,394 1022,394"/>
+                <TextEquiv>
+                    <Unicode>22. Linden am Ufer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="655,465 685,470 695,462 713,470 730,461 757,468 812,462 857,476 857,417 770,417 730,406 706,418 655,406"/>
+                <Baseline points="662,448 690,446 718,446 746,446 775,446 803,446 831,446 860,448"/>
+                <TextEquiv>
+                    <Unicode>23. Buchau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="655,511 773,525 813,515 839,520 838,468 804,471 765,462 759,468 731,460 723,468 693,462 684,470 654,463"/>
+                <Baseline points="662,502 687,500 713,500 739,500 764,500 790,501 816,502 842,504"/>
+                <TextEquiv>
+                    <Unicode>24. Hügel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="655,570 1107,581 1107,511 655,520"/>
+                <Baseline points="662,556 688,554 714,553 741,552 767,553 793,554 820,554 846,554 872,554 899,552 925,552 951,553 978,554 1004,554 1030,554 1057,554 1083,554 1110,558"/>
+                <TextEquiv>
+                    <Unicode>25. Dörfchen Waltersberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="659,622 680,621 688,629 720,619 782,634 802,620 864,628 864,584 830,575 810,580 735,571 709,589 693,574 659,575"/>
+                <Baseline points="666,608 691,608 716,608 741,608 766,608 791,608 816,608 841,608 866,608"/>
+                <TextEquiv>
+                    <Unicode>26. Buchau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="653,676 758,675 775,686 807,674 972,684 1008,673 1008,624 828,626 799,638 741,621 710,639 653,625"/>
+                <Baseline points="660,662 685,660 710,660 735,660 760,660 785,660 810,660 835,660 860,660 885,660 910,660 935,660 960,660 985,660 1010,664"/>
+                <TextEquiv>
+                    <Unicode>27. Hügellandschaft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="653,730 802,743 879,728 911,746 1023,725 1078,752 1078,680 1048,670 987,691 952,674 897,688 818,676 653,686"/>
+                <Baseline points="660,716 686,716 712,716 739,715 765,715 791,715 818,714 844,714 871,714 897,714 923,716 950,715 976,714 1002,714 1029,714 1055,715 1082,718"/>
+                <TextEquiv>
+                    <Unicode>28. Seebausen - Buchau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="649,780 676,789 701,780 757,790 824,780 870,785 870,744 852,735 817,730 800,741 764,744 745,735 716,739 705,729 684,743 649,734"/>
+                <Baseline points="656,772 683,771 710,769 737,768 765,769 792,770 819,770 846,770 874,770"/>
+                <TextEquiv>
+                    <Unicode>29. Seeufer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="653,835 721,848 827,834 881,850 928,838 1021,854 1021,768 875,800 827,783 653,792"/>
+                <Baseline points="660,824 686,824 712,823 738,822 764,822 790,822 816,822 842,822 868,822 894,823 920,823 946,822 972,822 998,822 1024,822"/>
+                <TextEquiv>
+                    <Unicode>30. Zwei Bagatellen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="653,893 708,899 725,888 734,896 748,889 755,897 803,891 818,898 843,889 897,903 898,844 875,852 792,839 768,850 750,840 654,845"/>
+                <Baseline points="660,878 686,878 713,876 740,877 766,877 793,876 820,876 846,876 873,876 900,878"/>
+                <TextEquiv>
+                    <Unicode>31. Staffelsee.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="653,944 708,954 815,943 840,961 929,954 952,971 1018,953 1018,886 927,888 896,904 855,892 783,906 744,891 653,908"/>
+                <Baseline points="660,932 685,930 711,930 737,930 763,930 789,930 815,930 841,930 866,930 892,930 918,930 944,930 970,930 996,930 1022,932"/>
+                <TextEquiv>
+                    <Unicode>32. Zwei Bagatellen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="653,1003 696,999 720,1007 731,999 741,1008 758,994 772,1003 789,997 827,1007 834,999 845,1001 845,959 820,946 804,953 780,943 760,952 745,946 705,958 653,944"/>
+                <Baseline points="660,986 686,985 713,984 740,984 767,983 794,982 821,984 848,984"/>
+                <TextEquiv>
+                    <Unicode>33. Eichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="653,1048 1083,1062 1083,1006 988,982 894,982 837,1013 762,994 733,1011 653,1005"/>
+                <Baseline points="660,1038 685,1036 710,1036 735,1036 760,1036 785,1036 810,1036 835,1036 860,1036 885,1036 910,1036 935,1036 960,1036 985,1036 1010,1036 1035,1036 1060,1037 1086,1038"/>
+                <TextEquiv>
+                    <Unicode>34 a. Getonte Zeichnung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="655,1111 729,1116 745,1107 817,1131 849,1111 906,1120 954,1110 956,1056 907,1050 872,1067 772,1048 744,1063 708,1050 656,1056"/>
+                <Baseline points="662,1092 688,1092 715,1092 742,1092 769,1092 796,1091 823,1090 850,1090 877,1090 904,1090 931,1090 958,1092"/>
+                <TextEquiv>
+                    <Unicode>34 b. Raube Alb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="385,1334 1100,1335 1101,1275 1033,1263 386,1276"/>
+                <Baseline points="392,1316 427,1314 463,1314 498,1312 534,1312 570,1312 605,1311 641,1310 676,1310 712,1310 748,1310 783,1310 819,1310 854,1310 890,1310 926,1310 961,1310 997,1310 1032,1310 1068,1310 1104,1310"/>
+                <TextEquiv>
+                    <Unicode>SCHNELL-HERMAN HERMINE in Wien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="473,1383 753,1403 933,1366 1387,1366 1478,1399 1478,1310 1385,1358 473,1338"/>
+                <Baseline points="480,1368 505,1366 530,1366 556,1366 581,1366 607,1366 632,1365 658,1364 683,1364 709,1364 734,1364 760,1364 785,1364 811,1364 836,1364 1445,1367 1481,1365"/>
+                <TextEquiv>
+                    <Unicode>35. Feldblumenstrauß ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="385,1472 887,1463 887,1397 867,1392 823,1415 789,1387 723,1424 659,1395 599,1407 516,1388 385,1409"/>
+                <Baseline points="392,1450 418,1448 444,1448 470,1446 496,1446 523,1446 549,1446 575,1446 601,1446 627,1446 654,1446 680,1446 706,1446 732,1445 758,1445 785,1445 811,1444 837,1444 863,1446 890,1446"/>
+                <TextEquiv>
+                    <Unicode>LIEL MARIE von, München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="477,1521 698,1543 893,1498 1276,1526 1393,1499 1474,1536 1474,1459 1445,1455 1276,1489 477,1463"/>
+                <Baseline points="484,1502 510,1500 536,1500 562,1500 588,1500 614,1498 640,1500 667,1500 693,1499 719,1498 745,1498 771,1498 797,1498 1445,1499 1477,1498"/>
+                <TextEquiv>
+                    <Unicode>36. Mädchenbildnis ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="385,1612 661,1592 1098,1612 1087,1536 385,1532"/>
+                <Baseline points="392,1582 427,1582 463,1580 498,1580 534,1580 569,1578 605,1580 640,1580 676,1580 711,1580 747,1578 782,1578 818,1580 853,1579 889,1579 924,1579 960,1578 995,1578 1031,1579 1066,1579 1102,1584"/>
+                <TextEquiv>
+                    <Unicode>SCHNELL-HERMAN HERMINE in Wien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:20;}">
+                <Coords points="481,1656 1237,1633 1475,1663 1475,1572 1378,1624 481,1606"/>
+                <Baseline points="488,1636 513,1634 538,1634 563,1634 588,1634 613,1634 638,1634 664,1634 689,1634 714,1634 739,1634 764,1634 789,1634 814,1632 1444,1634 1478,1633"/>
+                <TextEquiv>
+                    <Unicode>37. Alter Bauernhof ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:21;}">
+                <Coords points="387,1745 698,1750 767,1727 934,1750 934,1672 767,1691 659,1671 505,1687 387,1672"/>
+                <Baseline points="394,1726 421,1724 448,1724 475,1724 502,1723 530,1723 557,1723 584,1722 611,1722 638,1722 666,1722 693,1722 720,1722 747,1722 774,1722 802,1722 829,1722 856,1722 883,1722 910,1722 938,1724"/>
+                <TextEquiv>
+                    <Unicode>KOCH FRIEDERIKE von, Graz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:22;}">
+                <Coords points="480,1791 1474,1792 1454,1726 1314,1766 480,1742"/>
+                <Baseline points="486,1778 511,1778 536,1777 562,1776 587,1776 613,1776 638,1776 664,1776 689,1776 714,1776 740,1776 765,1776 791,1776 816,1776 1441,1777 1477,1778"/>
+                <TextEquiv>
+                    <Unicode>38. Erblühter Mohn ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:23;}">
+                <Coords points="477,1852 809,1874 976,1830 1397,1832 1478,1862 1478,1797 1443,1792 1325,1822 477,1789"/>
+                <Baseline points="484,1834 509,1832 535,1831 561,1830 586,1830 612,1830 638,1830 663,1830 689,1830 715,1830 740,1830 766,1830 792,1830 817,1830 843,1830 869,1830 894,1830 920,1830 1430,1833 1481,1832"/>
+                <TextEquiv>
+                    <Unicode>39. Damenbildnis in Grau ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:24;}">
+                <Coords points="388,1943 498,1925 839,1928 839,1864 825,1861 748,1879 584,1875 569,1860 504,1884 475,1862 390,1874"/>
+                <Baseline points="396,1914 422,1912 448,1912 474,1912 500,1911 527,1910 553,1910 579,1910 605,1910 632,1910 658,1910 684,1910 710,1910 737,1910 763,1910 789,1910 815,1910 842,1914"/>
+                <TextEquiv>
+                    <Unicode>BEST HANS in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:25;}">
+                <Coords points="480,1993 1220,2003 1269,1966 1408,1966 1475,2000 1475,1914 1366,1956 1111,1909 480,1938"/>
+                <Baseline points="486,1966 523,1966 560,1966 598,1966 635,1964 673,1964 710,1964 747,1964 785,1964 822,1966 860,1964 897,1965 934,1966 972,1966 1009,1964 1047,1964 1084,1964 1121,1966 1159,1965 1196,1967 1436,1966 1478,1966"/>
+                <TextEquiv>
+                    <Unicode>40. Interieur der Kirche von Schöngeising ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

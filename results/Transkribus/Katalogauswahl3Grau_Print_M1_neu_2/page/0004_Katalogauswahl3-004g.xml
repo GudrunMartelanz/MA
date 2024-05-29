@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_18:59</Creator>
+        <Created>2024-01-01T21:13:47.853+01:00</Created>
+        <LastChange>2024-01-09T18:59:48.070+01:00</LastChange>
+        <TranskribusMetadata docId="1738695" pageId="63169430" pageNr="4" tsid="144695954" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=ZEKAXAWZGIYBSGGPOGRQACOV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TOBARSEYMLNSNJBNNYRJDEQV" imageId="50952190"/>
+    </Metadata>
+    <Page imageFilename="0004_Katalogauswahl3-004g.jpg" imageWidth="1718" imageHeight="2446">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574619518" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="194,590 194,2445 1520,2445 1520,590"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="309,651 1271,644 1271,580 1156,545 1049,584 309,571"/>
+                <Baseline points="316,624 363,624 411,624 459,624 507,622 555,622 603,621 651,620 699,622 747,620 795,620 842,619 890,620 938,620 986,618 1034,618 1082,618 1130,618 1178,618 1226,618 1274,616"/>
+                <TextEquiv>
+                    <Unicode>Kollektion EDMUND STEPPES in München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="729,738 762,743 789,726 849,738 880,730 918,743 949,731 987,736 987,663 912,672 862,662 849,671 822,658 729,677"/>
+                <Baseline points="736,720 761,720 786,719 812,718 837,719 863,720 888,718 913,718 939,718 964,718 990,720"/>
+                <TextEquiv>
+                    <Unicode>H. Ölbilder:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="557,796 756,782 889,796 918,816 1006,808 1006,744 844,735 765,749 651,728 557,747"/>
+                <Baseline points="564,776 590,776 616,774 642,776 668,775 694,774 720,775 746,775 772,774 799,774 825,772 851,774 877,774 903,773 929,772 955,772 981,772 1008,774"/>
+                <TextEquiv>
+                    <Unicode>1. Die Zeit des Kuckucks.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="554,849 596,837 674,856 704,844 760,855 855,842 855,792 778,803 734,791 692,803 674,790 650,806 604,791 554,800"/>
+                <Baseline points="560,830 587,828 614,828 641,828 668,828 695,828 722,828 749,828 776,828 803,826 830,826 858,830"/>
+                <TextEquiv>
+                    <Unicode>2. Tannenbäume.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="547,900 655,905 682,889 784,905 888,887 942,903 967,897 969,840 761,856 704,844 670,860 607,842 548,850"/>
+                <Baseline points="554,884 580,884 606,882 632,882 658,882 684,882 710,882 736,882 763,882 789,880 815,880 841,880 867,880 893,880 919,880 945,880 972,882"/>
+                <TextEquiv>
+                    <Unicode>3. Zur Stunde des Pan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="554,951 723,958 780,940 798,957 963,969 1030,951 1031,887 958,909 916,895 831,911 807,893 726,912 676,891 555,911"/>
+                <Baseline points="562,934 588,936 614,936 640,936 666,936 693,936 719,935 745,934 771,934 798,934 824,934 850,934 876,934 902,933 929,933 955,933 981,932 1007,934 1034,932"/>
+                <TextEquiv>
+                    <Unicode>4. Zugvögel überm Isartal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="554,1009 657,1015 689,1000 736,1015 771,1001 836,1023 883,1023 904,1008 927,1018 927,966 906,957 782,954 760,972 711,955 683,967 555,955"/>
+                <Baseline points="560,994 586,991 609,993 630,995 651,992 668,994 692,990 718,990 745,990 771,989 797,989 824,990 850,989 877,988 903,990 930,988"/>
+                <TextEquiv>
+                    <Unicode>5. Hus den Vogesen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="551,1063 621,1060 643,1069 655,1058 681,1057 704,1069 750,1066 764,1055 785,1060 785,1003 735,1015 690,1001 647,1018 610,1005 590,1015 551,1011"/>
+                <Baseline points="558,1044 583,1044 609,1044 634,1044 660,1043 685,1042 711,1042 736,1044 762,1044 788,1046"/>
+                <TextEquiv>
+                    <Unicode>6. Der Quell.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="551,1116 649,1111 684,1122 731,1108 798,1123 800,1063 778,1073 655,1060 643,1069 632,1061 581,1073 551,1069"/>
+                <Baseline points="558,1098 585,1098 612,1098 639,1097 666,1096 693,1097 720,1097 747,1096 774,1096 802,1096"/>
+                <TextEquiv>
+                    <Unicode>7. Nebelmeer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="548,1175 922,1163 1044,1187 1035,1102 1000,1121 831,1108 649,1126 593,1109 548,1123"/>
+                <Baseline points="554,1150 579,1152 605,1152 631,1152 657,1152 683,1150 709,1150 735,1150 761,1150 787,1150 812,1150 838,1150 864,1148 890,1148 916,1149 942,1149 968,1149 994,1150 1020,1150 1046,1148"/>
+                <TextEquiv>
+                    <Unicode>8. Erwachen des Früblings.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="555,1225 785,1217 838,1242 933,1226 933,1171 919,1165 854,1182 798,1168 695,1168 667,1182 623,1165 555,1174"/>
+                <Baseline points="562,1202 588,1204 615,1204 642,1204 668,1204 695,1204 722,1204 749,1204 775,1204 802,1204 829,1204 855,1204 882,1204 909,1204 936,1204"/>
+                <TextEquiv>
+                    <Unicode>9. Ein Frühlingsgruß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="536,1284 586,1272 601,1283 696,1280 728,1292 752,1280 780,1283 780,1220 743,1219 700,1237 663,1218 645,1231 608,1225 591,1236 536,1213"/>
+                <Baseline points="542,1260 568,1260 595,1258 622,1258 648,1258 675,1258 702,1258 728,1258 755,1258 782,1256"/>
+                <TextEquiv>
+                    <Unicode>10. Vollmond.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="677,1382 767,1404 792,1389 1042,1400 1042,1327 1027,1320 999,1339 958,1307 906,1332 850,1337 768,1308 725,1337 710,1322 677,1329"/>
+                <Baseline points="684,1374 709,1372 735,1372 761,1372 786,1372 812,1372 838,1372 864,1372 889,1372 915,1372 941,1372 966,1372 992,1372 1018,1372 1044,1374"/>
+                <TextEquiv>
+                    <Unicode>B. Zeichnungen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="537,1448 571,1452 610,1438 627,1450 640,1443 662,1458 692,1441 737,1449 737,1399 698,1387 661,1391 629,1375 602,1397 574,1397 563,1389 537,1394"/>
+                <Baseline points="544,1432 572,1430 600,1428 628,1428 652,1430 672,1429 689,1430 712,1429 740,1432"/>
+                <TextEquiv>
+                    <Unicode>11. Weiber.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="536,1500 1020,1498 1020,1444 959,1454 905,1423 860,1447 765,1454 536,1449"/>
+                <Baseline points="542,1482 567,1484 592,1483 617,1482 643,1482 668,1482 693,1482 718,1482 744,1482 769,1482 794,1481 819,1480 845,1482 870,1480 895,1482 920,1482 946,1482 971,1482 996,1482 1022,1482"/>
+                <TextEquiv>
+                    <Unicode>12. Landschaft bei Murnau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="539,1551 795,1560 831,1544 892,1569 967,1560 967,1500 945,1496 804,1496 786,1512 611,1498 589,1514 539,1500"/>
+                <Baseline points="546,1536 572,1537 599,1536 625,1536 652,1536 678,1536 705,1536 731,1536 758,1536 784,1536 811,1535 837,1535 864,1535 890,1535 917,1536 943,1536 970,1534"/>
+                <TextEquiv>
+                    <Unicode>13. Wiesen und Wolken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="536,1604 599,1615 652,1603 669,1615 683,1604 738,1603 778,1618 794,1606 810,1618 836,1605 836,1558 822,1552 716,1560 704,1550 653,1564 614,1549 536,1568"/>
+                <Baseline points="542,1590 568,1590 595,1588 622,1590 649,1590 676,1589 703,1589 730,1589 757,1588 784,1588 811,1590 838,1588"/>
+                <TextEquiv>
+                    <Unicode>14. Hm Bächlein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="537,1659 674,1657 700,1670 736,1657 767,1671 794,1655 824,1659 824,1620 789,1609 778,1618 743,1603 701,1605 684,1617 633,1608 602,1617 575,1604 537,1615"/>
+                <Baseline points="544,1644 569,1644 595,1644 620,1644 646,1644 672,1642 697,1642 723,1643 749,1644 774,1644 800,1644 826,1642"/>
+                <TextEquiv>
+                    <Unicode>15. Alte Bäume.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="536,1717 704,1709 804,1726 802,1658 764,1673 699,1670 681,1659 663,1675 619,1655 578,1672 536,1663"/>
+                <Baseline points="542,1698 568,1698 594,1696 621,1698 647,1698 674,1698 700,1697 726,1696 753,1696 779,1698 806,1696"/>
+                <TextEquiv>
+                    <Unicode>16. Lauterbach.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="536,1765 572,1773 633,1763 651,1777 664,1767 710,1772 750,1763 750,1721 736,1714 690,1725 646,1723 623,1711 607,1721 563,1713 536,1718"/>
+                <Baseline points="542,1750 568,1752 595,1750 621,1750 648,1750 674,1750 701,1750 727,1750 754,1750"/>
+                <TextEquiv>
+                    <Unicode>17. Seeufer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="536,1820 788,1834 786,1779 758,1783 686,1766 667,1775 536,1772"/>
+                <Baseline points="542,1804 569,1804 596,1802 624,1803 651,1804 678,1804 706,1804 733,1804 760,1805 788,1806"/>
+                <TextEquiv>
+                    <Unicode>18. Waldbang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="537,1877 574,1869 587,1881 613,1871 627,1880 641,1872 678,1883 695,1872 734,1877 732,1826 718,1832 686,1823 650,1833 611,1821 586,1829 536,1821"/>
+                <Baseline points="544,1856 571,1858 598,1856 626,1857 653,1858 681,1858 708,1858 736,1858"/>
+                <TextEquiv>
+                    <Unicode>19. Linden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="536,1929 563,1925 577,1932 599,1916 620,1931 645,1924 671,1934 744,1928 743,1881 735,1878 637,1883 608,1874 593,1887 581,1876 555,1886 535,1878"/>
+                <Baseline points="542,1910 567,1912 593,1911 619,1910 645,1910 670,1911 696,1912 722,1912 748,1912"/>
+                <TextEquiv>
+                    <Unicode>20. Weiden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="537,1985 574,2002 610,1986 626,2001 782,1990 830,2006 934,1977 969,1985 969,1922 937,1913 827,1914 696,1941 651,1924 537,1932"/>
+                <Baseline points="544,1968 569,1967 594,1967 619,1966 644,1966 669,1966 695,1966 720,1966 745,1966 770,1965 795,1964 820,1964 846,1966 871,1965 896,1965 921,1966 946,1966 972,1966"/>
+                <TextEquiv>
+                    <Unicode>21. Italienische Pappeln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
