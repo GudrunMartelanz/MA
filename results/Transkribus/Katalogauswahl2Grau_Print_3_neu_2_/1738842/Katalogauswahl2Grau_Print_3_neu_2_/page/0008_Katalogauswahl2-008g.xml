@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:18</Creator>
+        <Created>2024-01-01T21:12:30.323+01:00</Created>
+        <LastChange>2024-01-09T19:18:50.740+01:00</LastChange>
+        <TranskribusMetadata docId="1738842" pageId="63170239" pageNr="8" tsid="144699307" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=POIWJUJYEKEQIVPFZZHYXQMU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JKAIBRYKFHXVFZXACASNPNFC" imageId="50952178"/>
+    </Metadata>
+    <Page imageFilename="0008_Katalogauswahl2-008g.jpg" imageWidth="1259" imageHeight="1963">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574690823" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="237,168 237,1962 1029,1962 1029,168"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="306,220 710,233 752,195 812,195 965,226 964,138 769,186 656,127 566,163 465,142 305,160"/>
+                <Baseline points="311,195 343,193 376,193 409,194 442,195 475,194 507,193 540,194 573,195 606,195 639,195 671,195 704,197 737,197 770,197 802,197 835,197 868,197 901,198 934,199 967,199"/>
+                <TextEquiv>
+                    <Unicode>176. Schlimme Nächte R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_431" custom="readingOrder {index:1;}">
+                <Coords points="301,281 616,289 662,265 727,293 804,270 935,286 960,281 959,221 723,249 520,217 450,237 300,224"/>
+                <Baseline points="305,264 337,262 370,262 403,263 436,264 469,263 501,262 534,263 567,264 602,266 633,264 665,264 698,266 731,266 764,266 796,266 829,266 862,266 895,267 928,268 961,268"/>
+                <TextEquiv>
+                    <Unicode>177. Am Fenster R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_474" custom="readingOrder {index:2;}">
+                <Coords points="304,338 625,359 738,323 791,353 963,351 963,286 917,279 702,313 659,281 304,281"/>
+                <Baseline points="309,321 341,319 374,319 407,320 440,321 473,320 505,319 538,320 571,321 604,321 637,321 669,321 702,323 735,323 768,323 800,323 833,323 866,323 899,324 932,325 965,325"/>
+                <TextEquiv>
+                    <Unicode>178. Ein altes Lied R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_517" custom="readingOrder {index:3;}">
+                <Coords points="302,405 557,416 720,388 961,409 951,348 897,368 788,352 706,382 505,344 301,342"/>
+                <Baseline points="307,386 339,384 372,384 405,385 438,386 471,385 503,384 536,385 569,386 602,386 635,386 667,386 700,388 733,388 766,388 798,388 831,388 864,388 897,389 930,390 963,390"/>
+                <TextEquiv>
+                    <Unicode>179. Im Park R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_560" custom="readingOrder {index:4;}">
+                <Coords points="314,470 973,470 973,407 880,446 807,405 508,424 314,406"/>
+                <Baseline points="319,451 351,449 384,449 417,450 450,451 483,450 515,449 548,450 581,451 614,451 647,451 679,451 712,453 745,453 778,453 810,453 843,453 876,453 909,454 942,455 975,455"/>
+                <TextEquiv>
+                    <Unicode>180. Doch schaudert Leben R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_603" custom="readingOrder {index:5;}">
+                <Coords points="304,537 420,524 653,552 856,515 956,538 962,472 842,506 644,470 303,480"/>
+                <Baseline points="309,512 341,510 374,510 407,511 440,512 473,511 505,510 538,511 571,512 604,512 637,512 669,512 702,514 735,514 768,514 800,514 833,514 866,514 899,515 932,516 965,516"/>
+                <TextEquiv>
+                    <Unicode>181. Ein Totentanz R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_646" custom="readingOrder {index:6;}">
+                <Coords points="308,606 608,605 645,578 967,601 967,537 929,530 875,571 662,568 572,538 308,541"/>
+                <Baseline points="313,577 345,575 378,575 411,576 446,579 477,576 509,575 542,576 575,577 608,577 641,577 673,577 706,579 739,579 772,579 804,579 837,579 870,579 903,580 936,581 969,581"/>
+                <TextEquiv>
+                    <Unicode>182. Ich komme R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_689" custom="readingOrder {index:7;}">
+                <Coords points="304,652 620,656 698,686 766,641 963,654 963,607 931,601 887,630 816,631 716,589 304,605"/>
+                <Baseline points="309,636 341,634 374,634 407,635 440,636 473,635 505,634 538,635 571,636 604,636 637,636 669,636 702,638 735,638 768,638 800,638 833,638 866,638 899,639 932,640 965,640"/>
+                <TextEquiv>
+                    <Unicode>183. Fliehendes Leben R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_732" custom="readingOrder {index:8;}">
+                <Coords points="303,716 584,735 656,703 891,705 962,723 961,665 925,658 836,695 688,697 646,664 302,652"/>
+                <Baseline points="307,702 339,700 372,700 405,701 438,702 471,701 503,700 536,701 569,702 602,702 635,702 667,702 700,704 733,704 766,704 798,704 831,704 864,704 897,705 930,706 963,706"/>
+                <TextEquiv>
+                    <Unicode>184. Eine Tote R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_775" custom="readingOrder {index:9;}">
+                <Coords points="306,777 513,799 590,781 625,800 718,765 965,785 965,720 863,759 306,713"/>
+                <Baseline points="311,763 343,761 376,761 409,762 442,763 475,762 507,761 540,762 573,763 606,763 639,763 671,763 704,765 737,765 770,765 802,765 835,765 868,765 901,766 934,767 967,767"/>
+                <TextEquiv>
+                    <Unicode>185. Die Auffindung R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_818" custom="readingOrder {index:10;}">
+                <Coords points="306,869 674,879 768,838 878,880 965,877 964,786 849,825 668,824 472,780 305,789"/>
+                <Baseline points="311,830 343,828 376,828 409,829 442,830 475,829 507,828 540,829 573,830 606,830 639,830 671,830 704,832 737,832 770,832 802,832 835,832 868,832 901,833 934,834 967,834"/>
+                <TextEquiv>
+                    <Unicode>186. Erlösung R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:11;}">
+                <Coords points="252,928 271,927 303,945 327,932 342,942 366,933 383,942 429,932 467,943 466,887 453,879 429,883 409,872 392,879 377,871 350,886 324,886 279,868 270,876 251,871"/>
+                <Baseline points="257,915 283,913 310,913 336,913 363,913 389,913 416,913 442,914 469,919"/>
+                <TextEquiv>
+                    <Unicode>Max Stary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:12;}">
+                <Coords points="294,994 712,985 747,1012 898,1005 898,945 841,934 765,952 633,930 294,942"/>
+                <Baseline points="299,977 329,975 359,975 389,977 419,975 449,975 479,977 509,977 539,977 569,977 599,975 629,977 659,977 689,977 719,977 749,977 779,977 809,977 839,977 869,979 899,977"/>
+                <TextEquiv>
+                    <Unicode>187. Projekt zu einer gotischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_861" custom="readingOrder {index:13;}">
+                <Coords points="358,1032 519,1061 740,1031 786,1057 849,1032 1018,1041 936,996 895,1023 786,1025 696,992 483,1005 435,987 358,1024"/>
+                <Baseline points="363,1030 395,1028 428,1028 461,1029 494,1030 527,1029 559,1028 592,1029 625,1030 658,1030 691,1030 723,1030 756,1032 789,1032 822,1032 854,1032 887,1032 920,1032 953,1033 986,1034 1019,1034"/>
+                <TextEquiv>
+                    <Unicode>Hauptpfarrkirche Z.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:14;}">
+                <Coords points="298,1111 333,1128 443,1104 629,1128 779,1111 829,1132 895,1110 895,1055 829,1046 506,1066 339,1033 298,1058"/>
+                <Baseline points="303,1093 332,1093 361,1091 390,1093 419,1093 448,1093 477,1093 506,1093 535,1093 564,1093 594,1093 623,1093 652,1093 681,1094 710,1095 739,1095 768,1095 797,1095 826,1095 855,1095 897,1095"/>
+                <TextEquiv>
+                    <Unicode>188. Projekt zu einer Sommer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_904" custom="readingOrder {index:15;}">
+                <Coords points="371,1154 439,1177 523,1145 632,1165 685,1146 1002,1179 1030,1177 1029,1108 933,1095 826,1136 771,1112 532,1138 370,1109"/>
+                <Baseline points="376,1145 408,1143 441,1143 474,1144 507,1145 540,1144 572,1143 605,1144 638,1145 671,1145 704,1145 736,1145 769,1147 802,1147 835,1147 867,1147 900,1147 933,1147 966,1148 999,1149 1032,1149"/>
+                <TextEquiv>
+                    <Unicode>Villa A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:16;}">
+                <Coords points="250,1275 280,1256 330,1264 365,1253 399,1267 422,1256 463,1265 505,1256 504,1207 476,1191 439,1192 430,1183 394,1197 365,1192 336,1207 293,1191 249,1199"/>
+                <Baseline points="255,1237 280,1235 305,1236 330,1236 355,1235 381,1235 406,1235 431,1235 456,1236 481,1237 507,1237"/>
+                <TextEquiv>
+                    <Unicode>Max Klinger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:17;}">
+                <Coords points="302,1316 538,1315 603,1337 664,1314 961,1323 961,1273 839,1242 685,1267 570,1243 535,1263 302,1260"/>
+                <Baseline points="307,1299 339,1297 372,1297 405,1298 438,1299 471,1298 503,1297 536,1298 569,1299 602,1299 635,1299 667,1299 700,1301 733,1301 766,1301 798,1301 831,1301 864,1301 897,1302 930,1303 963,1303"/>
+                <TextEquiv>
+                    <Unicode>189. An Böcklin (Widmungsblatt) R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:18;}">
+                <Coords points="298,1381 963,1383 963,1332 910,1323 707,1349 664,1314 622,1341 529,1318 298,1327"/>
+                <Baseline points="303,1361 336,1361 369,1359 402,1361 435,1361 468,1361 501,1361 534,1361 567,1361 600,1361 634,1363 667,1363 700,1363 733,1363 766,1364 799,1365 832,1365 865,1365 898,1365 931,1365 965,1367"/>
+                <TextEquiv>
+                    <Unicode>190—199. Opus IX, Abt. 1, Vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:19;}">
+                <Coords points="517,1440 564,1438 586,1456 703,1437 731,1451 748,1439 770,1455 842,1449 834,1388 783,1395 743,1377 685,1395 619,1383 599,1393 516,1378"/>
+                <Baseline points="521,1427 547,1425 574,1425 601,1425 628,1425 655,1425 682,1425 708,1425 735,1426 762,1427 789,1427 816,1427 843,1423"/>
+                <TextEquiv>
+                    <Unicode>Tode (10 Blätter)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:20;}">
+                <Coords points="300,1536 503,1499 560,1519 626,1500 967,1509 951,1437 703,1473 655,1445 407,1456 299,1427"/>
+                <Baseline points="305,1483 338,1487 371,1486 404,1486 437,1486 471,1488 504,1489 537,1487 570,1487 603,1489 637,1489 670,1489 703,1490 736,1491 769,1491 803,1491 836,1491 869,1491 902,1491 935,1491 969,1491"/>
+                <TextEquiv>
+                    <Unicode>200—208. Opus IX, Abt. 2, Vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:21;}">
+                <Coords points="514,1564 888,1585 949,1572 949,1518 514,1515"/>
+                <Baseline points="519,1553 544,1551 569,1551 595,1551 620,1551 646,1551 671,1551 696,1551 722,1550 747,1552 773,1552 798,1551 823,1553 849,1553 874,1553 900,1553 925,1553 951,1551"/>
+                <TextEquiv>
+                    <Unicode>Tode (bisher 9 Blatt er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:22;}">
+                <Coords points="506,1627 534,1631 553,1624 603,1646 622,1638 631,1646 665,1647 675,1638 691,1645 691,1574 678,1568 661,1577 640,1569 604,1577 586,1567 570,1573 545,1568 506,1584"/>
+                <Baseline points="511,1603 537,1605 563,1605 589,1605 615,1605 641,1605 667,1605 693,1605"/>
+                <TextEquiv>
+                    <Unicode>schienen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:23;}">
+                <Coords points="353,1703 362,1708 372,1703 389,1707 399,1700 411,1703 412,1633 384,1632 368,1641 355,1634"/>
+                <Baseline points="359,1679 386,1677 413,1677"/>
+                <TextEquiv>
+                    <Unicode>﻿24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
