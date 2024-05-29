@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:21</Creator>
+        <Created>2024-01-01T21:10:09.593+01:00</Created>
+        <LastChange>2024-01-10T17:47:03.597+01:00</LastChange>
+        <TranskribusMetadata docId="1738844" pageId="63170255" pageNr="6" tsid="144902480" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=CECSIEAVZWFGKDPGCAVKNLSZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WXWEGVUFBPUIPWDJGLMUCWUZ" imageId="50952159"/>
+    </Metadata>
+    <Page imageFilename="0006_Katalogauswahl1-006g.jpg" imageWidth="1509" imageHeight="2127">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574965074" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="95,194 95,2126 1415,2126 1415,194"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="256,249 772,233 772,179 751,170 570,167 534,187 395,158 256,188"/>
+                <Baseline points="261,225 286,223 311,223 336,223 361,223 387,222 412,221 437,221 462,221 487,221 513,221 538,221 563,220 588,219 613,221 639,219 664,219 689,220 715,222 748,225 774,226"/>
+                <TextEquiv>
+                    <Unicode>Leibl Wilhelm, München +.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="328,286 402,304 713,288 795,311 823,296 823,233 700,251 634,232 328,246"/>
+                <Baseline points="333,279 358,276 384,275 410,275 436,273 462,275 488,275 514,275 540,274 566,273 591,273 617,273 643,273 669,273 695,273 721,274 747,275 773,274 799,273 825,275"/>
+                <TextEquiv>
+                    <Unicode>198 R. Der Zecher. 42 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="255,356 450,359 476,345 504,359 630,360 673,348 673,300 641,293 535,315 483,288 437,309 336,289 293,299 256,277"/>
+                <Baseline points="261,341 286,339 312,339 338,339 364,338 390,337 416,337 442,337 468,337 493,335 519,337 545,337 571,336 597,336 623,337 649,337 675,337"/>
+                <TextEquiv>
+                    <Unicode>Leistikow W., Berlin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="326,408 853,409 853,351 326,363"/>
+                <Baseline points="331,393 357,391 383,391 409,391 435,391 462,391 488,389 514,389 540,389 566,389 593,389 619,389 645,389 671,389 697,388 724,388 750,389 776,389 802,389 828,389 855,389"/>
+                <TextEquiv>
+                    <Unicode>199 L. Grunewaldsee. 36 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="256,471 800,472 800,416 778,404 485,412 455,429 256,406"/>
+                <Baseline points="261,457 288,455 315,455 342,454 369,453 396,453 423,452 450,451 477,451 504,451 531,451 558,451 585,453 612,452 639,451 666,452 693,452 720,451 747,451 774,451 801,453"/>
+                <TextEquiv>
+                    <Unicode>Lepère Louis Auguste, Paris.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="322,520 1023,521 1023,471 975,450 900,482 848,459 819,480 322,476"/>
+                <Baseline points="327,509 361,506 396,505 431,505 466,505 501,505 536,505 571,505 606,505 641,505 676,505 710,505 745,505 780,505 815,505 850,505 885,505 920,505 955,505 990,505 1025,507"/>
+                <TextEquiv>
+                    <Unicode>200 H. Baignade de Chevaux. 47 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="339,587 420,568 911,573 903,517 339,524"/>
+                <Baseline points="344,559 372,559 400,559 429,559 457,559 486,559 514,559 543,559 571,558 600,558 628,558 656,558 685,558 713,557 742,557 770,559 799,557 827,559 856,559 884,559 913,559"/>
+                <TextEquiv>
+                    <Unicode>201 H. Pont St. Michel. 35 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="339,637 661,622 860,644 908,628 908,573 891,570 761,589 672,575 647,593 605,572 339,587"/>
+                <Baseline points="344,611 372,611 400,613 428,613 457,613 485,613 513,613 541,613 570,612 598,612 626,613 654,613 683,612 711,611 739,611 767,613 796,613 824,613 852,613 880,613 909,615"/>
+                <TextEquiv>
+                    <Unicode>202 H. Porte St. Denis. 47 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="256,696 810,694 810,653 680,629 354,652 257,633"/>
+                <Baseline points="261,679 288,677 316,677 343,676 371,675 398,675 426,677 453,675 481,677 508,675 536,675 563,675 591,675 618,675 646,675 673,675 701,674 728,673 756,673 783,675 811,675"/>
+                <TextEquiv>
+                    <Unicode>Liebermann Ernst, München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="334,750 436,766 488,743 610,763 640,743 841,743 841,685 823,681 725,706 522,686 460,702 334,694"/>
+                <Baseline points="339,731 364,729 389,729 414,728 439,728 465,728 490,727 515,727 540,727 565,727 591,727 616,727 641,727 666,727 691,727 717,727 742,727 767,728 792,728 817,727 843,729"/>
+                <TextEquiv>
+                    <Unicode>203 R. Rotkäppchen. 30 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="254,818 748,812 748,763 702,750 610,764 543,744 436,766 254,751"/>
+                <Baseline points="259,795 284,793 310,792 336,791 362,791 387,791 413,791 439,791 465,791 491,790 516,789 542,789 568,789 594,791 620,790 645,789 671,789 697,789 723,789 749,791"/>
+                <TextEquiv>
+                    <Unicode>Liebermann Max, Berlin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="322,857 923,861 923,786 895,781 743,819 657,802 322,816"/>
+                <Baseline points="327,847 356,845 386,843 416,843 446,843 476,843 506,843 536,843 566,843 596,843 626,843 655,843 685,843 715,843 745,843 775,843 805,843 835,843 865,843 895,843 925,847"/>
+                <TextEquiv>
+                    <Unicode>204 L. Theodor Fontane. 54 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="326,912 495,935 528,915 795,914 867,934 867,860 809,875 664,855 550,874 326,866"/>
+                <Baseline points="331,899 357,897 384,895 411,895 438,896 465,896 492,895 519,895 546,895 573,895 600,895 626,895 653,895 680,895 707,895 734,895 761,896 788,897 815,897 842,895 869,901"/>
+                <TextEquiv>
+                    <Unicode>205 L. Lesende Frau. 30 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="254,984 436,971 520,984 551,970 601,984 649,968 728,983 728,934 673,918 606,935 402,936 255,911"/>
+                <Baseline points="259,963 285,961 311,961 337,959 363,959 389,959 415,958 441,957 467,957 494,957 520,957 546,957 572,957 598,957 624,957 650,957 676,957 702,957 729,959"/>
+                <TextEquiv>
+                    <Unicode>Lunois Alexander, Paris.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="341,1031 1071,1040 1061,974 341,976"/>
+                <Baseline points="346,1010 382,1011 418,1010 455,1011 491,1011 527,1011 564,1011 600,1011 636,1011 673,1011 709,1011 745,1012 782,1011 818,1012 854,1013 891,1011 927,1011 963,1012 1000,1013 1036,1013 1073,1015"/>
+                <TextEquiv>
+                    <Unicode>206 F. L. La danse. 47 K, m. R. 56 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="332,1086 1051,1088 1026,1025 861,1046 765,1025 332,1036"/>
+                <Baseline points="337,1069 372,1065 408,1065 444,1065 480,1065 516,1065 551,1065 587,1065 623,1065 659,1065 695,1065 730,1065 766,1065 802,1065 838,1065 874,1065 909,1065 945,1065 981,1065 1017,1067 1053,1067"/>
+                <TextEquiv>
+                    <Unicode>207 L. Spiritisme. 53 K, m. R. 68 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="330,1137 969,1143 969,1083 330,1084"/>
+                <Baseline points="335,1123 366,1119 398,1119 430,1119 462,1119 494,1119 525,1119 557,1119 589,1119 621,1119 653,1119 684,1119 716,1118 748,1117 780,1117 812,1118 843,1119 875,1119 907,1119 939,1119 971,1119"/>
+                <TextEquiv>
+                    <Unicode>208 f. L. Juana Fernandez. 60 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="322,1188 903,1204 903,1140 866,1130 775,1150 732,1133 672,1149 581,1130 523,1150 477,1131 410,1149 322,1136"/>
+                <Baseline points="327,1175 355,1173 384,1173 413,1173 442,1173 471,1173 500,1173 529,1172 558,1171 587,1171 616,1171 644,1171 673,1171 702,1171 731,1171 760,1171 789,1171 818,1171 847,1172 876,1174 905,1175"/>
+                <TextEquiv>
+                    <Unicode>209 f. L. A L’impartial. 60 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="328,1246 409,1257 469,1227 606,1258 1067,1250 1045,1191 822,1211 605,1189 534,1217 495,1191 328,1188"/>
+                <Baseline points="333,1227 369,1227 406,1225 443,1226 480,1227 517,1227 553,1225 590,1225 627,1225 664,1225 701,1225 737,1225 774,1225 811,1225 848,1225 885,1226 921,1227 958,1225 995,1225 1032,1227 1069,1227"/>
+                <TextEquiv>
+                    <Unicode>210 f. L. L’enlèvement du taureau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="416,1299 426,1297 446,1305 453,1298 475,1301 485,1296 490,1301 502,1294 527,1309 527,1245 517,1240 503,1245 496,1240 474,1259 458,1243 432,1243 424,1235 416,1236"/>
+                <Baseline points="421,1281 448,1279 475,1279 502,1279 529,1281"/>
+                <TextEquiv>
+                    <Unicode>60 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="254,1357 307,1373 387,1354 408,1366 487,1352 569,1361 569,1311 528,1313 501,1294 476,1309 455,1301 441,1314 391,1314 355,1299 254,1289"/>
+                <Baseline points="259,1345 285,1343 311,1343 337,1343 363,1343 389,1343 415,1343 441,1343 467,1342 493,1341 519,1341 545,1341 571,1341"/>
+                <TextEquiv>
+                    <Unicode>Luntz A., Wien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="330,1411 489,1404 539,1423 591,1405 691,1424 769,1412 769,1357 737,1359 708,1336 640,1373 590,1356 562,1368 542,1356 330,1361"/>
+                <Baseline points="335,1399 360,1396 386,1395 411,1395 437,1395 463,1395 488,1394 514,1393 540,1394 565,1395 591,1395 617,1395 642,1395 668,1395 694,1395 719,1395 745,1395 771,1395"/>
+                <TextEquiv>
+                    <Unicode>211 R. Horheim. 36 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="317,1447 345,1451 383,1449 410,1449 437,1449 464,1449 491,1449 518,1449 545,1449 572,1449 599,1447 626,1447 653,1449 680,1449 707,1449 734,1449 761,1449 788,1449 815,1449 842,1449 869,1449 897,1451 898,1436 870,1434 842,1434 815,1434 788,1434 761,1434 734,1434 707,1434 680,1434 654,1434 627,1432 598,1432 571,1434 545,1434 518,1434 491,1434 464,1434 437,1434 410,1434 383,1434 346,1435 319,1432"/>
+                <Baseline points="317,1447 345,1451 383,1449 410,1449 437,1449 464,1449 491,1449 518,1449 545,1449 572,1449 599,1447 626,1447 653,1449 680,1449 707,1449 734,1449 761,1449 788,1449 815,1449 842,1449 869,1449 897,1451"/>
+                <TextEquiv>
+                    <Unicode>212 R. Im Klostergang. 30 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="326,1525 811,1524 811,1463 689,1482 582,1463 464,1479 427,1463 326,1468"/>
+                <Baseline points="331,1503 356,1503 381,1503 407,1503 432,1503 457,1503 483,1503 508,1503 533,1503 559,1503 584,1503 610,1502 635,1501 660,1501 686,1503 711,1503 736,1503 762,1503 787,1503 813,1503"/>
+                <TextEquiv>
+                    <Unicode>213 F. R. Weiden. 30 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="258,1585 687,1591 687,1540 609,1519 574,1538 459,1522 353,1542 258,1523"/>
+                <Baseline points="263,1569 288,1568 313,1567 338,1566 363,1565 388,1565 413,1565 438,1565 463,1565 488,1565 513,1565 538,1565 563,1565 588,1565 613,1565 638,1565 663,1565 689,1567"/>
+                <TextEquiv>
+                    <Unicode>Maurin Charles, Paris.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="328,1647 479,1626 638,1645 885,1635 885,1577 866,1574 328,1584"/>
+                <Baseline points="333,1621 360,1619 388,1618 416,1617 443,1617 471,1617 499,1617 526,1617 554,1617 582,1617 610,1617 637,1617 665,1617 693,1617 720,1617 748,1618 776,1619 803,1619 831,1619 859,1617 887,1617"/>
+                <TextEquiv>
+                    <Unicode>214 R. Weiblicher Akt. 12 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="330,1694 829,1680 937,1698 937,1637 917,1629 798,1649 330,1644"/>
+                <Baseline points="335,1675 365,1673 395,1671 425,1671 455,1673 486,1671 516,1671 546,1671 576,1671 606,1671 637,1671 667,1671 697,1671 727,1671 745,1671 757,1672 788,1671 818,1671 848,1671 878,1673 908,1671 939,1673"/>
+                <TextEquiv>
+                    <Unicode>215. f. R. Les pantoufles. 60 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="322,1745 577,1747 615,1768 669,1745 921,1750 921,1686 322,1695"/>
+                <Baseline points="327,1727 356,1727 386,1725 416,1725 446,1725 476,1725 505,1725 535,1725 565,1725 595,1725 625,1725 654,1725 684,1725 714,1725 744,1725 774,1725 803,1725 833,1725 863,1725 893,1725 923,1727"/>
+                <TextEquiv>
+                    <Unicode>﻿216 R. Mutter und Kind. 20 K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="743,1852 750,1850 754,1854 762,1855 771,1847 782,1848 798,1834 805,1834 806,1779 799,1779 783,1768 781,1770 745,1765"/>
+                <Baseline points="749,1819 778,1817 807,1817"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

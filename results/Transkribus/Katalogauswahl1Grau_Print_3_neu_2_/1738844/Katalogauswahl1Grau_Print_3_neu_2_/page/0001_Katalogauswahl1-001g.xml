@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:21</Creator>
+        <Created>2024-01-01T21:10:08.879+01:00</Created>
+        <LastChange>2024-01-09T19:21:32.841+01:00</LastChange>
+        <TranskribusMetadata docId="1738844" pageId="63170250" pageNr="1" tsid="144699745" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=HHWMSFWKIGBYURGIEIGWDFRW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GYGOGPHCIXDVIGISVZWQTUEG" imageId="50952154"/>
+    </Metadata>
+    <Page imageFilename="0001_Katalogauswahl1-001g.jpg" imageWidth="1514" imageHeight="2128">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574963242" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="110,74 110,2127 1418,2127 1418,74"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="416,1472 1164,1471 1215,1461 1215,1332 840,1336 505,1257 415,1264"/>
+                <Baseline points="424,1478 504,1478 552,1479 599,1478 647,1478 695,1479 742,1479 790,1481 837,1479 885,1479 933,1481 980,1481 1028,1481 1075,1483 1123,1483 1171,1484 1218,1484"/>
+                <TextEquiv>
+                    <Unicode>DeIEDAGGS-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:1;}">
+                <Coords points="796,1561 910,1565 1002,1549 1091,1557 1151,1584 1180,1576 1180,1482 1028,1490 902,1477 796,1494"/>
+                <Baseline points="802,1546 827,1544 852,1542 878,1540 903,1540 929,1540 954,1540 980,1540 1005,1542 1031,1542 1056,1542 1082,1543 1107,1544 1133,1544 1158,1544 1184,1544"/>
+                <TextEquiv>
+                    <Unicode>HVSSCLLDC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:2;}">
+                <Coords points="959,1641 981,1636 998,1643 1004,1637 1017,1638 1034,1627 1045,1629 1049,1625 1066,1630 1067,1557 1015,1559 1003,1550 989,1555 982,1549 976,1555 961,1557"/>
+                <Baseline points="968,1582 993,1581 1019,1581 1044,1580 1070,1580"/>
+                <TextEquiv>
+                    <Unicode>1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:3;}">
+                <Coords points="274,1851 389,1843 469,1786 1270,1804 1269,1694 1189,1682 386,1676 273,1723"/>
+                <Baseline points="280,1753 367,1751 415,1752 462,1751 510,1751 558,1752 605,1752 653,1754 700,1752 748,1752 796,1754 843,1754 891,1754 938,1756 986,1756 1034,1757 1081,1757 1129,1758 1176,1758 1224,1758 1272,1760"/>
+                <TextEquiv>
+                    <Unicode>C SCEIERODARESCERKODSL VOREE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
