@@ -1,0 +1,526 @@
+Microsoft Windows [Version 10.0.19045.3086]
+(c) Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-001.jpg K1-001 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-002.jpg K1-002 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-003.jpg K1-003 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-004.jpg K1-004 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-005.jpg K1-005 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-006.jpg K1-006 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-007.jpg K1-007 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-001.jpg K2-001 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-002.jpg K2-002 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-003.jpg K2-003 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-004.jpg K2-004 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-005.jpg K2-005 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-006.jpg K2-006 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-007.jpg K2-007 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-008.jpg K2-008 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-009.jpg K2-009 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-001.jpg K3-001 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-002.jpg K3-002 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-003.jpg K3-003 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-004.jpg K3-004 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-005.jpg K3-005 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-006.jpg K3-006 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-007.jpg K3-007 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001.jpg K4-001 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002.jpg K4-002 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003.jpg K4-003 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004.jpg K4-004 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005.jpg K4-005 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006.jpg K4-006 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007.jpg K4-007 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008.jpg K4-008 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009.jpg K4-009 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001.jpg K5-001 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002.jpg K5-002 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003.jpg K5-003 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004.jpg K5-004 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005.jpg K5-005 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006.jpg K5-006 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007.jpg K5-007 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008.jpg K5-008 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009.jpg K5-009 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-001g.jpg K1-001g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-002g.jpg K1-002g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-003g.jpg K1-003g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-004g.jpg K1-004g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-005g.jpg K1-005g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-006g.jpg K1-006g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-007g.jpg K1-007g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-001g.jpg K2-001g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-002g.jpg K2-002g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-003g.jpg K2-003g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-004g.jpg K2-004g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-005g.jpg K2-005g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-006g.jpg K2-006g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-007g.jpg K2-007g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-008g.jpg K2-008g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-009g.jpg K2-009g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-001g.jpg K3-001g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-002g.jpg K3-002g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-003g.jpg K3-003g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-004g.jpg K3-004g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-005g.jpg K3-005g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-006g.jpg K3-006g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-007g.jpg K3-007g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001g.jpg K4-001g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002g.jpg K4-002g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003g.jpg K4-003g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004g.jpg K4-004g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005g.jpg K4-005g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006g.jpg K4-006g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007g.jpg K4-007g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008g.jpg K4-008g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009g.jpg K4-009g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001g.jpg K5-001g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002g.jpg K5-002g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003g.jpg K5-003g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004g.jpg K5-004g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005g.jpg K5-005g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006g.jpg K5-006g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007g.jpg K5-007g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008g.jpg K5-008g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009g.jpg K5-009g -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-001.jpg Katalogauswahl1-002psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-002.jpg Katalogauswahl1-002psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-003.jpg Katalogauswahl1-003psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-004.jpg Katalogauswahl1-004psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-005.jpg Katalogauswahl1-005psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-006.jpg Katalogauswahl1-006psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-007.jpg Katalogauswahl1-007psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-001.jpg Katalogauswahl2-001psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-002.jpg Katalogauswahl2-002psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-003.jpg Katalogauswahl2-003psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-004.jpg Katalogauswahl2-004psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-005.jpg Katalogauswahl2-005psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-006.jpg Katalogauswahl2-006psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-007.jpg Katalogauswahl2-007psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-008.jpg Katalogauswahl2-008psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-009.jpg Katalogauswahl2-009psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-001.jpg Katalogauswahl3-001psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-002.jpg Katalogauswahl3-002psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-003.jpg Katalogauswahl3-003psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-004.jpg Katalogauswahl3-004psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-005.jpg Katalogauswahl3-005psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-006.jpg Katalogauswahl3-006psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-007.jpg Katalogauswahl3-007psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001.jpg Katalogauswahl4-001psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002.jpg Katalogauswahl4-002psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003.jpg Katalogauswahl4-003psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004.jpg Katalogauswahl4-004psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005.jpg Katalogauswahl4-005psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006.jpg Katalogauswahl4-006psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007.jpg Katalogauswahl4-007psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008.jpg Katalogauswahl4-008psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009.jpg Katalogauswahl4-009psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001.jpg Katalogauswahl5-001psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002.jpg Katalogauswahl5-002psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003.jpg Katalogauswahl5-003psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004.jpg Katalogauswahl5-004psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005.jpg Katalogauswahl5-005psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006.jpg Katalogauswahl5-006psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007.jpg Katalogauswahl5-007psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008.jpg Katalogauswahl5-008psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009.jpg Katalogauswahl5-009psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-001g.jpg Katalogauswahl1-001gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-002g.jpg Katalogauswahl1-002gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-003g.jpg Katalogauswahl1-003gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-004g.jpg Katalogauswahl1-004gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-005g.jpg Katalogauswahl1-005gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-006g.jpg Katalogauswahl1-006gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-007g.jpg Katalogauswahl1-007gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-001g.jpg Katalogauswahl2-001gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-002g.jpg Katalogauswahl2-002gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-003g.jpg Katalogauswahl2-003gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-004g.jpg Katalogauswahl2-004gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-005g.jpg Katalogauswahl2-005gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-006g.jpg Katalogauswahl2-006gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-007g.jpg Katalogauswahl2-007gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-008g.jpg Katalogauswahl2-008gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-009g.jpg Katalogauswahl2-009gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-001g.jpg Katalogauswahl3-001gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-002g.jpg Katalogauswahl3-002gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-003g.jpg Katalogauswahl3-003gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-004g.jpg Katalogauswahl3-004gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-005g.jpg Katalogauswahl3-005gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-006g.jpg Katalogauswahl3-006gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-007g.jpg Katalogauswahl3-007gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001g.jpg Katalogauswahl4-001gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002g.jpg Katalogauswahl4-002gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003g.jpg Katalogauswahl4-003gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004g.jpg Katalogauswahl4-004gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005g.jpg Katalogauswahl4-005gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006g.jpg Katalogauswahl4-006gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007g.jpg Katalogauswahl4-007gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008g.jpg Katalogauswahl4-008gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009g.jpg Katalogauswahl4-009gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001g.jpg Katalogauswahl5-001gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002g.jpg Katalogauswahl5-002gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003g.jpg Katalogauswahl5-003gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004g.jpg Katalogauswahl5-004gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005g.jpg Katalogauswahl5-005gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006g.jpg Katalogauswahl5-006gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007g.jpg Katalogauswahl5-007gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008g.jpg Katalogauswahl5-008gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009g.jpg Katalogauswahl5-009gpsm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-001.jpg K1-001psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-002.jpg K1-002psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-003.jpg K1-003psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-004.jpg K1-004psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-005.jpg K1-005psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-006.jpg K1-006psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-007.jpg K1-007psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-001.jpg K2-001psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-002.jpg K2-002psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-003.jpg K2-003psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-004.jpg K2-004psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-005.jpg K2-005psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-006.jpg K2-006psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-007.jpg K2-007psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-008.jpg K2-008psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-009.jpg K2-009psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-001.jpg K3-001psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-002.jpg K3-002psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-003.jpg K3-003psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-004.jpg K3-004psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-005.jpg K3-005psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-006.jpg K3-006psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-007.jpg K3-007psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001.jpg K4-001psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002.jpg K4-002psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003.jpg K4-003psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004.jpg K4-004psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005.jpg K4-005psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006.jpg K4-006psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007.jpg K4-007psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008.jpg K4-008psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009.jpg K4-009psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001.jpg K5-001psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002.jpg K5-002psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003.jpg K5-003psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004.jpg K5-004psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005.jpg K5-005psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006.jpg K5-006psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007.jpg K5-007psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008.jpg K5-008psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009.jpg K5-009psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-001g.jpg K1-001gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-002g.jpg K1-002gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-003g.jpg K1-003gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-004g.jpg K1-004gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-005g.jpg K1-005gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-006g.jpg K1-006gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl1-007g.jpg K1-007gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-001g.jpg K2-001gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-002g.jpg K2-002gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-003g.jpg K2-003gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-004g.jpg K2-004gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-005g.jpg K2-005gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-006g.jpg K2-006gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-007g.jpg K2-007gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-008g.jpg K2-008gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl2-009g.jpg K2-009gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-001g.jpg K3-001gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-002g.jpg K3-002gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-003g.jpg K3-003gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-004g.jpg K3-004gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-005g.jpg K3-005gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-006g.jpg K3-006gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl3-007g.jpg K3-007gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001g.jpg K4-001gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002g.jpg K4-002gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003g.jpg K4-003gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004g.jpg K4-004gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005g.jpg K4-005gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006g.jpg K4-006gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007g.jpg K4-007gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008g.jpg K4-008gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009g.jpg K4-009gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-001g.jpg K5-001gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-002g.jpg K5-002gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-003g.jpg K5-003gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-004g.jpg K5-004gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-005g.jpg K5-005gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-006g.jpg K5-006gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-007g.jpg K5-007gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-008g.jpg K5-008gpsm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl4-009g.jpg K5-009g psm6-l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_1.tiff K1_psm3 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_2.tiff K2_psm3 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_3.tiff K3_psm3 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_4.tiff K4_psm3 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_5.tiff K5_psm3 -l deu --psm 3
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_1.tiff Katalogauswahl_1psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_2.tiff Katalogauswah2_1psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_3.tiff Katalogauswah3_1psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_4.tiff Katalogauswah4_1psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_5.tiff Katalogauswah5_1psm4 -l deu --psm 4
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_1.tiff K1_psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_2.tiff K2_psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_3.tiff K3_psm66 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_4.tiff K4_psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>tesseract Katalogauswahl_5.tiff K5_psm6 -l deu --psm 6
+
+C:\Program Files\Tesseract-OCR>
