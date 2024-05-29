@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_18:43</Creator>
+        <Created>2024-01-01T18:17:00.177+01:00</Created>
+        <LastChange>2024-01-09T20:42:46.240+01:00</LastChange>
+        <TranskribusMetadata docId="1738831" pageId="63170140" pageNr="6" tsid="144713972" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=WPGFPAQWZVDNSTBTJEUBCQDV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YASJSABTUIQQQWTIMKKTLOZR" imageId="50951221"/>
+    </Metadata>
+    <Page imageFilename="0006_p006.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716573730906" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="328,534 328,3320 2149,3320 2149,534"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1250,585 1277,585 1298,585 1298,570 1277,570 1250,570"/>
+                <Baseline points="1250,585 1277,585 1298,585"/>
+                <TextEquiv>
+                    <Unicode>616</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="508,757 997,736 1068,768 1223,761 1223,658 1130,633 1019,629 969,659 859,629 807,656 784,633 750,654 508,647"/>
+                <Baseline points="519,722 554,722 589,722 625,722 660,722 696,719 731,721 766,722 802,722 837,722 873,719 908,721 943,721 979,719 1014,719 1050,722 1085,722 1120,722 1156,723 1191,725 1227,725"/>
+                <TextEquiv>
+                    <Unicode>Felix Kraus in Villach.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1040" custom="readingOrder {index:2;}">
+                <Coords points="579,843 2003,853 1985,745 1186,777 579,748"/>
+                <Baseline points="589,825 659,825 730,825 801,825 872,825 943,825 1014,825 1085,825 1156,825 1227,825 1298,825 1368,825 1439,822 1510,825 1581,825 1652,825 1723,825 1794,825 1865,825 1936,825 2007,825"/>
+                <TextEquiv>
+                    <Unicode>123. Widmanngasse in Villach. Original-Holzschnitt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_997" custom="readingOrder {index:3;}">
+                <Coords points="585,953 782,926 866,976 1118,917 1301,976 2007,971 1975,848 1514,839 1438,891 1298,896 1134,832 585,843"/>
+                <Baseline points="594,908 664,908 735,908 806,908 877,908 948,908 1019,908 1090,908 1161,908 1232,908 1303,908 1373,908 1444,905 1515,908 1586,908 1657,908 1728,908 1799,908 1870,908 1941,908 2012,908"/>
+                <TextEquiv>
+                    <Unicode>124. Alter Hof in Villach. Original-Holzschnitt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="512,1070 684,1075 732,1047 859,1082 1036,1051 1306,1090 1376,1075 1376,985 1075,960 866,987 510,947"/>
+                <Baseline points="522,1030 563,1027 605,1027 646,1027 688,1027 729,1027 771,1027 812,1027 854,1027 895,1027 937,1027 978,1027 1020,1027 1061,1027 1103,1027 1144,1030 1186,1030 1227,1030 1269,1030 1310,1031 1381,1031"/>
+                <TextEquiv>
+                    <Unicode>Emmy Singer in Voitsberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_954" custom="readingOrder {index:5;}">
+                <Coords points="574,1154 1003,1184 1472,1125 1738,1196 1998,1162 1998,1063 1813,1047 1703,1082 1509,1058 1333,1114 1143,1116 939,1054 574,1068"/>
+                <Baseline points="584,1127 654,1127 725,1127 796,1127 867,1127 938,1127 1009,1127 1080,1127 1151,1127 1222,1127 1293,1127 1363,1127 1434,1124 1505,1127 1576,1127 1647,1127 1718,1127 1789,1127 1860,1127 1931,1127 2002,1127"/>
+                <TextEquiv>
+                    <Unicode>125. Sonnenflecken. Farbige Zeichnung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="508,1294 611,1267 681,1294 738,1267 814,1292 896,1267 1299,1294 1299,1203 1207,1155 1061,1187 931,1186 903,1159 818,1187 508,1178"/>
+                <Baseline points="519,1247 558,1247 597,1247 636,1247 676,1247 715,1247 754,1247 793,1247 833,1244 872,1247 911,1247 950,1247 990,1247 1029,1248 1068,1249 1107,1247 1147,1247 1186,1247 1225,1249 1264,1250 1304,1250"/>
+                <TextEquiv>
+                    <Unicode>Norbertine Roth in Wien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_911" custom="readingOrder {index:7;}">
+                <Coords points="595,1394 1150,1386 1230,1347 2019,1374 2019,1305 1968,1283 1753,1283 1690,1330 595,1301"/>
+                <Baseline points="605,1346 675,1346 746,1346 817,1346 888,1346 959,1346 1030,1346 1101,1346 1172,1346 1243,1346 1314,1346 1384,1346 1455,1343 1526,1346 1597,1346 1668,1346 1739,1346 1810,1346 1881,1346 1952,1346 2023,1346"/>
+                <TextEquiv>
+                    <Unicode>126. Zwei Panther. Gouache.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:8;}">
+                <Coords points="508,1490 631,1518 755,1486 839,1506 1008,1479 1184,1530 1182,1401 1063,1392 990,1422 963,1397 889,1426 780,1395 508,1402"/>
+                <Baseline points="519,1471 552,1469 585,1469 618,1470 652,1468 685,1468 718,1468 752,1468 785,1468 818,1468 852,1468 885,1468 918,1468 951,1468 985,1468 1018,1468 1051,1468 1085,1470 1118,1471 1151,1471 1185,1471"/>
+                <TextEquiv>
+                    <Unicode>Franz Hofer in Wien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_868" custom="readingOrder {index:9;}">
+                <Coords points="583,1602 1475,1566 1673,1571 1728,1616 2005,1598 2005,1477 1863,1454 1630,1552 583,1518"/>
+                <Baseline points="592,1568 662,1568 733,1568 804,1568 875,1568 946,1568 1017,1568 1088,1568 1159,1568 1230,1568 1301,1568 1371,1568 1442,1565 1513,1568 1584,1568 1655,1568 1726,1568 1797,1568 1868,1568 1939,1568 2010,1568"/>
+                <TextEquiv>
+                    <Unicode>127. Dorfstraße. Radierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:10;}">
+                <Coords points="508,1708 723,1737 771,1712 1356,1733 1356,1589 1305,1607 1269,1573 1230,1607 1191,1582 686,1646 588,1641 508,1594"/>
+                <Baseline points="519,1695 561,1692 603,1692 645,1692 687,1695 729,1690 771,1691 813,1692 855,1692 897,1692 940,1690 982,1691 1024,1692 1066,1692 1108,1692 1150,1692 1192,1692 1234,1692 1276,1692 1318,1692 1361,1689"/>
+                <TextEquiv>
+                    <Unicode>Bertha Richter in München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_825" custom="readingOrder {index:11;}">
+                <Coords points="583,1818 939,1802 1344,1857 1491,1795 2005,1818 2005,1730 1781,1689 1587,1783 1347,1779 1267,1722 1118,1712 718,1765 583,1738"/>
+                <Baseline points="592,1797 662,1797 733,1797 804,1797 875,1797 946,1797 1017,1797 1088,1797 1159,1797 1230,1797 1301,1797 1371,1797 1442,1794 1513,1797 1584,1797 1655,1797 1726,1797 1797,1797 1868,1797 1939,1797 2010,1797"/>
+                <TextEquiv>
+                    <Unicode>128. Aus der Öststeiermark. Radierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_782" custom="readingOrder {index:12;}">
+                <Coords points="585,1902 2007,1905 2007,1818 1934,1806 1877,1838 1760,1809 1664,1870 585,1817"/>
+                <Baseline points="594,1883 664,1883 735,1883 806,1883 877,1883 948,1883 1019,1883 1090,1883 1161,1883 1232,1883 1303,1883 1373,1883 1444,1880 1515,1883 1586,1883 1657,1883 1728,1883 1799,1883 1870,1883 1941,1883 2012,1883"/>
+                <TextEquiv>
+                    <Unicode>129. Wolkenstudie. Radierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_739" custom="readingOrder {index:13;}">
+                <Coords points="583,1978 955,1978 1008,2025 1207,1968 2005,1985 2005,1916 1948,1895 1749,1893 1655,1952 1219,1955 1118,1889 583,1914"/>
+                <Baseline points="592,1967 662,1967 733,1967 804,1967 875,1967 946,1967 1017,1967 1088,1967 1159,1967 1230,1967 1301,1967 1371,1967 1442,1964 1513,1967 1584,1967 1655,1967 1726,1967 1797,1967 1868,1967 1939,1967 2010,1967"/>
+                <TextEquiv>
+                    <Unicode>130. Dimavo-Ursprung. Radierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_696" custom="readingOrder {index:14;}">
+                <Coords points="595,2089 924,2106 1104,2057 1383,2106 1586,2055 2019,2106 1996,1985 1386,2019 1296,1982 1219,2037 1019,2039 921,1987 595,1991"/>
+                <Baseline points="605,2050 675,2050 746,2050 817,2050 888,2050 959,2050 1030,2050 1101,2050 1172,2050 1243,2050 1314,2050 1384,2050 1455,2047 1526,2050 1597,2050 1668,2050 1739,2050 1810,2050 1881,2050 1952,2050 2023,2050"/>
+                <TextEquiv>
+                    <Unicode>131 Chiemsee. Radierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:15;}">
+                <Coords points="519,2192 670,2186 802,2220 871,2186 1029,2188 1150,2236 1150,2117 1118,2103 997,2089 885,2117 857,2094 683,2092 601,2121 569,2090 519,2096"/>
+                <Baseline points="528,2173 559,2173 590,2173 622,2172 653,2168 684,2168 716,2169 747,2167 778,2167 810,2168 841,2170 872,2168 904,2168 935,2170 966,2170 998,2170 1029,2170 1060,2170 1092,2172 1123,2173 1155,2173"/>
+                <TextEquiv>
+                    <Unicode>Carl Berger in Graz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_653" custom="readingOrder {index:16;}">
+                <Coords points="579,2314 1477,2266 1657,2330 2003,2334 2003,2179 1962,2172 1742,2256 579,2209"/>
+                <Baseline points="589,2269 659,2269 730,2269 801,2269 872,2269 943,2269 1014,2269 1085,2269 1156,2269 1227,2269 1298,2269 1368,2269 1439,2266 1510,2269 1581,2269 1652,2269 1723,2269 1794,2269 1865,2269 1936,2269 2007,2269"/>
+                <TextEquiv>
+                    <Unicode>132. Vorfrühling. Aquarell.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:17;}">
+                <Coords points="512,2426 745,2396 992,2423 1042,2385 1523,2419 1523,2323 1495,2318 512,2313"/>
+                <Baseline points="522,2379 572,2379 622,2379 672,2379 723,2378 773,2376 823,2378 874,2379 924,2376 974,2379 1025,2376 1075,2376 1125,2377 1175,2379 1226,2379 1276,2379 1326,2379 1377,2376 1427,2379 1477,2380 1528,2379"/>
+                <TextEquiv>
+                    <Unicode>Martha Elisabeth Fossel in Graz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:18;}">
+                <Coords points="576,2522 729,2487 1353,2528 2001,2494 2001,2400 1817,2384 1733,2435 1646,2400 988,2432 747,2396 576,2435"/>
+                <Baseline points="585,2475 656,2472 727,2472 798,2472 869,2472 940,2472 1011,2472 1082,2475 1153,2472 1224,2472 1295,2472 1366,2473 1437,2472 1508,2472 1579,2472 1650,2472 1721,2472 1792,2470 1863,2472 1934,2472 2006,2472"/>
+                <TextEquiv>
+                    <Unicode>133. Porträt Sr. Exz. des Landeshauptmanns Edmund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:19;}">
+                <Coords points="613,2552 1051,2592 1187,2549 2037,2551 2000,2503 1809,2485 1619,2490 1555,2535 768,2488 613,2531"/>
+                <Baseline points="623,2548 693,2548 764,2548 835,2548 906,2548 977,2548 1048,2548 1119,2548 1190,2548 1261,2548 1332,2548 1402,2548 1473,2545 1544,2548 1615,2548 1686,2548 1757,2548 1828,2548 1899,2548 1970,2548 2041,2548"/>
+                <TextEquiv>
+                    <Unicode>Grafen Attems. Federzeichnung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:20;}">
+                <Coords points="1178,2636 2012,2636 2012,2583 1925,2563 1637,2583 1523,2545 1445,2568 1178,2547"/>
+                <Baseline points="1188,2612 1229,2609 1270,2609 1312,2609 1353,2609 1394,2609 1436,2609 1477,2609 1518,2609 1560,2609 1601,2609 1642,2609 1684,2609 1725,2609 1766,2609 1808,2609 1849,2609 1890,2609 1932,2609 1973,2611 2015,2612"/>
+                <TextEquiv>
+                    <Unicode>Eigentum des Landesmuseumsvereines.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:21;}">
+                <Coords points="578,2746 1330,2725 1657,2759 1781,2721 2001,2755 1971,2634 578,2641"/>
+                <Baseline points="588,2692 658,2692 729,2692 800,2692 871,2692 942,2692 1013,2692 1084,2692 1155,2692 1226,2692 1297,2692 1367,2692 1438,2689 1509,2692 1580,2692 1651,2692 1722,2692 1793,2692 1864,2692 1935,2692 2006,2692"/>
+                <TextEquiv>
+                    <Unicode>134. Nachbildung der Zeichnung. Nr. 133. Heliogravure.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

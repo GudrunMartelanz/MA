@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=provided:date=06_01_2024_20:13</Creator>
+        <Created>2024-01-06T20:00:21.311+01:00</Created>
+        <LastChange>2024-01-06T20:13:26.767+01:00</LastChange>
+        <TranskribusMetadata docId="1736090" pageId="63135524" pageNr="4" tsid="144506299" status="DONE" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=FJHHWYECTMZJJLIZOOTBFMHS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IKIGILAUGXVYSUTFXWDCLWDC" imageId="51043574"/>
+    </Metadata>
+    <Page imageFilename="0004_p004.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716573734818" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="340,599 340,3321 2152,3321 2152,599"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1643,675 1654,675 1697,657 1711,664 1722,653 1738,655 1740,571 1727,571 1706,548 1693,548 1672,564 1661,557 1645,557"/>
+                <Baseline points="1656,653 1685,651 1714,650 1743,650"/>
+                <Word id="tr_1_tl_1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1641,613 1641,673 1641,673 1641,613"/>
+                    <TextEquiv>
+                        <Unicode>D</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>D</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="814,703 825,703 854,675 884,664 900,648 927,659 968,657 974,539 963,537 927,562 902,553 886,562 866,542 841,560 820,560"/>
+                <Baseline points="829,653 857,659 886,659 915,655 944,652 973,650"/>
+                <Word id="tr_1_tl_2_w1" custom="readingOrder {index:0;}">
+                    <Coords points="804,613 804,673 814,673 814,613"/>
+                    <TextEquiv>
+                        <Unicode>2</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="635,662 664,659 671,664 675,659 687,666 725,666 718,562 705,562 703,567 680,573 659,560 630,567"/>
+                <Baseline points="647,659 674,655 701,656 728,665"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="449,866 601,845 807,891 965,843 1235,875 1285,845 1605,886 1879,836 1879,768 1700,795 1489,648 1348,721 1201,646 1056,718 900,648 798,727 675,659 569,730 451,644"/>
+                <Baseline points="462,815 533,821 604,821 675,821 746,819 817,818 888,818 960,817 1031,821 1102,822 1173,815 1244,812 1315,812 1386,809 1458,816 1529,818 1600,818 1671,817 1742,815 1813,815 1885,808"/>
+                <Word id="tr_1_tl_4_w1" custom="readingOrder {index:0;}">
+                    <Coords points="461,775 461,835 461,835 461,775"/>
+                    <TextEquiv>
+                        <Unicode>M</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>M</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="485,1224 1888,1228 1888,1086 1580,1110 1337,1061 1265,1110 1104,1079 739,1131 485,1092"/>
+                <Baseline points="498,1185 567,1188 637,1188 707,1188 776,1187 846,1185 916,1188 985,1188 1055,1185 1125,1188 1195,1187 1264,1188 1334,1188 1404,1185 1473,1185 1543,1185 1613,1188 1682,1185 1752,1185 1822,1187 1892,1188"/>
+                <Word id="tr_1_tl_5_w1" custom="readingOrder {index:0;}">
+                    <Coords points="484,1147 484,1207 629,1207 629,1147"/>
+                    <TextEquiv>
+                        <Unicode>Der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_5_w2" custom="readingOrder {index:1;}">
+                    <Coords points="649,1145 649,1205 997,1205 997,1145"/>
+                    <TextEquiv>
+                        <Unicode>moderne</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_5_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1046,1147 1046,1207 1375,1207 1375,1147"/>
+                    <TextEquiv>
+                        <Unicode>deutsche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_5_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1404,1146 1404,1206 1878,1206 1878,1146"/>
+                    <TextEquiv>
+                        <Unicode>Holzschnitt.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Der moderne deutsche Holzschnitt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="446,1371 1917,1362 1917,1271 1836,1233 1706,1274 1672,1242 1600,1276 446,1260"/>
+                <Baseline points="459,1322 532,1325 605,1325 678,1322 751,1322 824,1322 897,1322 971,1327 1044,1322 1117,1322 1190,1321 1263,1323 1336,1322 1409,1322 1483,1320 1556,1322 1629,1322 1702,1322 1775,1319 1848,1322 1922,1319"/>
+                <Word id="tr_1_tl_6_w1" custom="readingOrder {index:0;}">
+                    <Coords points="441,1282 441,1342 994,1342 994,1282"/>
+                    <TextEquiv>
+                        <Unicode>Wander-Ausstellung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1035,1282 1035,1342 1113,1342 1113,1282"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1154,1282 1154,1342 1428,1342 1428,1282"/>
+                    <TextEquiv>
+                        <Unicode>Verbandes</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1463,1282 1463,1342 1713,1342 1713,1282"/>
+                    <TextEquiv>
+                        <Unicode>deutscher</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1748,1281 1748,1341 1921,1341 1921,1281"/>
+                    <TextEquiv>
+                        <Unicode>Kunst¬</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Wander-Ausstellung des Verbandes deutscher Kunst¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1086,1471 1110,1475 1124,1459 1140,1469 1183,1466 1208,1455 1249,1475 1276,1464 1303,1473 1301,1355 1203,1346 1169,1369 1131,1351 1097,1367 1083,1364"/>
+                <Baseline points="1095,1406 1121,1406 1148,1406 1174,1406 1201,1406 1227,1406 1254,1408 1280,1409 1307,1409"/>
+                <Word id="tr_1_tl_7_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1078,1366 1078,1426 1289,1426 1289,1366"/>
+                    <TextEquiv>
+                        <Unicode>vereine.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>vereine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="435,1595 533,1627 693,1598 891,1634 981,1593 1072,1627 1192,1600 1271,1627 1271,1487 963,1484 886,1516 657,1469 585,1505 435,1484"/>
+                <Baseline points="447,1573 488,1576 530,1576 571,1576 613,1574 654,1573 696,1573 737,1573 779,1573 820,1573 862,1574 903,1575 945,1573 986,1573 1028,1573 1069,1573 1111,1575 1152,1574 1194,1575 1235,1576 1277,1576"/>
+                <Word id="tr_1_tl_8_w1" custom="readingOrder {index:0;}">
+                    <Coords points="432,1536 432,1596 565,1596 565,1536"/>
+                    <TextEquiv>
+                        <Unicode>Karl</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_8_w2" custom="readingOrder {index:1;}">
+                    <Coords points="594,1533 594,1593 882,1593 882,1533"/>
+                    <TextEquiv>
+                        <Unicode>Themann</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_8_w3" custom="readingOrder {index:2;}">
+                    <Coords points="919,1533 919,1593 978,1593 978,1533"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_8_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1022,1534 1022,1594 1251,1594 1251,1534"/>
+                    <TextEquiv>
+                        <Unicode>Dachau.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Karl Themann in Dachau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="528,1695 603,1697 648,1734 709,1718 798,1729 848,1691 877,1700 877,1611 827,1614 814,1602 737,1618 691,1600 594,1618 564,1605 528,1627"/>
+                <Baseline points="540,1662 566,1665 592,1668 619,1668 645,1668 671,1668 698,1668 724,1668 751,1668 777,1668 803,1668 830,1668 856,1668 883,1665"/>
+                <Word id="tr_1_tl_9_w1" custom="readingOrder {index:0;}">
+                    <Coords points="524,1622 524,1682 570,1682 570,1622"/>
+                    <TextEquiv>
+                        <Unicode>1.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_9_w2" custom="readingOrder {index:1;}">
+                    <Coords points="603,1628 603,1688 867,1688 867,1628"/>
+                    <TextEquiv>
+                        <Unicode>Schwäne.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>1. Schwäne.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="440,1829 526,1854 646,1824 709,1856 1289,1842 1289,1725 1262,1720 1210,1747 1042,1713 893,1765 782,1722 705,1747 612,1720 562,1754 440,1709"/>
+                <Baseline points="453,1809 495,1809 537,1812 579,1812 621,1810 663,1809 705,1809 747,1811 789,1811 831,1809 874,1809 916,1809 958,1809 1000,1809 1042,1809 1084,1809 1126,1809 1168,1809 1210,1809 1252,1809 1295,1809"/>
+                <Word id="tr_1_tl_10_w1" custom="readingOrder {index:0;}">
+                    <Coords points="437,1769 437,1829 545,1829 545,1769"/>
+                    <TextEquiv>
+                        <Unicode>Max</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_10_w2" custom="readingOrder {index:1;}">
+                    <Coords points="596,1770 596,1830 864,1830 864,1770"/>
+                    <TextEquiv>
+                        <Unicode>Bucherer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_10_w3" custom="readingOrder {index:2;}">
+                    <Coords points="900,1769 900,1829 944,1829 944,1769"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_10_w4" custom="readingOrder {index:3;}">
+                    <Coords points="994,1769 994,1829 1284,1829 1284,1769"/>
+                    <TextEquiv>
+                        <Unicode>München.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Max Bucherer in München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="528,1933 562,1956 603,1933 625,1951 664,1938 691,1954 716,1929 757,1924 795,1951 818,1942 870,1954 870,1854 827,1856 786,1838 723,1856 641,1831 619,1849 528,1849"/>
+                <Baseline points="540,1901 565,1901 591,1901 617,1901 643,1901 669,1901 695,1901 721,1901 747,1901 773,1901 799,1901 825,1901 851,1901 877,1904"/>
+                <Word id="tr_1_tl_11_w1" custom="readingOrder {index:0;}">
+                    <Coords points="525,1861 525,1921 574,1921 574,1861"/>
+                    <TextEquiv>
+                        <Unicode>2.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_11_w2" custom="readingOrder {index:1;}">
+                    <Coords points="603,1861 603,1921 674,1921 674,1861"/>
+                    <TextEquiv>
+                        <Unicode>Ex</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_11_w3" custom="readingOrder {index:2;}">
+                    <Coords points="702,1861 702,1921 865,1921 865,1861"/>
+                    <TextEquiv>
+                        <Unicode>libris.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>2. Ex libris.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="444,2062 1303,2071 1303,1956 1274,1949 1206,1983 1090,1963 956,1997 836,1949 444,1958"/>
+                <Baseline points="456,2036 498,2036 541,2039 583,2041 626,2042 668,2042 711,2040 753,2041 796,2042 838,2042 881,2042 924,2042 966,2042 1009,2042 1051,2042 1094,2042 1136,2043 1179,2045 1221,2042 1264,2042 1307,2045"/>
+                <Word id="tr_1_tl_12_w1" custom="readingOrder {index:0;}">
+                    <Coords points="441,1999 441,2059 678,2059 678,1999"/>
+                    <TextEquiv>
+                        <Unicode>Walther</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_12_w2" custom="readingOrder {index:1;}">
+                    <Coords points="709,2002 709,2062 892,2062 892,2002"/>
+                    <TextEquiv>
+                        <Unicode>Klemm</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_12_w3" custom="readingOrder {index:2;}">
+                    <Coords points="961,2002 961,2062 1007,2062 1007,2002"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_12_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1053,2004 1053,2064 1282,2064 1282,2004"/>
+                    <TextEquiv>
+                        <Unicode>Dachau.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Walther Klemm in Dachau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="521,2171 580,2194 623,2151 655,2178 727,2169 746,2185 940,2189 940,2076 805,2085 782,2071 732,2083 635,2069 607,2094 569,2074 521,2089"/>
+                <Baseline points="534,2131 559,2129 585,2128 611,2130 637,2131 662,2131 688,2132 714,2134 740,2134 765,2134 791,2134 817,2134 843,2134 868,2134 894,2134 920,2134 946,2134"/>
+                <Word id="tr_1_tl_13_w1" custom="readingOrder {index:0;}">
+                    <Coords points="518,2090 518,2150 553,2150 553,2090"/>
+                    <TextEquiv>
+                        <Unicode>3.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_13_w2" custom="readingOrder {index:1;}">
+                    <Coords points="595,2094 595,2154 928,2154 928,2094"/>
+                    <TextEquiv>
+                        <Unicode>Windmühle.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>3. Windmühle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="437,2309 945,2287 997,2334 1181,2296 1326,2314 1328,2194 1292,2176 1174,2219 1061,2196 902,2221 829,2178 591,2225 478,2144 440,2160"/>
+                <Baseline points="450,2271 494,2274 538,2274 582,2277 626,2274 670,2274 714,2274 758,2274 802,2274 846,2274 890,2274 934,2272 978,2273 1022,2272 1066,2273 1110,2274 1154,2274 1198,2274 1242,2274 1286,2274 1331,2274"/>
+                <Word id="tr_1_tl_14_w1" custom="readingOrder {index:0;}">
+                    <Coords points="434,2234 434,2294 586,2294 586,2234"/>
+                    <TextEquiv>
+                        <Unicode>Hans</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_14_w2" custom="readingOrder {index:1;}">
+                    <Coords points="629,2234 629,2294 896,2294 896,2234"/>
+                    <TextEquiv>
+                        <Unicode>Neumann</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_14_w3" custom="readingOrder {index:2;}">
+                    <Coords points="940,2232 940,2292 983,2292 983,2232"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_14_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1027,2234 1027,2294 1323,2294 1323,2234"/>
+                    <TextEquiv>
+                        <Unicode>München.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Hans Neumann in München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="533,2393 576,2391 610,2418 671,2418 709,2393 746,2425 775,2402 827,2423 904,2409 965,2420 965,2307 945,2300 922,2316 839,2300 802,2316 687,2300 673,2314 650,2300 625,2316 533,2314"/>
+                <Baseline points="546,2364 572,2362 599,2361 625,2361 652,2361 678,2361 705,2363 731,2364 758,2364 784,2364 811,2364 837,2362 864,2361 890,2361 917,2362 943,2364 970,2364"/>
+                <Word id="tr_1_tl_15_w1" custom="readingOrder {index:0;}">
+                    <Coords points="529,2323 529,2383 573,2383 573,2323"/>
+                    <TextEquiv>
+                        <Unicode>4.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_15_w2" custom="readingOrder {index:1;}">
+                    <Coords points="605,2324 605,2384 949,2384 949,2324"/>
+                    <TextEquiv>
+                        <Unicode>Winterabend.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>4. Winterabend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="435,2522 544,2547 771,2527 850,2565 950,2527 1081,2559 1344,2518 1344,2427 1287,2452 1190,2425 435,2443"/>
+                <Baseline points="447,2507 492,2507 537,2507 582,2507 627,2507 672,2504 717,2504 762,2504 807,2504 852,2504 898,2504 943,2504 988,2504 1033,2504 1078,2504 1123,2504 1168,2504 1213,2504 1258,2504 1303,2507 1349,2507"/>
+                <Word id="tr_1_tl_16_w1" custom="readingOrder {index:0;}">
+                    <Coords points="432,2467 432,2527 597,2527 597,2467"/>
+                    <TextEquiv>
+                        <Unicode>Adolf</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_16_w2" custom="readingOrder {index:1;}">
+                    <Coords points="627,2464 627,2524 904,2524 904,2464"/>
+                    <TextEquiv>
+                        <Unicode>Thomann</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_16_w3" custom="readingOrder {index:2;}">
+                    <Coords points="949,2464 949,2524 994,2524 994,2464"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_16_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1039,2464 1039,2524 1339,2524 1339,2464"/>
+                    <TextEquiv>
+                        <Unicode>München.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Adolf Thomann in München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="530,2631 582,2629 603,2613 748,2633 807,2618 807,2538 773,2529 737,2543 709,2531 687,2550 659,2529 628,2531 610,2550 578,2538 553,2552 530,2547"/>
+                <Baseline points="543,2597 569,2597 596,2598 623,2599 650,2599 677,2597 704,2597 731,2597 758,2597 785,2598 812,2600"/>
+                <Word id="tr_1_tl_17_w1" custom="readingOrder {index:0;}">
+                    <Coords points="526,2557 526,2617 582,2617 582,2557"/>
+                    <TextEquiv>
+                        <Unicode>5.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_17_w2" custom="readingOrder {index:1;}">
+                    <Coords points="609,2557 609,2617 789,2617 789,2557"/>
+                    <TextEquiv>
+                        <Unicode>Zirkus.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>5. Zirkus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="530,2751 587,2753 625,2717 673,2738 712,2729 737,2751 791,2726 809,2738 940,2729 943,2629 900,2633 879,2615 841,2631 798,2615 761,2636 687,2620 639,2633 533,2622"/>
+                <Baseline points="546,2683 571,2685 596,2686 621,2686 646,2686 671,2686 696,2686 721,2686 746,2686 771,2686 796,2686 821,2686 846,2684 871,2683 896,2683 921,2684 946,2686"/>
+                <Word id="tr_1_tl_18_w1" custom="readingOrder {index:0;}">
+                    <Coords points="526,2643 526,2703 578,2703 578,2643"/>
+                    <TextEquiv>
+                        <Unicode>6.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_18_w2" custom="readingOrder {index:1;}">
+                    <Coords points="610,2646 610,2706 927,2706 927,2646"/>
+                    <TextEquiv>
+                        <Unicode>Zirkusprobe.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>6. Zirkusprobe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="329,3316 2146,3313 2148,3177 331,3175"/>
+                <Baseline points="340,3296 430,3296 521,3293 611,3296 702,3296 793,3294 883,3296 974,3293 1064,3288 1155,3286 1246,3284 1336,3284 1427,3286 1517,3286 1608,3284 1699,3284 1789,3284 1880,3284 1970,3284 2061,3284 2152,3287"/>
+                <Word id="tr_1_tl_19_w1" custom="readingOrder {index:0;}">
+                    <Coords points="332,3253 332,3313 654,3313 654,3253"/>
+                    <TextEquiv>
+                        <Unicode>COBV-NCS</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_19_w2" custom="readingOrder {index:1;}">
+                    <Coords points="654,3255 654,3315 775,3315 775,3255"/>
+                    <TextEquiv>
+                        <Unicode>AT</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_19_w3" custom="readingOrder {index:2;}">
+                    <Coords points="788,3255 788,3315 936,3315 936,3255"/>
+                    <TextEquiv>
+                        <Unicode>20180</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_19_w4" custom="readingOrder {index:3;}">
+                    <Coords points="936,3244 936,3304 1782,3304 1782,3244"/>
+                    <TextEquiv>
+                        <Unicode>WW.Landesbibliothek,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_19_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1795,3244 1795,3304 2037,3304 2037,3244"/>
+                    <TextEquiv>
+                        <Unicode>steiermark</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_19_w6" custom="readingOrder {index:5;}">
+                    <Coords points="2064,3244 2064,3304 2104,3304 2104,3244"/>
+                    <TextEquiv>
+                        <Unicode>at</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>COBV-NCS AT 20180 WW.Landesbibliothek, steiermark at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
