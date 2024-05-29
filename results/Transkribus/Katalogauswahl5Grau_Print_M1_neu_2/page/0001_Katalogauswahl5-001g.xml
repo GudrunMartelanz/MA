@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_18:56</Creator>
+        <Created>2024-01-01T21:17:24.006+01:00</Created>
+        <LastChange>2024-01-09T18:56:43.325+01:00</LastChange>
+        <TranskribusMetadata docId="1738699" pageId="63169464" pageNr="1" tsid="144695477" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=OFPTBIFHHHYYVFVBQAVSVUQH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JAFVKRCLLVGKEUWBNUYUIDSG" imageId="50952228"/>
+    </Metadata>
+    <Page imageFilename="0001_Katalogauswahl5-001g.jpg" imageWidth="1823" imageHeight="2281">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574307137" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="126,83 126,2280 1680,2280 1680,83"/>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:0;}">
+                <Coords points="541,547 612,526 1310,530 1310,436 1285,431 806,439 541,413"/>
+                <Baseline points="546,518 587,520 629,520 671,516 713,518 755,518 797,516 839,518 881,516 923,517 965,516 1006,515 1048,516 1090,514 1132,515 1174,516 1216,518 1258,517 1311,517"/>
+                <TextEquiv>
+                    <Unicode>SEIERMARKISCHER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:1;}">
+                <Coords points="595,629 753,602 1232,610 1224,526 595,532"/>
+                <Baseline points="600,596 631,594 663,596 695,594 726,594 758,595 790,594 821,594 853,594 885,595 917,596 948,595 980,594 1012,594 1043,594 1075,594 1107,594 1138,594 1170,594 1202,594 1234,596"/>
+                <TextEquiv>
+                    <Unicode>KUNSTVEREIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:2;}">
+                <Coords points="645,693 718,705 949,678 1174,704 1175,616 1141,608 646,616"/>
+                <Baseline points="650,674 676,673 702,674 728,674 755,674 781,676 807,675 833,674 860,675 886,675 912,674 1176,673"/>
+                <TextEquiv>
+                    <Unicode>II2Te AUS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:3;}">
+                <Coords points="745,799 822,774 990,770 1065,782 1104,768 1105,689 948,679 900,694 887,684 746,691"/>
+                <Baseline points="750,763 776,760 801,760 827,760 852,760 877,760 903,760 928,760 954,760 979,760 1004,758 1030,758 1055,756 1081,755 1106,759"/>
+                <TextEquiv>
+                    <Unicode>5TELLUNG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:4;}">
+                <Coords points="837,873 891,857 900,857 917,873 945,862 955,869 991,871 994,770 950,777 935,770 908,778 901,771 870,771 860,779 840,775"/>
+                <Baseline points="843,851 890,845 916,845 942,844 968,844 994,844"/>
+                <TextEquiv>
+                    <Unicode>1912</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_92" custom="readingOrder {index:5;}">
+                <Coords points="729,2192 856,2178 943,2194 990,2180 1018,2192 1100,2186 1094,2132 729,2132"/>
+                <Baseline points="734,2170 760,2170 786,2170 812,2170 839,2170 865,2170 891,2170 918,2170 944,2170 970,2170 996,2170 1023,2169 1049,2168 1075,2168 1102,2168"/>
+                <TextEquiv>
+                    <Unicode>JASCHEEFTLEINI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

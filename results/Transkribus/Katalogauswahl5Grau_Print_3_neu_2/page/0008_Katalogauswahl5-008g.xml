@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:08</Creator>
+        <Created>2024-01-01T21:17:24.644+01:00</Created>
+        <LastChange>2024-01-11T10:01:01.503+01:00</LastChange>
+        <TranskribusMetadata docId="1738836" pageId="63170185" pageNr="8" tsid="144925733" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=YXSPYEQCITIIAEGWMBMHAUQM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KAHVCFIUIHDFPWIKWZBIVBHW" imageId="50952235"/>
+    </Metadata>
+    <Page imageFilename="0008_Katalogauswahl5-008g.jpg" imageWidth="1821" imageHeight="2275">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574308247" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="249,240 249,2274 1571,2274 1571,240"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="856,281 898,278 897,263 855,266"/>
+                <Baseline points="856,281 898,278"/>
+                <TextEquiv>
+                    <Unicode> 33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:1;}">
+                <Coords points="378,401 1446,394 1447,309 1395,283 1293,368 1168,372 700,279 380,276"/>
+                <Baseline points="386,388 437,386 489,386 541,386 593,384 645,384 696,384 748,381 800,382 852,382 904,382 955,382 1007,382 1059,380 1111,380 1163,380 1214,382 1266,380 1312,374 1360,375 1394,375 1419,375 1447,374"/>
+                <TextEquiv>
+                    <Unicode>307. Schädelstilleben. Ol.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_250" custom="readingOrder {index:2;}">
+                <Coords points="370,474 811,490 1089,442 1168,483 1422,490 1423,402 1362,389 1018,434 372,406"/>
+                <Baseline points="379,450 430,448 482,448 534,448 586,446 638,446 689,446 741,443 793,444 845,444 897,444 948,444 1000,444 1052,442 1104,442 1156,442 1207,444 1259,442 1308,438 1336,437 1359,436 1393,437 1426,437"/>
+                <TextEquiv>
+                    <Unicode>308. Im Schneesturm. Skizze in Ol.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="324,592 450,560 928,567 1123,601 1156,592 1158,491 325,504"/>
+                <Baseline points="331,553 372,553 413,553 455,551 496,551 538,551 579,551 620,551 662,551 703,549 745,551 786,550 827,549 869,549 910,549 952,549 993,548 1034,549 1076,547 1117,549 1159,549"/>
+                <TextEquiv>
+                    <Unicode>Karl Wilfert d. J. in Bubentsch-Prag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_293" custom="readingOrder {index:4;}">
+                <Coords points="372,662 1077,617 1412,640 1412,562 1225,608 372,584"/>
+                <Baseline points="379,626 430,624 482,624 534,624 586,622 638,622 689,622 741,619 793,620 845,620 897,620 948,620 1000,620 1052,618 1104,618 1156,618 1207,620 1259,618 1311,618 1363,618 1415,618"/>
+                <TextEquiv>
+                    <Unicode>309. Weib und Schlange. Zinn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="372,808 1412,814 1412,742 1302,714 1196,755 1061,725 639,753 526,713 372,741"/>
+                <Baseline points="379,791 430,789 482,789 534,789 586,787 638,787 689,787 741,784 793,785 845,785 897,785 948,785 1000,785 1052,783 1102,785 1150,786 1195,788 1231,785 1278,786 1311,783 1363,783 1415,783"/>
+                <TextEquiv>
+                    <Unicode>310 und 311. Reiterstatuetten aus Bronze. Japanische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="478,877 863,862 1008,903 1410,868 1410,814 1313,803 478,814"/>
+                <Baseline points="485,853 531,852 577,851 624,851 670,851 717,851 763,849 809,849 856,849 902,849 949,849 995,849 1041,848 1088,847 1134,847 1181,847 1227,847 1273,847 1320,847 1366,847 1413,847"/>
+                <TextEquiv>
+                    <Unicode>Räucherpfannen aus dem 16. Jahrhunderte. (Lanze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="474,929 721,944 773,927 802,940 875,932 876,879 816,887 774,868 743,888 712,875 641,888 613,872 588,885 475,879"/>
+                <Baseline points="483,917 509,915 535,915 562,914 588,914 615,914 641,913 667,913 694,913 720,913 747,913 773,913 799,913 826,913 852,914 879,917"/>
+                <TextEquiv>
+                    <Unicode>eines Reiters ersetzt.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:8;}">
+                <Coords points="475,989 524,1006 596,990 669,990 692,1006 730,984 798,982 919,997 919,936 527,944 475,929"/>
+                <Baseline points="483,973 508,971 534,971 560,971 586,971 611,971 637,971 663,971 689,970 714,969 740,969 766,969 792,969 817,969 843,969 869,969 895,969 921,971"/>
+                <TextEquiv>
+                    <Unicode>Unverkäuflicher Privatbesitz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

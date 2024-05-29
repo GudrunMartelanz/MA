@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_18:56</Creator>
+        <Created>2024-01-01T21:17:24.188+01:00</Created>
+        <LastChange>2024-01-09T18:56:44.088+01:00</LastChange>
+        <TranskribusMetadata docId="1738699" pageId="63169466" pageNr="3" tsid="144695487" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=IKPHVHKSTMPIVZLIQLJBVFDB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WTCTHCWZDHPMKAHZTPCERNCL" imageId="50952230"/>
+    </Metadata>
+    <Page imageFilename="0003_Katalogauswahl5-003g.jpg" imageWidth="1815" imageHeight="2272">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574308063" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="252,553 252,2271 1572,2271 1564,550"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="522,661 897,677 988,649 1218,677 1327,654 1327,572 1284,559 814,581 609,545 522,571"/>
+                <Baseline points="528,636 568,636 608,636 648,636 688,638 728,638 768,638 808,638 848,638 888,638 929,636 969,637 1009,636 1049,636 1089,636 1129,634 1169,634 1209,634 1249,634 1289,636 1330,636"/>
+                <TextEquiv>
+                    <Unicode>AUSSTELLUNGS-AUSSCHUSS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="845,751 864,752 873,759 940,751 950,762 967,757 976,762 981,756 994,757 994,710 984,711 972,701 953,706 940,694 914,685 894,692 881,679 857,695 844,690"/>
+                <Baseline points="852,734 880,734 909,734 938,734 967,734 996,736"/>
+                <TextEquiv>
+                    <Unicode>Obmann:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="470,839 921,816 1038,843 1095,824 1095,760 1055,748 470,751"/>
+                <Baseline points="476,800 507,795 538,795 569,796 600,796 631,795 662,794 693,795 724,795 755,794 787,794 818,794 849,795 880,795 911,794 942,796 973,794 1004,794 1035,794 1066,794 1098,796"/>
+                <TextEquiv>
+                    <Unicode>Professor Alfred von Schrötter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="839,917 854,919 859,913 875,920 896,910 912,918 956,905 970,906 981,917 995,912 1006,918 1005,843 924,836 896,862 837,848"/>
+                <Baseline points="844,886 871,886 898,886 926,886 953,886 980,886 1008,888"/>
+                <TextEquiv>
+                    <Unicode>Mitglieder:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="473,953 647,968 851,957 851,903 803,901 780,885 717,906 619,895 525,912 473,899"/>
+                <Baseline points="480,948 506,946 533,946 560,946 586,946 613,946 640,946 667,946 693,946 720,948 747,946 773,946 800,946 827,947 854,950"/>
+                <TextEquiv>
+                    <Unicode>Carl Berger, Maler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="473,1011 1372,1033 1372,958 1260,935 473,960"/>
+                <Baseline points="480,992 524,992 569,992 614,992 658,992 703,992 748,992 792,991 837,992 882,990 927,990 971,990 1016,990 1061,990 1105,990 1150,989 1195,990 1239,991 1284,992 1329,993 1374,996"/>
+                <TextEquiv>
+                    <Unicode>Dr. ing. Leopold Cerny, Landes-Oberingenieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="470,1063 924,1064 924,1012 894,1005 854,1019 829,1004 731,1020 470,1011"/>
+                <Baseline points="476,1048 501,1046 526,1045 551,1044 576,1044 601,1044 626,1044 651,1044 676,1045 701,1046 726,1045 751,1044 776,1044 801,1044 826,1044 851,1044 876,1044 901,1044 926,1046"/>
+                <TextEquiv>
+                    <Unicode>Adolf Fizia, Apotheker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="470,1113 1319,1118 1319,1056 470,1063"/>
+                <Baseline points="476,1098 518,1097 560,1096 602,1098 644,1098 687,1098 729,1098 771,1098 813,1098 855,1097 898,1096 940,1097 982,1098 1024,1097 1066,1097 1109,1096 1151,1096 1193,1098 1235,1097 1277,1098 1320,1102"/>
+                <TextEquiv>
+                    <Unicode>Dr. Othmar Mallitsch, städt. Polizeidirektor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="465,1175 1369,1182 1369,1122 1326,1115 465,1113"/>
+                <Baseline points="472,1152 517,1150 562,1150 607,1150 652,1150 697,1150 742,1150 787,1150 832,1150 877,1151 922,1150 967,1150 1012,1150 1057,1151 1102,1150 1147,1150 1192,1150 1237,1152 1282,1154 1327,1155 1372,1158"/>
+                <TextEquiv>
+                    <Unicode>Dr. Wilhelm Suida, Universitäts-Professor und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="522,1220 983,1218 1035,1233 1035,1184 995,1168 522,1171"/>
+                <Baseline points="528,1204 553,1204 579,1204 604,1204 630,1204 655,1204 681,1204 706,1204 732,1204 757,1204 783,1204 808,1204 834,1204 859,1204 885,1204 910,1205 936,1205 961,1204 987,1204 1012,1205 1038,1208"/>
+                <TextEquiv>
+                    <Unicode>Vorstand der Landesgalerie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="465,1296 1389,1292 1389,1226 1303,1205 1025,1235 465,1214"/>
+                <Baseline points="472,1260 517,1259 562,1258 607,1258 652,1258 697,1258 742,1258 787,1258 832,1260 877,1259 922,1258 967,1259 1012,1258 1057,1258 1102,1258 1147,1258 1192,1258 1237,1259 1282,1260 1327,1262 1355,1266 1390,1262"/>
+                <TextEquiv>
+                    <Unicode>Dr. Emil Uranitsch, Hof- und Gerichtsadvokat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="729,1381 803,1360 908,1376 1133,1358 1123,1300 1071,1312 1025,1298 999,1314 965,1292 916,1315 875,1299 790,1299 729,1319"/>
+                <Baseline points="736,1350 762,1348 789,1348 816,1348 842,1348 869,1348 896,1348 923,1348 949,1348 976,1348 1003,1348 1029,1347 1056,1346 1083,1348 1111,1350 1135,1348"/>
+                <TextEquiv>
+                    <Unicode>Ausstellungs-Kommissär:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="464,1439 1103,1452 1095,1370 464,1365"/>
+                <Baseline points="470,1412 501,1408 533,1408 565,1408 597,1408 629,1408 660,1408 692,1408 724,1409 756,1409 788,1408 819,1408 851,1408 883,1408 915,1408 947,1408 978,1408 1010,1408 1042,1408 1074,1409 1106,1412"/>
+                <TextEquiv>
+                    <Unicode>Dr. Walther von Semetkowski.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
