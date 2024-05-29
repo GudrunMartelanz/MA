@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_19:02</Creator>
+        <Created>2024-01-01T21:11:40.012+01:00</Created>
+        <LastChange>2024-01-09T19:02:46.023+01:00</LastChange>
+        <TranskribusMetadata docId="1738692" pageId="63169393" pageNr="1" tsid="144696429" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=OVAFHRRZZTDXKPEOAVGNIBNR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WMWTUJXBRHEPCARHUDRCAANF" imageId="50952161"/>
+    </Metadata>
+    <Page imageFilename="0001_Katalogauswahl2-001.jpg" imageWidth="1282" imageHeight="1967">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574824374" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="125,34 125,1966 1125,1966 1125,34"/>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:0;}">
+                <Coords points="136,1605 1122,1612 1122,1533 1062,1524 136,1515"/>
+                <Baseline points="143,1595 192,1591 241,1591 290,1591 339,1591 388,1591 437,1591 486,1593 535,1593 584,1593 634,1594 683,1595 732,1595 781,1595 830,1595 879,1595 928,1594 977,1595 1026,1589 1075,1585 1125,1583"/>
+                <TextEquiv>
+                    <Unicode>FRVHJAHRSAVSSTELIVNG 1906</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:1;}">
+                <Coords points="318,1660 934,1672 934,1611 897,1604 318,1607"/>
+                <Baseline points="325,1653 355,1653 386,1655 416,1653 447,1653 478,1653 508,1653 539,1653 569,1653 600,1653 631,1653 661,1653 692,1653 722,1653 753,1654 784,1655 814,1655 845,1655 875,1655 906,1655 937,1655"/>
+                <TextEquiv>
+                    <Unicode>DES STEIERMARKISGEN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:2;}">
+                <Coords points="172,1832 1118,1827 1116,1640 930,1676 170,1658"/>
+                <Baseline points="177,1769 218,1771 259,1771 300,1771 342,1772 383,1773 424,1773 466,1773 507,1775 548,1777 590,1775 631,1773 672,1775 713,1775 755,1775 796,1775 837,1777 879,1777 920,1777 961,1777 1121,1785"/>
+                <TextEquiv>
+                    <Unicode>KVNSTVEREINES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

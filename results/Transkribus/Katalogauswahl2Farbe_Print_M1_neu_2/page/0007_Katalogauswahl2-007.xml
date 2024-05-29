@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_19:02</Creator>
+        <Created>2024-01-01T21:11:40.612+01:00</Created>
+        <LastChange>2024-01-09T19:02:47.199+01:00</LastChange>
+        <TranskribusMetadata docId="1738692" pageId="63169402" pageNr="7" tsid="144696435" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=DQSSEXAOXEJDDWEKFRUPGYCE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GUUSGLWZWPDVXIRSKQOUVTLX" imageId="50952167"/>
+    </Metadata>
+    <Page imageFilename="0007_Katalogauswahl2-007.jpg" imageWidth="1256" imageHeight="1961">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574826227" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="140,175 140,1960 1010,1960 1010,175"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="138,237 210,233 252,210 317,233 411,224 411,163 384,155 303,168 277,158 250,179 223,163 138,161"/>
+                <Baseline points="144,206 171,206 198,206 225,206 252,206 279,205 306,205 333,206 360,206 387,206 414,206"/>
+                <TextEquiv>
+                    <Unicode>Fritz Pontini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="183,309 265,281 503,301 721,285 835,310 819,213 673,235 437,216 412,237 183,234"/>
+                <Baseline points="188,270 220,268 253,268 285,268 318,268 350,268 383,268 415,268 448,268 480,268 513,268 545,266 578,266 610,266 643,266 675,268 708,267 740,268 773,268 805,268 838,270"/>
+                <TextEquiv>
+                    <Unicode>156 bis 162. Belvedere-Mappe (7 Ra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="271,340 1034,349 1035,278 990,271 812,320 603,300 525,323 426,289 272,310"/>
+                <Baseline points="276,331 300,333 341,333 382,333 423,333 463,333 504,333 545,333 586,333 627,331 667,331 708,331 749,331 790,331 831,331 871,331 912,331 953,333 994,333 1035,335"/>
+                <TextEquiv>
+                    <Unicode>dierungen) 240 K</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="183,431 280,409 379,446 548,409 843,413 843,350 769,343 639,341 554,370 445,349 367,376 323,350 284,371 183,354"/>
+                <Baseline points="188,394 220,394 253,394 286,394 319,394 352,394 384,394 417,394 450,394 483,394 516,394 548,394 581,394 614,394 647,392 679,392 712,392 745,392 778,392 811,394 844,400"/>
+                <TextEquiv>
+                    <Unicode>163. Am Plönlein in Rothenburg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="748,488 773,490 793,472 843,481 862,464 884,480 943,475 1014,488 1012,435 988,436 950,403 914,419 745,413"/>
+                <Baseline points="752,456 777,456 802,456 827,456 852,457 878,460 903,458 928,458 953,461 978,464 995,464 1015,464"/>
+                <TextEquiv>
+                    <Unicode>F.-Z. 100 „</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_493" custom="readingOrder {index:5;}">
+                <Coords points="184,548 539,569 713,523 801,553 1000,545 1000,493 943,475 862,495 792,472 710,506 628,468 184,474"/>
+                <Baseline points="189,521 229,522 270,521 311,521 352,521 393,521 433,521 474,521 515,521 556,521 597,519 637,519 678,519 719,519 760,519 801,519 841,519 882,519 923,521 964,521 992,523 1003,523"/>
+                <TextEquiv>
+                    <Unicode>164. Im Hafen von Riva P. 120 ,,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="136,630 489,625 489,577 466,580 440,561 385,572 305,560 272,581 221,559 186,572 136,559"/>
+                <Baseline points="142,610 167,610 192,610 217,610 242,610 267,610 292,610 317,610 342,610 367,610 392,610 417,610 442,610 467,610 492,612"/>
+                <TextEquiv>
+                    <Unicode>Sascha Schneider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_536" custom="readingOrder {index:7;}">
+                <Coords points="184,691 547,700 780,668 1004,695 1004,615 924,601 829,608 737,662 597,662 546,621 184,630"/>
+                <Baseline points="189,671 229,672 270,671 311,671 352,671 393,671 433,671 474,671 515,671 556,671 597,669 637,669 678,669 719,669 760,669 801,669 841,669 882,669 923,671 964,671 1005,673"/>
+                <TextEquiv>
+                    <Unicode>165. Weiblicher Akt Z. 175 M</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_579" custom="readingOrder {index:8;}">
+                <Coords points="178,755 585,766 631,735 773,734 1006,769 1006,714 933,694 728,727 578,688 178,701"/>
+                <Baseline points="183,736 223,737 264,736 305,736 346,736 387,736 427,736 468,736 509,736 550,736 591,734 631,734 672,734 713,734 754,734 795,734 835,734 876,734 917,736 940,734 977,738 1002,738 1008,738"/>
+                <TextEquiv>
+                    <Unicode>166. Antiker Wettlauf Z. 300 ,,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_622" custom="readingOrder {index:9;}">
+                <Coords points="176,820 1003,821 1003,770 948,752 853,777 756,753 692,792 545,752 176,758"/>
+                <Baseline points="181,802 221,803 262,802 303,802 344,802 385,802 425,802 466,802 507,802 548,802 589,800 629,800 670,800 711,800 752,800 793,800 833,800 874,800 915,802 942,800 977,801 990,803 1005,803"/>
+                <TextEquiv>
+                    <Unicode>167. Männlicher Akt K.-Z. 150 „,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_665" custom="readingOrder {index:10;}">
+                <Coords points="182,880 999,881 999,821 912,808 733,852 628,806 488,833 182,823"/>
+                <Baseline points="187,863 227,864 268,863 309,863 350,863 391,863 431,863 472,863 513,863 554,863 595,861 635,861 676,861 717,861 758,861 799,861 839,861 880,861 921,863 949,860 971,863 990,863 1002,865"/>
+                <TextEquiv>
+                    <Unicode>168. Männliche Aktstudie Z. 200 „,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_708" custom="readingOrder {index:11;}">
+                <Coords points="181,943 587,948 697,921 1000,947 1002,883 766,871 624,913 547,881 182,879"/>
+                <Baseline points="187,922 227,923 268,922 309,922 350,922 391,922 431,922 472,922 513,922 554,922 595,920 635,920 676,920 717,920 758,920 799,920 839,920 880,920 921,922 962,922 988,925 1003,924"/>
+                <TextEquiv>
+                    <Unicode>169. Männlicher Akt K.-Z. 175,,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_751" custom="readingOrder {index:12;}">
+                <Coords points="180,1003 316,1028 362,1000 999,1011 999,945 956,940 180,949"/>
+                <Baseline points="185,989 225,990 266,989 307,989 348,989 389,989 429,989 470,989 511,989 552,989 593,987 633,987 674,987 715,987 756,987 797,987 837,987 878,987 919,989 960,989 1001,991"/>
+                <TextEquiv>
+                    <Unicode>170. Männliche Aktstudie Z. unverk.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:13;}">
+                <Coords points="134,1104 218,1113 278,1111 295,1098 348,1109 368,1097 400,1110 449,1107 449,1048 408,1048 335,1022 311,1037 185,1040 165,1029 147,1047 134,1041"/>
+                <Baseline points="140,1086 166,1084 192,1084 218,1084 244,1084 270,1084 296,1084 322,1084 348,1084 374,1084 400,1084 426,1084 452,1086"/>
+                <TextEquiv>
+                    <Unicode>August Brömse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_794" custom="readingOrder {index:14;}">
+                <Coords points="173,1177 389,1173 427,1152 560,1180 601,1147 756,1146 851,1173 851,1105 818,1094 746,1139 582,1135 484,1098 329,1121 173,1109"/>
+                <Baseline points="179,1149 219,1150 260,1149 301,1149 342,1149 383,1149 423,1149 464,1149 505,1149 546,1149 587,1147 627,1147 668,1147 709,1147 750,1147 791,1147 831,1147 853,1146"/>
+                <TextEquiv>
+                    <Unicode>171. In den Birken R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_837" custom="readingOrder {index:15;}">
+                <Coords points="164,1238 551,1208 848,1231 848,1178 800,1156 722,1201 422,1198 368,1162 164,1180"/>
+                <Baseline points="170,1209 210,1210 251,1209 292,1209 333,1209 374,1209 414,1209 455,1209 496,1209 537,1209 578,1207 618,1207 659,1207 700,1207 741,1207 782,1207 822,1207 850,1208"/>
+                <TextEquiv>
+                    <Unicode>172. Faune R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_880" custom="readingOrder {index:16;}">
+                <Coords points="169,1304 300,1278 515,1297 563,1272 851,1292 851,1230 823,1226 740,1260 567,1260 474,1208 402,1234 169,1238"/>
+                <Baseline points="175,1274 215,1275 246,1273 269,1274 297,1274 338,1274 379,1274 419,1274 460,1274 501,1274 542,1274 583,1272 623,1272 664,1272 705,1272 746,1272 787,1272 827,1272 853,1273"/>
+                <TextEquiv>
+                    <Unicode>172a. Der Mönch R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_923" custom="readingOrder {index:17;}">
+                <Coords points="169,1358 213,1377 296,1353 595,1373 756,1333 847,1369 847,1308 811,1288 725,1327 568,1274 428,1311 169,1304"/>
+                <Baseline points="175,1335 215,1336 248,1336 270,1335 297,1335 338,1335 379,1335 419,1335 460,1335 501,1335 542,1335 583,1333 623,1333 663,1334 705,1333 746,1333 787,1333 827,1333 849,1333"/>
+                <TextEquiv>
+                    <Unicode>172b. Ruine einer Mühle R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:18;}">
+                <Coords points="188,1444 1008,1454 994,1368 656,1361 539,1395 188,1375"/>
+                <Baseline points="194,1424 234,1425 275,1424 316,1424 357,1424 398,1424 438,1424 479,1424 520,1424 561,1424 602,1422 642,1422 683,1422 724,1422 765,1422 806,1422 846,1422 887,1422 928,1424 969,1424 1010,1426"/>
+                <TextEquiv>
+                    <Unicode>Cyklus: Das Mädchen und der Tod (14 Blatt)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_966" custom="readingOrder {index:19;}">
+                <Coords points="158,1493 266,1520 572,1489 855,1514 849,1442 628,1483 440,1481 360,1440 158,1458"/>
+                <Baseline points="164,1491 204,1492 245,1491 286,1491 327,1491 368,1491 408,1491 449,1491 490,1491 531,1491 572,1489 612,1489 653,1489 694,1489 735,1489 776,1489 816,1489 857,1489"/>
+                <TextEquiv>
+                    <Unicode>173. Liebe R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1009" custom="readingOrder {index:20;}">
+                <Coords points="153,1569 387,1581 674,1547 830,1575 851,1520 807,1501 765,1532 726,1514 631,1533 562,1497 154,1516"/>
+                <Baseline points="160,1548 200,1549 241,1548 282,1548 323,1548 364,1548 404,1548 445,1548 486,1548 527,1548 568,1546 608,1546 649,1546 690,1546 731,1546 772,1546 812,1546 853,1546"/>
+                <TextEquiv>
+                    <Unicode>174. Es fiel ein Reif R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_455" custom="readingOrder {index:21;}">
+                <Coords points="177,1653 275,1637 479,1662 558,1640 613,1661 758,1613 809,1652 857,1651 857,1569 770,1602 670,1560 531,1584 177,1577"/>
+                <Baseline points="182,1615 231,1615 264,1614 305,1614 346,1614 386,1614 427,1614 468,1614 509,1614 550,1612 590,1612 631,1612 672,1612 713,1612 754,1612 794,1612 835,1612 860,1613"/>
+                <TextEquiv>
+                    <Unicode>175. Ein verlornes Paradies R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1095" custom="readingOrder {index:22;}">
+                <Coords points="853,1724 859,1724 863,1719 876,1721 884,1714 894,1718 900,1717 896,1647 884,1648 882,1651 873,1646 866,1648 848,1646"/>
+                <Baseline points="856,1688 883,1689 902,1691"/>
+                <TextEquiv>
+                    <Unicode>23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
