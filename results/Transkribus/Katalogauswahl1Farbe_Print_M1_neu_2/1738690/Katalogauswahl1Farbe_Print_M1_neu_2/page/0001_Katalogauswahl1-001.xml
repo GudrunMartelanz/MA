@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_19:03</Creator>
+        <Created>2024-01-01T21:09:29.321+01:00</Created>
+        <LastChange>2024-01-09T19:03:10.062+01:00</LastChange>
+        <TranskribusMetadata docId="1738690" pageId="63169370" pageNr="1" tsid="144696468" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=RBPRSQRCZRKRVYVAHMSVYYPG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SWYZZKBQOYRGUHRANNIYAVWB" imageId="50952147"/>
+    </Metadata>
+    <Page imageFilename="0001_Katalogauswahl1-001.jpg" imageWidth="1514" imageHeight="2128">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716575009115" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="110,74 110,2127 1418,2127 1418,74"/>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="431,1474 1164,1471 1206,1462 1207,1328 805,1325 673,1256 563,1322 432,1275"/>
+                <Baseline points="438,1470 466,1470 495,1471 524,1471 553,1468 582,1466 610,1466 639,1467 668,1467 697,1466 726,1465 754,1465 783,1468 812,1468 841,1466 870,1467 898,1459 927,1462 956,1464 985,1462 1022,1464 1065,1469 1108,1471 1157,1467 1209,1463"/>
+                <TextEquiv>
+                    <Unicode>OIDNGCS-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:1;}">
+                <Coords points="797,1562 942,1563 983,1549 1183,1582 1182,1483 984,1489 903,1477 796,1494"/>
+                <Baseline points="802,1546 827,1544 852,1542 878,1540 903,1540 929,1540 954,1540 980,1540 1005,1542 1031,1542 1056,1542 1082,1543 1107,1544 1133,1544 1158,1544 1184,1544"/>
+                <TextEquiv>
+                    <Unicode>HVSSCGLINDC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:2;}">
+                <Coords points="960,1640 1011,1633 1029,1622 1066,1632 1067,1558 1045,1555 1021,1559 1003,1551 994,1556 983,1549 976,1556 961,1556"/>
+                <Baseline points="968,1582 993,1581 1019,1581 1044,1580 1070,1580"/>
+                <TextEquiv>
+                    <Unicode>1992.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:3;}">
+                <Coords points="314,1825 612,1779 754,1813 840,1783 1270,1804 1269,1694 1201,1681 386,1676 313,1713"/>
+                <Baseline points="320,1750 367,1751 415,1752 462,1751 510,1751 558,1752 605,1752 653,1754 700,1752 748,1752 796,1754 843,1754 891,1754 938,1756 986,1756 1034,1757 1081,1757 1129,1758 1176,1758 1224,1758 1272,1760"/>
+                <TextEquiv>
+                    <Unicode>SCEIER ODRREIS GBER KVDSC Veken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

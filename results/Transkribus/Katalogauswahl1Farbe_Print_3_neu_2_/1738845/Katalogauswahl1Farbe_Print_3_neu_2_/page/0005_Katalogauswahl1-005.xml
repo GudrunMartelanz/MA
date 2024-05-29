@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=36202:lm=none:date=09_01_2024_19:22</Creator>
+        <Created>2024-01-01T21:09:29.709+01:00</Created>
+        <LastChange>2024-01-09T19:22:37.439+01:00</LastChange>
+        <TranskribusMetadata docId="1738845" pageId="63170261" pageNr="5" tsid="144699912" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=PRSXOQRUUXDOVMNKXKUJHRSD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JYZGWEYBKRYXBWPNNYIUVTZC" imageId="50952151"/>
+    </Metadata>
+    <Page imageFilename="0005_Katalogauswahl1-005.jpg" imageWidth="1515" imageHeight="2126">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716575010653" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="96,178 96,2125 1420,2125 1420,178"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="261,237 453,219 493,240 579,219 780,227 780,176 699,158 647,176 482,148 433,175 261,150"/>
+                <Baseline points="266,208 291,208 317,208 343,207 369,207 395,208 420,207 446,204 472,206 498,206 524,206 549,206 575,206 601,206 627,206 653,208 678,207 704,207 730,208 756,209 782,210"/>
+                <TextEquiv>
+                    <Unicode>Schrötter Alfred von, Graz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="327,281 367,290 386,279 428,297 478,280 704,296 704,225 625,237 533,224 491,242 437,225 327,230"/>
+                <Baseline points="332,270 358,270 385,268 412,268 438,268 465,268 492,268 519,268 545,268 572,268 599,268 625,268 652,269 679,270 706,272"/>
+                <TextEquiv>
+                    <Unicode>12 Winterlandschaft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="327,345 369,352 394,340 443,356 489,342 525,354 549,340 598,354 598,286 517,295 476,283 433,297 327,283"/>
+                <Baseline points="332,324 358,324 385,322 412,322 439,322 466,322 492,322 519,322 546,322 573,324 600,326"/>
+                <TextEquiv>
+                    <Unicode>13 Landschaft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="259,410 686,413 686,361 633,348 588,362 533,352 514,368 392,343 313,363 259,347"/>
+                <Baseline points="264,396 290,395 317,394 343,394 370,393 396,392 423,392 449,394 476,394 502,392 529,393 555,394 582,394 608,394 635,394 661,394 688,394"/>
+                <TextEquiv>
+                    <Unicode>Stuck Franz, München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="329,466 1024,479 1008,395 977,414 329,410"/>
+                <Baseline points="334,450 368,448 403,446 437,446 472,446 507,446 541,448 576,446 610,446 645,448 680,448 714,448 749,448 783,448 818,448 853,448 887,448 922,448 956,448 991,448 1026,448"/>
+                <TextEquiv>
+                    <Unicode>14 Porträt des Fräulein Fritzi Scheff.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="259,537 312,554 338,532 405,529 748,543 748,485 727,478 631,488 593,472 476,493 443,471 259,479"/>
+                <Baseline points="264,520 289,519 315,518 340,517 366,516 391,518 417,516 443,518 468,517 494,517 519,518 545,518 570,516 596,518 622,518 647,518 673,518 698,518 724,518 750,518"/>
+                <TextEquiv>
+                    <Unicode>Uhde Fritz von, München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="327,591 386,593 406,581 474,598 567,588 658,600 658,548 648,546 528,531 496,541 327,535"/>
+                <Baseline points="332,572 357,572 382,571 407,571 432,572 458,572 483,572 508,570 533,571 559,572 584,572 609,572 634,572 660,572"/>
+                <TextEquiv>
+                    <Unicode>15 Meine Töchter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="329,652 442,645 470,664 526,645 526,591 476,599 460,592 432,596 407,584 386,593 377,587 329,593"/>
+                <Baseline points="334,626 361,625 389,624 417,625 444,626 472,626 500,626 528,624"/>
+                <TextEquiv>
+                    <Unicode>16 Porträt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="255,717 520,708 630,731 736,719 736,662 673,651 255,661"/>
+                <Baseline points="260,698 285,698 310,698 335,697 360,695 385,694 410,696 436,696 461,696 486,696 511,697 536,698 561,696 587,698 612,698 637,698 662,698 687,698 712,698 738,698"/>
+                <TextEquiv>
+                    <Unicode>Zügel Heinrich, München.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="327,782 354,787 385,769 403,770 421,788 442,774 471,782 482,775 496,784 519,772 543,785 544,715 488,712 443,724 430,712 384,719 344,711 327,720"/>
+                <Baseline points="332,752 358,752 385,751 412,750 439,750 465,750 492,750 519,750 546,750"/>
+                <TextEquiv>
+                    <Unicode>17 Tierbild.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="743,1827 757,1827 767,1836 772,1835 781,1840 787,1840 797,1830 802,1830 804,1762 795,1762 787,1757 774,1767 766,1766 761,1761 754,1768 745,1769"/>
+                <Baseline points="749,1810 777,1808 804,1808"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
