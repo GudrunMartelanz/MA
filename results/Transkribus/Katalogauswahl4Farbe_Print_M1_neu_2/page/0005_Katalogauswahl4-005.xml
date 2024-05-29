@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_19:00</Creator>
+        <Created>2024-01-01T21:14:28.853+01:00</Created>
+        <LastChange>2024-01-09T19:00:06.914+01:00</LastChange>
+        <TranskribusMetadata docId="1738696" pageId="63169438" pageNr="5" tsid="144696000" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=ZREVWHEMVEMAPHEHAUZSVMOR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NCNYMGCMARUXEHEIHAQOGCTS" imageId="50952198"/>
+    </Metadata>
+    <Page imageFilename="0005_Katalogauswahl4-005.jpg" imageWidth="1554" imageHeight="2205">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574547291" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="115,161 120,2204 1436,2204 1455,154"/>
+            <TextLine id="l_779" custom="readingOrder {index:0;}">
+                <Coords points="822,308 828,308 833,304 840,312 855,311 863,223 853,225 849,220 842,227 837,219 830,219"/>
+                <Baseline points="832,273 862,270"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="321,416 457,397 506,410 542,398 560,415 599,397 658,408 658,344 610,347 560,328 482,358 422,342 402,353 356,324 321,333"/>
+                <Baseline points="328,386 353,386 379,386 404,386 430,386 455,386 481,384 506,384 532,384 557,385 583,386 608,385 634,384 660,386"/>
+                <TextEquiv>
+                    <Unicode>Paula von Stach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="385,480 1055,443 1370,488 1371,361 1269,430 810,430 693,391 386,416"/>
+                <Baseline points="393,455 441,453 507,451 572,451 638,449 704,448 770,447 836,447 901,445 967,445 1033,443 1099,445 1165,445 1230,445 1296,445 1334,444 1357,445 1374,443"/>
+                <TextEquiv>
+                    <Unicode>12. Rote Tulpen 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="319,557 467,540 829,556 830,483 773,475 321,487"/>
+                <Baseline points="326,530 351,528 376,528 401,529 427,529 452,528 477,528 503,528 528,528 553,528 579,528 604,527 629,526 654,528 680,526 705,526 730,526 756,526 781,526 806,526 832,526"/>
+                <TextEquiv>
+                    <Unicode>Gisela Scherling in Wien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_478" custom="readingOrder {index:4;}">
+                <Coords points="402,614 1263,586 1361,633 1371,514 952,516 738,580 402,547"/>
+                <Baseline points="409,592 475,593 541,591 606,591 672,589 738,588 804,587 870,587 935,585 1001,585 1067,583 1133,585 1199,585 1264,585 1293,583 1332,586 1354,586 1374,586"/>
+                <TextEquiv>
+                    <Unicode>13. Interieur Ol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="316,695 884,690 884,631 825,620 316,639"/>
+                <Baseline points="322,674 350,672 378,672 406,672 435,672 463,672 491,670 520,670 548,670 576,670 605,670 633,670 661,670 689,670 718,670 746,670 774,670 803,670 831,670 859,670 888,672"/>
+                <TextEquiv>
+                    <Unicode>Richard Dreher in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_521" custom="readingOrder {index:6;}">
+                <Coords points="385,768 929,767 1112,728 1379,759 1379,690 1329,664 1251,693 385,689"/>
+                <Baseline points="392,737 445,736 511,737 577,735 642,735 708,733 774,732 840,731 906,731 971,729 1037,729 1103,727 1169,729 1235,729 1287,730 1317,731 1341,731 1365,730 1382,729"/>
+                <TextEquiv>
+                    <Unicode>14. Strand mit Badehüte Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="319,843 770,829 842,848 886,829 932,848 932,770 902,754 828,777 698,758 462,783 321,746"/>
+                <Baseline points="326,816 356,816 386,816 417,816 447,814 478,814 508,814 538,814 569,814 599,814 630,814 660,814 690,814 721,814 751,812 782,814 812,812 842,812 873,812 903,812 934,810"/>
+                <TextEquiv>
+                    <Unicode>Cäcilie Graf-Pfaff in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_564" custom="readingOrder {index:8;}">
+                <Coords points="390,899 1375,897 1353,797 838,860 775,829 390,838"/>
+                <Baseline points="397,881 480,879 550,883 612,878 675,879 743,876 809,875 875,874 941,874 1006,872 1072,872 1138,870 1204,872 1270,872 1297,873 1333,874 1358,874 1379,874"/>
+                <TextEquiv>
+                    <Unicode>15. Alter Schloßpark Öi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_607" custom="readingOrder {index:9;}">
+                <Coords points="383,947 1379,959 1379,894 1335,884 720,927 577,888 383,909"/>
+                <Baseline points="390,939 456,939 522,936 588,937 654,935 719,935 785,933 851,932 917,931 983,931 1048,929 1114,929 1180,927 1246,929 1296,931 1329,931 1359,931 1382,931"/>
+                <TextEquiv>
+                    <Unicode>16. Waldlied Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:10;}">
+                <Coords points="319,1046 450,1041 487,1020 744,1050 800,1028 845,1046 845,957 734,938 617,963 559,949 319,968"/>
+                <Baseline points="326,1018 352,1017 378,1016 404,1016 430,1016 456,1016 482,1016 508,1016 534,1015 560,1014 587,1014 613,1014 639,1014 665,1014 691,1014 717,1014 743,1014 769,1014 795,1014 821,1014 848,1014"/>
+                <TextEquiv>
+                    <Unicode>Robert Weise in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_650" custom="readingOrder {index:11;}">
+                <Coords points="390,1093 1320,1092 1390,1075 1392,1025 1303,1006 1220,1050 1040,1056 972,1023 782,1063 391,1035"/>
+                <Baseline points="396,1080 462,1079 528,1080 594,1078 659,1078 725,1076 791,1075 857,1074 923,1074 988,1072 1054,1072 1120,1070 1186,1072 1252,1072 1292,1070 1318,1069 1343,1069 1366,1069 1393,1072"/>
+                <TextEquiv>
+                    <Unicode>17. Blaue Stunde i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:12;}">
+                <Coords points="467,1141 1359,1165 1349,1085 467,1098"/>
+                <Baseline points="474,1120 518,1120 562,1120 607,1120 651,1119 696,1118 740,1118 784,1118 829,1118 873,1118 918,1118 962,1118 1006,1118 1051,1118 1095,1116 1140,1116 1184,1116 1228,1116 1273,1116 1317,1118 1362,1116"/>
+                <TextEquiv>
+                    <Unicode>Eigentum der Verbindung für historische Kunst in Berlin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:13;}">
+                <Coords points="319,1217 599,1210 684,1247 731,1231 923,1250 941,1162 888,1144 744,1167 519,1166 488,1144 412,1160 390,1142 319,1159"/>
+                <Baseline points="326,1202 356,1199 387,1200 418,1200 449,1200 480,1200 511,1199 542,1198 573,1198 604,1198 635,1198 665,1198 696,1198 727,1196 758,1198 789,1196 820,1196 851,1196 882,1196 913,1196 944,1198"/>
+                <TextEquiv>
+                    <Unicode>E. Buchka-Lenbach in Dachau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_693" custom="readingOrder {index:14;}">
+                <Coords points="376,1285 1140,1255 1280,1259 1345,1300 1380,1284 1382,1209 1343,1190 1268,1250 377,1220"/>
+                <Baseline points="383,1265 449,1264 515,1265 581,1263 646,1263 712,1261 778,1260 844,1259 910,1259 975,1257 1041,1257 1107,1255 1173,1257 1222,1257 1271,1258 1312,1258 1339,1259 1359,1259 1384,1259"/>
+                <TextEquiv>
+                    <Unicode>18. Kiefern Ö1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:15;}">
+                <Coords points="323,1374 589,1353 933,1384 933,1314 877,1296 829,1313 323,1295"/>
+                <Baseline points="330,1344 360,1344 390,1344 420,1342 451,1342 481,1340 511,1342 542,1342 572,1342 602,1342 633,1342 663,1342 693,1342 723,1342 754,1342 784,1342 814,1342 845,1340 875,1340 905,1340 936,1342"/>
+                <TextEquiv>
+                    <Unicode>Cäcilie Graf-Pfaff in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_736" custom="readingOrder {index:16;}">
+                <Coords points="395,1429 686,1440 739,1399 993,1395 1061,1449 1387,1437 1387,1345 1210,1387 395,1369"/>
+                <Baseline points="402,1403 468,1402 534,1403 600,1401 665,1401 731,1399 797,1398 863,1397 929,1397 994,1395 1060,1395 1126,1393 1192,1395 1258,1395 1305,1397 1341,1398 1363,1399 1390,1399"/>
+                <TextEquiv>
+                    <Unicode>19. Landsberg O1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:17;}">
+                <Coords points="323,1500 373,1507 455,1489 502,1503 666,1500 666,1440 521,1443 496,1425 448,1440 413,1430 323,1444"/>
+                <Baseline points="330,1482 356,1482 382,1482 408,1481 434,1480 460,1480 486,1480 512,1480 538,1480 564,1479 590,1478 616,1478 642,1478 668,1480"/>
+                <TextEquiv>
+                    <Unicode>Marie Herberger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:18;}">
+                <Coords points="395,1553 1358,1548 1358,1499 1315,1480 395,1495"/>
+                <Baseline points="402,1536 449,1535 497,1534 545,1534 593,1534 641,1534 689,1533 737,1532 785,1532 833,1532 881,1532 928,1532 976,1532 1024,1530 1072,1531 1120,1530 1168,1530 1216,1530 1264,1530 1312,1530 1360,1532"/>
+                <TextEquiv>
+                    <Unicode>Interieur, Damenzimmer in Zitronenholz mit Palisander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:19;}">
+                <Coords points="400,1599 1356,1594 1345,1543 400,1556"/>
+                <Baseline points="406,1584 453,1582 501,1581 549,1580 596,1580 644,1580 692,1580 739,1580 787,1580 835,1579 883,1578 930,1579 978,1579 1026,1578 1073,1578 1121,1578 1169,1578 1216,1578 1264,1578 1312,1578 1360,1578"/>
+                <TextEquiv>
+                    <Unicode>Ausführende Handwerker und Firmen: Kunsttischler Johann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:20;}">
+                <Coords points="395,1640 1358,1633 1358,1594 1269,1588 395,1598"/>
+                <Baseline points="402,1626 449,1626 497,1626 545,1626 593,1626 641,1624 689,1624 737,1624 785,1624 833,1624 881,1624 928,1624 976,1624 1024,1624 1072,1623 1120,1622 1168,1622 1216,1622 1264,1624 1312,1622 1360,1624"/>
+                <TextEquiv>
+                    <Unicode>Kratzer, Tapezierer Anton Kerschbaumer, Kunstschlosser Brüder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:21;}">
+                <Coords points="395,1683 708,1720 770,1685 888,1721 1354,1718 1355,1643 1305,1636 396,1641"/>
+                <Baseline points="402,1672 449,1671 497,1672 545,1670 593,1670 641,1670 688,1670 736,1670 784,1670 832,1670 880,1670 927,1670 975,1670 1023,1668 1071,1668 1119,1668 1166,1668 1214,1668 1262,1668 1310,1668 1358,1666"/>
+                <TextEquiv>
+                    <Unicode>Kerl, Kunstschlosser Wilhelm Ulama, Teppich: Philipp Haas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:22;}">
+                <Coords points="396,1728 437,1735 443,1728 468,1726 500,1737 514,1728 572,1730 571,1686 537,1693 510,1681 504,1685 492,1675 472,1688 445,1693 395,1683"/>
+                <Baseline points="402,1714 430,1714 459,1714 488,1714 516,1716 545,1716 574,1718"/>
+                <TextEquiv>
+                    <Unicode>und Söhne.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:23;}">
+                <Coords points="391,1787 1366,1794 1366,1736 1247,1713 391,1743"/>
+                <Baseline points="398,1770 446,1768 495,1768 543,1768 592,1770 640,1768 689,1768 737,1768 786,1768 834,1768 883,1768 931,1768 980,1768 1028,1768 1077,1768 1125,1768 1174,1766 1222,1766 1271,1766 1319,1766 1368,1768"/>
+                <TextEquiv>
+                    <Unicode>Radierungen von Karla Pohle in München als Wandschmuck.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=39995:lm=none:date=09_01_2024_19:00</Creator>
+        <Created>2024-01-01T21:14:29.126+01:00</Created>
+        <LastChange>2024-01-09T19:00:07.354+01:00</LastChange>
+        <TranskribusMetadata docId="1738696" pageId="63169441" pageNr="8" tsid="144696003" status="FINAL" userId="58245" imgUrl="https://files.transkribus.eu/Get?id=IIYIFNEQQRSDBUFFJDMXHDDU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IQTYQNIZRAEVQZIHLJAPZLPS" imageId="50952201"/>
+    </Metadata>
+    <Page imageFilename="0008_Katalogauswahl4-008.jpg" imageWidth="1556" imageHeight="2206">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1716574548009" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="116,269 116,2205 1438,2205 1438,269"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="678,324 690,324 694,328 703,321 708,324 712,320 719,324 725,321 740,324 739,252 724,254 719,249 706,256 690,246 676,246"/>
+                <Baseline points="684,302 713,304 743,303"/>
+                <TextEquiv>
+                    <Unicode>19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="177,421 797,423 797,356 727,345 578,362 556,340 463,360 320,341 248,367 177,345"/>
+                <Baseline points="184,404 214,402 245,401 276,401 307,401 338,400 368,399 399,399 430,400 461,400 492,400 522,400 553,400 584,398 615,400 646,398 676,400 707,400 738,400 769,400 800,402"/>
+                <TextEquiv>
+                    <Unicode>Siegfried Laboschin in Breslau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="225,484 1223,494 1223,427 1070,407 813,412 762,446 225,423"/>
+                <Baseline points="232,466 281,464 331,462 380,462 430,464 480,464 529,462 579,464 628,464 678,464 728,464 777,466 827,466 876,465 926,464 976,464 1025,466 1075,468 1124,468 1174,468 1224,468"/>
+                <TextEquiv>
+                    <Unicode>146. Wenn der Hahn kräht Radierung u. Aquatinta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="177,591 293,568 326,587 425,560 473,575 631,572 631,505 600,496 177,525"/>
+                <Baseline points="184,556 209,554 234,554 259,554 284,553 309,552 334,552 359,554 384,554 409,553 434,553 459,554 484,552 509,552 534,553 559,554 584,554 609,554 634,554"/>
+                <TextEquiv>
+                    <Unicode>Karl Felber in Dachau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:4;}">
+                <Coords points="235,648 983,617 1223,654 1229,567 940,608 425,560 233,581"/>
+                <Baseline points="241,618 290,616 340,614 389,614 439,616 489,616 538,614 588,616 637,616 687,616 737,616 786,618 836,618 885,617 935,616 985,616 1034,618 1084,620 1133,620 1183,620 1233,620"/>
+                <TextEquiv>
+                    <Unicode>147. Herbertshausen Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="177,730 426,716 681,732 681,664 642,654 577,660 511,639 480,657 367,659 321,638 277,667 177,655"/>
+                <Baseline points="184,704 209,704 234,704 259,704 284,704 309,704 334,704 359,704 384,704 409,704 434,704 459,704 484,704 509,704 534,704 559,704 584,704 609,704 634,704 659,706 684,710"/>
+                <TextEquiv>
+                    <Unicode>Bruno Héroux in Leipzig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_624" custom="readingOrder {index:6;}">
+                <Coords points="230,791 1005,772 1133,818 1225,806 1225,740 1144,696 967,763 230,726"/>
+                <Baseline points="236,773 285,771 335,769 384,769 434,771 484,771 533,769 583,771 632,771 682,771 732,771 781,773 831,773 880,772 930,771 980,771 1029,773 1079,775 1128,775 1178,775 1228,775"/>
+                <TextEquiv>
+                    <Unicode>148. Exlibris A. Behrsing Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="225,883 663,843 942,879 1100,855 1099,793 798,772 704,804 223,802"/>
+                <Baseline points="230,830 273,830 317,828 360,830 404,830 448,829 491,828 535,828 578,830 622,830 666,829 709,830 753,830 796,830 840,831 884,832 927,830 971,832 1014,834 1058,834 1102,834"/>
+                <TextEquiv>
+                    <Unicode>149. Mühle der Marie Antoniette in Versailles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="1025,900 1041,906 1053,897 1094,911 1103,902 1123,897 1135,904 1146,897 1177,911 1224,915 1221,845 1184,854 1157,830 1135,823 1089,854 1024,851"/>
+                <Baseline points="1032,888 1059,886 1087,886 1115,886 1142,886 1170,887 1198,890 1226,892"/>
+                <TextEquiv>
+                    <Unicode>Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_667" custom="readingOrder {index:9;}">
+                <Coords points="215,962 981,946 1213,977 1213,915 1074,922 957,876 663,879 619,911 215,876"/>
+                <Baseline points="222,947 271,945 321,943 370,943 420,945 470,945 519,943 569,945 618,945 668,945 718,945 767,947 817,947 866,946 916,945 966,945 1015,947 1065,949 1114,949 1164,949 1214,949"/>
+                <TextEquiv>
+                    <Unicode>150. Elfe und Schlange  Lithographie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_710" custom="readingOrder {index:10;}">
+                <Coords points="225,1020 1220,1030 1220,969 781,1003 585,962 225,962"/>
+                <Baseline points="231,1011 280,1009 330,1007 379,1007 429,1009 479,1009 528,1007 578,1009 627,1009 677,1009 727,1009 776,1011 826,1011 875,1010 925,1009 975,1009 1024,1011 1074,1013 1123,1013 1173,1013 1223,1013"/>
+                <TextEquiv>
+                    <Unicode>151. Bauernschänke Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_753" custom="readingOrder {index:11;}">
+                <Coords points="223,1091 1218,1092 1216,1031 1010,1014 859,1065 222,1020"/>
+                <Baseline points="229,1074 278,1072 328,1070 377,1070 427,1072 477,1072 526,1070 576,1072 625,1072 675,1072 725,1072 774,1074 824,1074 873,1073 923,1072 973,1072 1022,1074 1072,1076 1121,1076 1171,1076 1221,1076"/>
+                <TextEquiv>
+                    <Unicode>152. Neckerei Lithographie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_796" custom="readingOrder {index:12;}">
+                <Coords points="227,1152 1223,1169 1223,1103 1183,1096 585,1127 227,1091"/>
+                <Baseline points="234,1140 283,1138 333,1136 382,1136 432,1138 482,1138 531,1136 581,1138 630,1138 680,1138 730,1138 779,1140 829,1140 878,1139 928,1138 978,1138 1027,1140 1077,1142 1126,1142 1176,1142 1226,1142"/>
+                <TextEquiv>
+                    <Unicode>153. Sappho Lithographie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_839" custom="readingOrder {index:13;}">
+                <Coords points="230,1221 771,1198 950,1238 1225,1229 1225,1169 1193,1161 865,1189 230,1161"/>
+                <Baseline points="236,1199 285,1197 335,1195 384,1195 434,1197 484,1197 533,1195 583,1197 632,1197 682,1197 732,1197 781,1199 831,1199 880,1198 930,1197 980,1197 1029,1199 1079,1201 1128,1201 1178,1201 1228,1201"/>
+                <TextEquiv>
+                    <Unicode>154. Thüringer Hof Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_882" custom="readingOrder {index:14;}">
+                <Coords points="220,1272 1215,1278 1180,1216 902,1245 220,1228"/>
+                <Baseline points="226,1255 275,1253 325,1251 374,1251 424,1253 474,1253 523,1251 573,1253 622,1253 672,1253 722,1253 771,1255 821,1255 870,1254 920,1253 970,1253 1019,1255 1069,1257 1118,1257 1168,1257 1218,1257"/>
+                <TextEquiv>
+                    <Unicode>155. Selbstporträt Lithographie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_925" custom="readingOrder {index:15;}">
+                <Coords points="213,1332 634,1357 763,1311 938,1313 1202,1354 1208,1278 212,1272"/>
+                <Baseline points="219,1312 268,1310 318,1308 367,1308 417,1310 467,1310 516,1308 566,1310 615,1310 665,1310 715,1310 764,1312 814,1312 863,1311 913,1310 963,1310 1012,1312 1062,1314 1111,1314 1161,1314 1211,1314"/>
+                <TextEquiv>
+                    <Unicode>156. Glückwunsch 1907 Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_968" custom="readingOrder {index:16;}">
+                <Coords points="227,1394 576,1415 638,1384 971,1384 1223,1415 1223,1358 1025,1334 667,1375 572,1338 227,1338"/>
+                <Baseline points="234,1385 283,1383 333,1381 382,1381 432,1383 482,1383 531,1381 581,1383 630,1383 680,1383 730,1383 779,1385 829,1385 878,1384 928,1383 978,1383 1027,1385 1077,1387 1126,1387 1176,1387 1226,1387"/>
+                <TextEquiv>
+                    <Unicode>157. Elfe mit Kauz Lithographie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1011" custom="readingOrder {index:17;}">
+                <Coords points="225,1466 999,1446 1220,1476 1199,1409 887,1396 679,1435 225,1391"/>
+                <Baseline points="231,1448 280,1446 330,1444 379,1444 429,1446 479,1446 528,1444 578,1446 627,1446 677,1446 727,1446 776,1448 826,1448 875,1447 925,1446 975,1446 1024,1448 1074,1450 1123,1450 1173,1450 1223,1450"/>
+                <TextEquiv>
+                    <Unicode>158. Armenspeisung Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1054" custom="readingOrder {index:18;}">
+                <Coords points="236,1527 945,1513 998,1563 1233,1561 1231,1470 1178,1462 901,1504 236,1461"/>
+                <Baseline points="243,1514 292,1512 342,1510 391,1510 441,1512 491,1512 540,1510 590,1512 639,1512 689,1512 739,1512 788,1514 838,1514 887,1513 937,1512 987,1512 1036,1514 1086,1516 1135,1516 1185,1516 1235,1516"/>
+                <TextEquiv>
+                    <Unicode>159. Ex libris Steinbach Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:19;}">
+                <Coords points="177,1622 257,1589 413,1581 505,1606 638,1594 698,1610 698,1537 633,1525 490,1542 177,1529"/>
+                <Baseline points="184,1572 209,1570 235,1570 261,1570 287,1570 313,1570 338,1570 364,1568 390,1570 416,1570 442,1570 467,1571 493,1571 519,1570 545,1570 571,1570 596,1570 622,1570 648,1571 674,1572 700,1574"/>
+                <TextEquiv>
+                    <Unicode>Eleonore Doelter in Wien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1097" custom="readingOrder {index:20;}">
+                <Coords points="215,1657 699,1674 880,1635 1213,1663 1213,1599 1141,1560 842,1629 416,1581 319,1624 215,1611"/>
+                <Baseline points="222,1636 271,1634 321,1632 370,1632 420,1634 470,1634 519,1632 569,1634 618,1634 668,1634 718,1634 767,1636 817,1636 866,1635 916,1634 966,1634 1015,1636 1065,1638 1114,1638 1164,1638 1214,1638"/>
+                <TextEquiv>
+                    <Unicode>160. Abend in Venedig Holzschnitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:21;}">
+                <Coords points="177,1746 487,1732 663,1758 662,1677 492,1683 468,1663 390,1684 356,1662 302,1683 176,1682"/>
+                <Baseline points="184,1722 209,1722 234,1722 260,1722 285,1722 310,1722 336,1722 361,1722 386,1723 412,1723 437,1723 463,1723 488,1722 513,1724 539,1724 564,1724 589,1724 615,1724 640,1724 666,1724"/>
+                <TextEquiv>
+                    <Unicode>Oskar Graf in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1140" custom="readingOrder {index:22;}">
+                <Coords points="213,1821 739,1791 967,1841 1043,1806 1208,1835 1206,1737 1138,1725 869,1733 793,1784 634,1782 560,1741 212,1750"/>
+                <Baseline points="219,1792 268,1790 318,1788 367,1788 417,1790 467,1790 516,1788 566,1790 615,1790 665,1790 715,1790 764,1792 814,1792 863,1791 913,1790 963,1790 1012,1792 1062,1794 1111,1794 1161,1794 1211,1794"/>
+                <TextEquiv>
+                    <Unicode>161. Moosschwaige Farbige Radierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
